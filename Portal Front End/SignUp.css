@@ -1,0 +1,208 @@
+<style>
+    #f1
+    {
+        font-family: 'Nunito', sans-serif;
+        color: #384047;
+    }
+
+    body{
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    #panel1
+    {
+        padding: 10px 20px;
+        background: #f4f7f8;
+        border-radius: 8px;
+    }
+    .navbar-brand
+    {
+
+    }
+
+    h1
+    {
+        font-family: 'Pacifico', cursive;
+        color: black;
+        font-size: 70;
+        line-height: 1.7;        text-align: center;
+    }
+
+    #f1 input[type="text"],
+    #f1 input[type="password"],
+    #f1 input[type="date"],
+    #f1 input[type="datetime"],
+    #f1 input[type="email"],
+    #f1 input[type="number"],
+    #f1 input[type="search"],
+    #f1 input[type="tel"],
+    #f1 input[type="time"],
+    #f1 input[type="url"],
+    #f1 textarea,
+    #f1 select
+    {
+        background: rgba(255,255,255,0.1);
+        
+        font-size: 16px;
+        height: auto;
+        margin: 0;
+        outline: 0;
+        padding: 15px;
+        width: 100%;
+        background-color: #fff;
+        color: #8a97a0;
+        box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    }
+
+    #f1 textarea,
+    #f1 select
+    {
+        border: 1px solid #ccc;
+    }
+
+    #f1 input[type="radio"],
+    #f1 input[type="checkbox"]
+    {
+        margin: 0 4px 8px 0;
+    }
+
+    #f1 .sui-sprite.sui-calendar-icon
+    {
+        margin-top: 14px;
+    }
+
+    #b1
+    {
+        padding: 19px 39px 18px 39px;
+        color: #FFF;
+        background-color: #4bc970;
+        font-size: 18px;
+        text-align: center;
+        font-style: normal;
+        border-radius: 5px;
+        width: 100%;
+        border: 1px solid #3ac162;
+        border-width: 1px 1px 3px;
+        box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+        margin-bottom: 10px;
+    }
+
+    fieldset
+    {
+        margin-bottom: 30px;
+        border: none;
+    }
+
+    legend
+    {
+        font-size: 1.4em;
+        margin-bottom: 10px;
+    }
+
+    .number
+    {
+        background-color: #5fcf80;
+        color: #fff;
+        height: 30px;
+        width: 30px;
+        display: inline-block;
+        font-size: 0.8em;
+        margin-right: 4px;
+        line-height: 30px;
+        text-align: center;
+        text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+        border-radius: 100%;
+    }
+
+    #footer
+    {
+        font-size: 10px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    #signUpForm
+    {
+            
+    }
+
+    .input-group-addon
+    {
+        background-color: #e8eeef;
+    }
+
+    #or
+    {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    #btn-register
+    {
+        padding-bottom: 35px;
+    }
+
+    .main-center 
+    {
+      padding: 20px 30px;
+    }
+
+    .form-horizontal {
+      margin-right: 30%;
+      margin-left: 30%;
+    }
+
+    /*****************   NAVBAR   ***************/
+    .navbar-default {
+      background-color: #004e64;
+      border: #004e64;
+    }
+
+    .navbar{
+      margin-bottom: 0px;
+    }
+
+    .navbar-default .navbar-nav>li>a {
+      color: #d1faff;
+    }
+
+    .navbar-default .navbar-nav>li>a:hover{
+      color: #30bced;
+    }
+
+    .navbar-default .navbar-brand {
+      color: #d1faff;
+      font-family: 'Pacifico', cursive;
+
+    }
+
+    .btn-default:hover{
+      color: #004e64;
+      background-color: #d1faff;
+    }
+
+    .btn-default{
+      background-color: #004e64;
+      color: #d1faff;
+      border: #004e64;
+      height: 40px;
+    }
+
+    .navbar-default .navbar-brand:hover{
+      color: #30bced;
+    }
+
+
+    /*Hamburger thing*/
+    .navbar-default .navbar-toggle .icon-bar{ 
+      background-color: #d1faff;
+    }
+
+    .container {
+        padding-right: 20px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+</style>
+
