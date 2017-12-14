@@ -1,0 +1,340 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "255.04",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:30am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "7:57am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "263.24",
+        "flight duration": "0 days 5 hours 20 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "3:35pm",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "4:45pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "8:55pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "263.24",
+        "flight duration": "0 days 3 hours 40 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:15pm",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "6:25pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "8:55pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "273.02",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "9:27pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "273.02",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:45pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "7:12pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "273.02",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:55pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "8:22pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "273.02",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "United",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "9:27pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "298.64",
+        "flight duration": "0 days 6 hours 40 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "2:15pm",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "3:25pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "8:55pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "324.64",
+        "flight duration": "0 days 1 hours 31 minutes",
+        "airline": "Air Canada",
+        "plane": "Canadair CRJ SERIES 705",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "9:31pm"
+            }
+        ],
+        "plane code": "CRA"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "324.64",
+        "flight duration": "0 days 1 hours 31 minutes",
+        "airline": "Air Canada",
+        "plane": "Canadair CRJ SERIES 705",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:25am",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "9:56am"
+            }
+        ],
+        "plane code": "CRA"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "324.64",
+        "flight duration": "0 days 1 hours 41 minutes",
+        "airline": "United",
+        "plane": "Embraer 175 (Enhanced Winglets)",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:42am",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "8:23am"
+            }
+        ],
+        "plane code": "E7W"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "345.06",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:40am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:07pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "345.06",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "2:57pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "345.06",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "10:02am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "345.06",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "4:57pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "351.60",
+        "flight duration": "0 days 1 hours 31 minutes",
+        "airline": "Air Canada",
+        "plane": "Canadair CRJ SERIES 705",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "3:01pm"
+            }
+        ],
+        "plane code": "CRA"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "376.58",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "United",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "4:57pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "376.58",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "United",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:40am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:07pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "376.58",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "United",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "2:57pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "376.58",
+        "flight duration": "0 days 1 hours 27 minutes",
+        "airline": "United",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:30am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "7:57am"
+            }
+        ],
+        "plane code": "E75"
+    }
+]

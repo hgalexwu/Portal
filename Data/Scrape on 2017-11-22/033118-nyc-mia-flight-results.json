@@ -1,0 +1,358 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1023.20",
+        "flight duration": "0 days 5 hours 20 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:29am",
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "arrival_time": "11:12am"
+            },
+            {
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "departure_time": "12:40pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:49pm"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1045.60",
+        "flight duration": "0 days 8 hours 4 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "6:45am",
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "arrival_time": "8:21am"
+            },
+            {
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "departure_time": "12:40pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:49pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1055.20",
+        "flight duration": "0 days 6 hours 25 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)",
+                "arrival_time": "5:00pm"
+            },
+            {
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)",
+                "departure_time": "6:57pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:50pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "1096.80",
+        "flight duration": "0 days 2 hours 56 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "2:30pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "5:26pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1191.20",
+        "flight duration": "0 days 6 hours 39 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:10am",
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "arrival_time": "9:50am"
+            },
+            {
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "departure_time": "12:40pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:49pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "380.76",
+        "flight duration": "1 days 3 hours 11 minutes",
+        "airline": "Frontier Airlines",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:45pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "1:56am"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 10 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:30am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:40pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 40 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:05am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:45am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 34 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:35pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:09pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 24 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "6:49pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 25 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:05pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:30pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 32 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:57pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 20 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:05am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:25am"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 27 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:27pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:54pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 40 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:15am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:55pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "816.80",
+        "flight duration": "0 days 3 hours 38 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:05am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "12:43pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "824.84",
+        "flight duration": "0 days 3 hours 12 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:42am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "971.20",
+        "flight duration": "0 days 7 hours 7 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "12:40pm",
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "arrival_time": "2:19pm"
+            },
+            {
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "departure_time": "5:30pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:47pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "971.20",
+        "flight duration": "0 days 6 hours 17 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "arrival_time": "3:08pm"
+            },
+            {
+                "departure_airport": "Raleigh, NC (RDU-Raleigh - Durham Intl.)",
+                "departure_time": "5:30pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:47pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "976.80",
+        "flight duration": "0 days 3 hours 13 minutes",
+        "airline": "American Airlines",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:26pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:39pm"
+            }
+        ],
+        "plane code": "32B"
+    }
+]

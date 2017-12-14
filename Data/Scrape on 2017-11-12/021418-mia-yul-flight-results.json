@@ -1,0 +1,82 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "241.26",
+        "flight duration": "0 days 3 hours 25 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "12:10pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "3:35pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "241.26",
+        "flight duration": "0 days 3 hours 30 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:05pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "241.26",
+        "flight duration": "0 days 3 hours 35 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "11:00pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "497.10",
+        "flight duration": "0 days 3 hours 35 minutes",
+        "airline": "WestJet",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "11:00pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "497.10",
+        "flight duration": "0 days 3 hours 30 minutes",
+        "airline": "WestJet",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "8:35am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:05pm"
+            }
+        ],
+        "plane code": "738"
+    }
+]

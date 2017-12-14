@@ -1,0 +1,334 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "113.20",
+        "flight duration": "0 days 3 hours 29 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "12:29pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "122.21",
+        "flight duration": "0 days 3 hours 14 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:00am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:14am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "122.21",
+        "flight duration": "0 days 3 hours 19 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "9:30am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "12:49pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "122.21",
+        "flight duration": "0 days 3 hours 18 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:48am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "124.21",
+        "flight duration": "0 days 3 hours 8 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:08pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "124.21",
+        "flight duration": "0 days 3 hours 7 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "12:50pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "3:57pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "124.21",
+        "flight duration": "1 days 3 hours 8 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "9:00pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "12:08am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "125.19",
+        "flight duration": "1 days 3 hours 27 minutes",
+        "airline": "Frontier Airlines",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:45pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:12am"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "132.81",
+        "flight duration": "0 days 7 hours 1 minutes",
+        "airline": "United",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:59am",
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)",
+                "arrival_time": "9:28am"
+            },
+            {
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)",
+                "departure_time": "10:55am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "3:00pm"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "149.20",
+        "flight duration": "0 days 3 hours 23 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "7:29pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:52pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "149.20",
+        "flight duration": "0 days 3 hours 32 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 717",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:03am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:35pm"
+            }
+        ],
+        "plane code": "717"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "149.20",
+        "flight duration": "0 days 3 hours 23 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:31pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:54pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "149.20",
+        "flight duration": "0 days 3 hours 21 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "11:26am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "2:47pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "149.20",
+        "flight duration": "0 days 3 hours 37 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "7:35pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:12pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "169.20",
+        "flight duration": "0 days 3 hours 6 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "4:07pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:13pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "169.20",
+        "flight duration": "0 days 3 hours 7 minutes",
+        "airline": "United",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:57am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:04am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "169.20",
+        "flight duration": "0 days 3 hours 6 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "6:25pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:31pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "175.20",
+        "flight duration": "0 days 3 hours 25 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:52pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:17pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "175.20",
+        "flight duration": "0 days 3 hours 36 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 717",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "8:08am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:44am"
+            }
+        ],
+        "plane code": "717"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "91.80",
+        "flight duration": "0 days 6 hours 25 minutes",
+        "airline": "United",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "5:15am",
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)",
+                "arrival_time": "6:49am"
+            },
+            {
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)",
+                "departure_time": "7:34am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:40am"
+            }
+        ],
+        "plane code": "738"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "stops": "2 Stop",
+        "ticket price": "213.18",
+        "flight duration": "1 days 15 hours 11 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "7:30pm",
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)",
+                "arrival_time": "10:15pm"
+            },
+            {
+                "departure_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "7:22am"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "8:50am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:41am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "239.58",
+        "flight duration": "0 days 9 hours 23 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "11:10am",
+                "arrival_airport": "Nashville, TN (BNA-Nashville Intl.)",
+                "arrival_time": "12:40pm"
+            },
+            {
+                "departure_airport": "Nashville, TN (BNA-Nashville Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "5:33pm"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "8:33pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "239.58",
+        "flight duration": "0 days 10 hours 58 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "11:10am",
+                "arrival_airport": "Nashville, TN (BNA-Nashville Intl.)",
+                "arrival_time": "12:40pm"
+            },
+            {
+                "departure_airport": "Nashville, TN (BNA-Nashville Intl.)",
+                "departure_time": "2:25pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "5:45pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:35pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:08pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "246.08",
+        "flight duration": "1 days 13 hours 11 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "9:30pm",
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)",
+                "arrival_time": "10:58pm"
+            },
+            {
+                "departure_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)",
+                "departure_time": "5:45am",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "7:55am"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "8:50am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:41am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "247.35",
+        "flight duration": "0 days 7 hours 36 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "9:20am",
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)",
+                "arrival_time": "12:02pm"
+            },
+            {
+                "departure_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)",
+                "departure_time": "12:40pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "2:08pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "4:56pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "247.48",
+        "flight duration": "0 days 3 hours 35 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "7:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "11:00pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "256.08",
+        "flight duration": "0 days 6 hours 38 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "6:25pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:35pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:08pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "256.08",
+        "flight duration": "0 days 7 hours 11 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:38pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "4:56pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "256.08",
+        "flight duration": "0 days 8 hours 18 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "1:50pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "4:44pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:35pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:08pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "256.08",
+        "flight duration": "0 days 5 hours 51 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "11:05am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "2:08pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "4:56pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "256.08",
+        "flight duration": "0 days 5 hours 33 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "4:35pm",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "7:28pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:35pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:08pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "256.08",
+        "flight duration": "0 days 5 hours 32 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "7:05am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "10:03am"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:05am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:37pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "258.68",
+        "flight duration": "0 days 9 hours 20 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "6:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "8:28am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "11:20am",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "12:57pm"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "2:05pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "3:45pm"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "258.68",
+        "flight duration": "0 days 9 hours 20 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "6:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "8:28am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "9:21am",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "11:00am"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "2:05pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "3:45pm"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "258.68",
+        "flight duration": "0 days 10 hours 31 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "6:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "8:28am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "11:35am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "1:30pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "4:56pm"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "258.68",
+        "flight duration": "0 days 10 hours 31 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "6:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "8:28am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "10:05am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:03pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:25pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "4:56pm"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "260.18",
+        "flight duration": "0 days 10 hours 19 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "7:00am",
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)",
+                "arrival_time": "9:56am"
+            },
+            {
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)",
+                "departure_time": "11:30am",
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)",
+                "arrival_time": "2:12pm"
+            },
+            {
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)",
+                "departure_time": "3:30pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "5:19pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "302.83",
+        "flight duration": "0 days 10 hours 48 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)",
+                "arrival_time": "10:50am"
+            },
+            {
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)",
+                "departure_time": "2:10pm",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "4:39pm"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "8:33pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "302.83",
+        "flight duration": "0 days 10 hours 48 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)",
+                "arrival_time": "10:50am"
+            },
+            {
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "arrival_time": "3:55pm"
+            },
+            {
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)",
+                "departure_time": "6:45pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "8:33pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "308.43",
+        "flight duration": "0 days 12 hours 29 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)",
+                "arrival_time": "10:50am"
+            },
+            {
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)",
+                "departure_time": "5:09pm",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "6:55pm"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "7:55pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:14pm"
+            }
+        ],
+        "plane code": "738"
+    }
+]

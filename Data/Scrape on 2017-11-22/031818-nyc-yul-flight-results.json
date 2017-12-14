@@ -1,0 +1,394 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "77.63",
+        "flight duration": "0 days 1 hours 25 minutes",
+        "airline": "United",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:40am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "77.63",
+        "flight duration": "0 days 1 hours 25 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:40am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:05am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "77.63",
+        "flight duration": "0 days 1 hours 32 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:05am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:37pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "79.80",
+        "flight duration": "0 days 1 hours 42 minutes",
+        "airline": "WestJet",
+        "plane": "Canadian Regional Jet 700",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:12am"
+            }
+        ],
+        "plane code": "CR7"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 6 hours 15 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "9:25am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "2:10pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 4 hours 30 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "9:25am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "11:15am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:25pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 4 hours 0 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:10am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "11:45am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "2:10pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 3 hours 40 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "9:25am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "10:25am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "11:35am"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 4 hours 45 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:10am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "11:45am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "1:45pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "2:55pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 4 hours 30 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "10:29am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "12:15pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "1:25pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 5 hours 30 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:10am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "11:45am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "2:30pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "3:40pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 5 hours 30 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "7:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "9:25am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "12:15pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "1:25pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 5 hours 15 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "10:29am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "2:10pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 6 hours 0 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "8:55am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "10:29am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "1:45pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "2:55pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "81.73",
+        "flight duration": "0 days 6 hours 15 minutes",
+        "airline": "Porter Airlines",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "10:10am",
+                "arrival_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "arrival_time": "11:45am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YTZ-Billy Bishop Toronto City)",
+                "departure_time": "3:15pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "4:25pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "88.40",
+        "flight duration": "0 days 1 hours 46 minutes",
+        "airline": "Delta",
+        "plane": "Canadian Regional Jet 700",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:29am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:15pm"
+            }
+        ],
+        "plane code": "CR7"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "88.40",
+        "flight duration": "0 days 1 hours 45 minutes",
+        "airline": "Delta",
+        "plane": "Canadair RJ",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "9:40am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "11:25am"
+            }
+        ],
+        "plane code": "CRJ"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "88.40",
+        "flight duration": "0 days 1 hours 42 minutes",
+        "airline": "Delta",
+        "plane": "Canadian Regional Jet 700",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "10:12am"
+            }
+        ],
+        "plane code": "CR7"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "88.40",
+        "flight duration": "0 days 1 hours 25 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:40am",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "12:05pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "96.00",
+        "flight duration": "0 days 4 hours 48 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "12:25pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "2:00pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "arrival_time": "5:13pm"
+            }
+        ],
+        "plane code": "319"
+    }
+]

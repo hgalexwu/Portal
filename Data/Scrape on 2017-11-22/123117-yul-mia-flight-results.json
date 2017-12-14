@@ -1,0 +1,424 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1029.24",
+        "flight duration": "1 days 17 hours 8 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "10:30am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "10:30pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "12:33am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "1388.56",
+        "flight duration": "0 days 3 hours 44 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:40am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:24am"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 6 hours 7 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "6:54am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37am"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 6 hours 37 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "6:19pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 6 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "2:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "3:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 7 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "2:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 8 hours 37 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "3:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "4:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 7 hours 37 minutes",
+        "airline": "Air Canada",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "5:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 8 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "12:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "1:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.84",
+        "flight duration": "0 days 6 hours 7 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:30pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "6:54pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1454.54",
+        "flight duration": "0 days 9 hours 37 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "2:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "3:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1454.54",
+        "flight duration": "0 days 10 hours 37 minutes",
+        "airline": "Air Canada",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "2:24pm"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1467.96",
+        "flight duration": "0 days 14 hours 37 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:24am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "8:20pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:37pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1467.96",
+        "flight duration": "0 days 13 hours 42 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "7:54am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1467.96",
+        "flight duration": "0 days 11 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:24am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1467.96",
+        "flight duration": "0 days 14 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "7:24am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1467.96",
+        "flight duration": "0 days 12 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:24am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1467.96",
+        "flight duration": "0 days 13 hours 12 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:00am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "8:24am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "4:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:12pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "961.00",
+        "flight duration": "0 days 4 hours 9 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "10:09am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "961.00",
+        "flight duration": "0 days 4 hours 5 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "5:05pm"
+            }
+        ],
+        "plane code": "738"
+    }
+]

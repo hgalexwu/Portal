@@ -1,0 +1,448 @@
+[
+    {
+        "stops": "2 Stop",
+        "ticket price": "375.70",
+        "flight duration": "0 days 8 hours 35 minutes",
+        "airline": "Delta",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:15am",
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)",
+                "arrival_time": "8:33am"
+            },
+            {
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)",
+                "departure_time": "9:45am",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "12:54pm"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "1:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "3:50pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "426.18",
+        "flight duration": "0 days 9 hours 36 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:23am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:00pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "4:29pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:59pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "426.18",
+        "flight duration": "0 days 10 hours 59 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:23am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:00pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "5:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:22pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "426.18",
+        "flight duration": "0 days 9 hours 37 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "11:45am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "1:24pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "5:55pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "9:22pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "440.56",
+        "flight duration": "0 days 11 hours 30 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "10:30am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "4:33pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "6:55pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "440.56",
+        "flight duration": "0 days 13 hours 1 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer 175",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:25am",
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "arrival_time": "10:30am"
+            },
+            {
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)",
+                "departure_time": "6:09pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:26pm"
+            }
+        ],
+        "plane code": "E75"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "442.06",
+        "flight duration": "0 days 8 hours 14 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "11:45am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "1:24pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "4:29pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:59pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "442.06",
+        "flight duration": "0 days 7 hours 3 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "1:17pm",
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "arrival_time": "2:55pm"
+            },
+            {
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "8:20pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "442.06",
+        "flight duration": "0 days 6 hours 58 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "11:45am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "1:24pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:18pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "6:43pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "442.06",
+        "flight duration": "0 days 6 hours 21 minutes",
+        "airline": "American Airlines",
+        "plane": "Embraer RJ145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:23am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:00pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:30pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:44pm"
+            }
+        ],
+        "plane code": "ER4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.00",
+        "flight duration": "0 days 8 hours 14 minutes",
+        "airline": "Delta",
+        "plane": "Canadian Regional Jet 700",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:00am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "8:52am"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "11:45am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "3:14pm"
+            }
+        ],
+        "plane code": "CR7"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.00",
+        "flight duration": "0 days 6 hours 47 minutes",
+        "airline": "Delta",
+        "plane": "Canadian Regional Jet 700",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:00am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "8:52am"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "10:15am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "1:47pm"
+            }
+        ],
+        "plane code": "CR7"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.00",
+        "flight duration": "0 days 6 hours 6 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:30am",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "8:54am"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "9:40am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:36am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.00",
+        "flight duration": "0 days 6 hours 28 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:35am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:19pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "1:40pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "5:03pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.00",
+        "flight duration": "0 days 8 hours 11 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "5:30am",
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "arrival_time": "8:54am"
+            },
+            {
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)",
+                "departure_time": "11:49am",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "1:41pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.00",
+        "flight duration": "0 days 8 hours 33 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "10:35am",
+                "arrival_airport": "New York, NY (LGA-LaGuardia)",
+                "arrival_time": "12:19pm"
+            },
+            {
+                "departure_airport": "New York, NY (LGA-LaGuardia)",
+                "departure_time": "3:40pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:08pm"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "450.84",
+        "flight duration": "0 days 10 hours 52 minutes",
+        "airline": "United",
+        "plane": "Canadair CRJ SERIES 705",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:25am",
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "arrival_time": "9:56am"
+            },
+            {
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)",
+                "departure_time": "4:06pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "7:17pm"
+            }
+        ],
+        "plane code": "CRA"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "454.03",
+        "flight duration": "0 days 8 hours 50 minutes",
+        "airline": "WestJet",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "9:19am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "12:51pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:20pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "454.03",
+        "flight duration": "0 days 7 hours 35 minutes",
+        "airline": "WestJet",
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "8:45am",
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "arrival_time": "10:23am"
+            },
+            {
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)",
+                "departure_time": "12:51pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "4:20pm"
+            }
+        ],
+        "plane code": "DH4"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "464.09",
+        "flight duration": "0 days 6 hours 53 minutes",
+        "airline": "United",
+        "plane": "Embraer EMB-145",
+        "timings": [
+            {
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)",
+                "departure_time": "4:45pm",
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)",
+                "arrival_time": "6:35pm"
+            },
+            {
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)",
+                "departure_time": "7:32pm",
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)",
+                "arrival_time": "11:38pm"
+            }
+        ],
+        "plane code": "ERJ"
+    }
+]
