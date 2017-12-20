@@ -1,0 +1,450 @@
+[
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 7 hours 17 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "2,197 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "ticket price": "1258.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "2,197 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:45am"
+            }
+        ], 
+        "ticket price": "1327.74", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,107 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "2:12pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:29am"
+            }
+        ], 
+        "ticket price": "1504.10", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,107 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "3:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "1504.10", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 9 hours 35 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "2,282 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "departure_time": "7:06pm"
+            }
+        ], 
+        "ticket price": "292.60", 
+        "airline": "Cape Air", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "2,282 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "departure_time": "7:06pm"
+            }
+        ], 
+        "ticket price": "292.60", 
+        "airline": "Cape Air", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "2,282 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "departure_time": "7:06pm"
+            }
+        ], 
+        "ticket price": "292.60", 
+        "airline": "Cape Air", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 4 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "11:35am"
+            }
+        ], 
+        "ticket price": "432.60", 
+        "airline": "Seaborne Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "12:58am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "ticket price": "432.60", 
+        "airline": "Seaborne Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 11 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "11:39pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "ticket price": "432.60", 
+        "airline": "Seaborne Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "11:39pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "7:26am", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "6:50am"
+            }
+        ], 
+        "ticket price": "434.50", 
+        "airline": "Cape Air", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 9 hours 6 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "12:58am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "7:26am", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "6:50am"
+            }
+        ], 
+        "ticket price": "434.50", 
+        "airline": "Cape Air", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/29/17", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,186 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "arrival_time": "3:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:59am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Christiansted, U.S. Virgin Islands (STX-Henry E. Rohlsen)", 
+                "departure_time": "7:06pm"
+            }
+        ], 
+        "ticket price": "575.10", 
+        "airline": "Cape Air", 
+        "carrier_operatedby": ""
+    }
+]

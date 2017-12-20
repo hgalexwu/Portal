@@ -1,0 +1,840 @@
+[
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 11 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "Nonstop", 
+        "total_distance": "296 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "3:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:59pm"
+            }
+        ], 
+        "ticket price": "313.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 17 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "Nonstop", 
+        "total_distance": "296 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "11:07pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "313.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 5 hours 10 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 4 hours 2 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 5 hours 28 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "12:28pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:08am"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 5 hours 3 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:59pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 6 hours 28 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "12:28pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:08am"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:26pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:59pm"
+            }
+        ], 
+        "ticket price": "587.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 10 hours 21 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:26pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "11:46pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:30pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 10 hours 19 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:59pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 8 hours 24 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:59pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 9 hours 5 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 7 hours 24 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "5:19pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:59pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 9 hours 21 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "11:46pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:30pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:49pm"
+            }
+        ], 
+        "ticket price": "593.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 7 hours 6 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "11:46pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:30pm"
+            }
+        ], 
+        "ticket price": "680.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 4 hours 56 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:56pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "11:46pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:30pm"
+            }
+        ], 
+        "ticket price": "680.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GNV", 
+            "airportCity": "Gainesville"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 6 hours 1 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "896 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:53pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Gainesville, FL (GNV-Gainesville Regional)", 
+                "arrival_time": "11:46pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:30pm"
+            }
+        ], 
+        "ticket price": "680.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }
+]

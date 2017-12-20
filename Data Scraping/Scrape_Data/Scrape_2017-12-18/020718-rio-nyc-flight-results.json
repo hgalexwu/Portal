@@ -1,0 +1,1192 @@
+[
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 13 hours 17 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "6:46am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "7:27am"
+            }
+        ], 
+        "ticket price": "1120.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 29 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "1213.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "6:46am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "1213.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 15 hours 0 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "departure_time": "3:04pm"
+            }
+        ], 
+        "ticket price": "1369.05", 
+        "airline": "Avianca", 
+        "carrier_operatedby": "Avianca"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "6:46am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "1416.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 15 hours 45 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "1636.97", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 24 hours 45 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "1636.97", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 19 hours 0 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "1636.97", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 20 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (AEP-Aeroparque Jorge Newbery)", 
+                "arrival_time": "6:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "11:50pm"
+            }
+        ], 
+        "ticket price": "1898.05", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "11:50pm"
+            }
+        ], 
+        "ticket price": "1898.05", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 25 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (AEP-Aeroparque Jorge Newbery)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:10am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "11:50pm"
+            }
+        ], 
+        "ticket price": "1898.05", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "2 days 38 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (AEP-Aeroparque Jorge Newbery)", 
+                "arrival_time": "12:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "11:50pm"
+            }
+        ], 
+        "ticket price": "1908.05", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "2 days 36 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "11:50pm"
+            }
+        ], 
+        "ticket price": "1908.05", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 15 hours 15 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "5:40pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:00pm"
+            }
+        ], 
+        "ticket price": "2350.12", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 24 hours 50 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:00pm"
+            }
+        ], 
+        "ticket price": "2405.12", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 13 hours 5 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:00pm"
+            }
+        ], 
+        "ticket price": "2405.12", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 13 hours 5 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:00pm"
+            }
+        ], 
+        "ticket price": "2428.12", 
+        "airline": "United", 
+        "carrier_operatedby": "Azul"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 15 hours 15 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "5:40pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:00pm"
+            }
+        ], 
+        "ticket price": "2428.12", 
+        "airline": "United", 
+        "carrier_operatedby": "Azul"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 13 hours 17 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:12am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "ticket price": "2428.12", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 17 hours 52 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "3:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:12am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "10:20pm"
+            }
+        ], 
+        "ticket price": "2428.12", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 13 hours 54 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "9:44am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 14 hours 58 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:48am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 14 hours 37 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:27am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 14 hours 33 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 13 hours 54 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:53am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "9:44am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 14 hours 30 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "4:20am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 14 hours 31 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "4:20am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:01am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "2429.15", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 27 hours 17 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "7:27am"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:35am", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:23pm"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 24 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "6:46am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:35pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "6:19pm"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 36 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "4:39pm"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 27 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "6:46am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "2:35am", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:23pm"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 22 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "6:46am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "4:39pm"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "0 days 14 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "11:35pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "6:19pm"
+            }
+        ], 
+        "ticket price": "813.30", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "02/07/18", 
+        "flight duration": "1 days 22 hours 35 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:35am", 
+                "departure_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "departure_time": "11:00pm"
+            }
+        ], 
+        "ticket price": "914.05", 
+        "airline": "Avianca", 
+        "carrier_operatedby": "Avianca"
+    }
+]

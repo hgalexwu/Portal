@@ -1,0 +1,1060 @@
+[
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 26 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "ticket price": "303.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:58am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "369.55", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:20pm"
+            }
+        ], 
+        "ticket price": "369.55", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "913 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:53am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:45am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:06am"
+            }
+        ], 
+        "ticket price": "377.80", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 27 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "11:32am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "383.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 4 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:25pm"
+            }
+        ], 
+        "ticket price": "383.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Expressjet Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane": "EMBRAER 170", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "E70", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "11:24am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:59am"
+            }
+        ], 
+        "ticket price": "419.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Republic Airline Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 22 minutes", 
+        "plane": "EMBRAER 170", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "E70", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "419.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Republic Airline Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 21 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:21pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "ticket price": "419.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:10pm"
+            }
+        ], 
+        "ticket price": "419.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "ExpressJet DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 20 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "419.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "ExpressJet DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 7 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:52am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:45am"
+            }
+        ], 
+        "ticket price": "424.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 13 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:55pm"
+            }
+        ], 
+        "ticket price": "424.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 19 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "5:01pm"
+            }
+        ], 
+        "ticket price": "424.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:59pm"
+            }
+        ], 
+        "ticket price": "488.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:44pm"
+            }
+        ], 
+        "ticket price": "488.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:30am"
+            }
+        ], 
+        "ticket price": "496.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "496.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 4 hours 38 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:13pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "ticket price": "496.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Trans States As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "3:29pm"
+            }
+        ], 
+        "ticket price": "496.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Trans States As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 4 hours 19 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "6:46pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:39pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:06pm"
+            }
+        ], 
+        "ticket price": "496.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:39pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "8:06pm"
+            }
+        ], 
+        "ticket price": "496.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 9 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:09pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "552.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 8 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "4:39pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:31pm"
+            }
+        ], 
+        "ticket price": "552.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 16 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:46am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "552.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 7 hours 4 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "11:32am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "5:04pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "3:29pm"
+            }
+        ], 
+        "ticket price": "560.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 5 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "11:32am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:13pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "ticket price": "560.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 5 hours 24 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "546 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:10pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:34pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "ticket price": "560.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 3 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "548 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "11:32am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:57pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "ticket price": "560.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 3 hours 56 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "546 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:34am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:25am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:21am", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "ticket price": "560.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 6 hours 3 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "546 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "7:34am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:25am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:28pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "560.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 7 hours 9 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "990 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:51pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:24pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "ticket price": "614.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 5 hours 14 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "1 Stops", 
+        "total_distance": "990 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:45pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:59pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "614.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 6 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:31am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "740.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CLT", 
+            "airportCity": "Charlotte"
+        }, 
+        "travel_date": "05/12/18", 
+        "flight duration": "0 days 2 hours 6 minutes", 
+        "plane": "EMBRAER 170", 
+        "stops": "Nonstop", 
+        "total_distance": "545 miles", 
+        "plane code": "E70", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:06pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "ticket price": "740.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Republic Airlines DBA United Express"
+    }
+]

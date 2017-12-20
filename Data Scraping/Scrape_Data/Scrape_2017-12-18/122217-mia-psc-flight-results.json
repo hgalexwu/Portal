@@ -1,0 +1,1390 @@
+[
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,562 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "9:19am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:46am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:19am"
+            }
+        ], 
+        "ticket price": "203.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 12 hours 56 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "2 Stops", 
+        "total_distance": "3,252 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "2:11pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:04pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "5:05pm"
+            }
+        ], 
+        "ticket price": "207.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 15 hours 37 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "2,755 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:51am"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:58pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "9:28pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "261.50", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 11 hours 58 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,633 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:46pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:42pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:15pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "9:28pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "300.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 12 hours 19 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "3,364 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:08pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:09pm"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:24pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "9:28pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "316.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 10 hours 56 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "3,161 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:31pm"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "7:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:30pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "9:27pm", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "8:25pm"
+            }
+        ], 
+        "ticket price": "350.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 13 hours 33 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "2,755 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:58pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "9:28pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "356.50", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "2,946 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:51am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:50pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "5:05pm"
+            }
+        ], 
+        "ticket price": "389.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "2,946 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:51am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "2:03pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "5:05pm"
+            }
+        ], 
+        "ticket price": "413.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "2,754 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:45pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "9:28pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "440.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 10 hours 16 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "2,946 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:50pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "5:05pm"
+            }
+        ], 
+        "ticket price": "444.90", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 12 hours 19 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "3,013 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "4:46pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:50pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:16pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "7:24pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:09am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:14pm"
+            }
+        ], 
+        "ticket price": "633.90", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 16 hours 13 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,210 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Las Vegas, NV (LAS-McCarran Intl.)", 
+                "arrival_time": "12:21am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:33am", 
+                "departure_airport": "Las Vegas, NV (LAS-McCarran Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "738.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 6 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,210 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Las Vegas, NV (LAS-McCarran Intl.)", 
+                "arrival_time": "12:21am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:33am", 
+                "departure_airport": "Las Vegas, NV (LAS-McCarran Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "738.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 6 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,210 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Las Vegas, NV (LAS-McCarran Intl.)", 
+                "arrival_time": "12:21am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:19am", 
+                "departure_airport": "Las Vegas, NV (LAS-McCarran Intl.)", 
+                "departure_time": "7:40am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "764.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 21 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 16 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:14am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 19 hours 58 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:32pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:14am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 16 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 19 hours 56 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 3 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:14am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 3 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,433 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "11:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "779.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 19 hours 19 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "2 Stops", 
+        "total_distance": "3,673 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "10:48am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:50am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:38pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:09am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:14pm"
+            }
+        ], 
+        "ticket price": "782.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 21 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,673 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:38am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:38pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:09am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:14pm"
+            }
+        ], 
+        "ticket price": "782.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 20 hours 11 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,477 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Diego, CA (SAN-San Diego Intl.)", 
+                "arrival_time": "10:22pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "San Diego, CA (SAN-San Diego Intl.)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "785.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 19 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "2,947 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "11:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "787.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 17 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "2,947 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "11:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "787.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 17 hours 56 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,673 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:54am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "793.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 16 hours 23 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,087 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:57pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:52am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "800.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 18 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,087 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:07pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:52am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "800.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 20 hours 11 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,087 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:07pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:52am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "800.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,087 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:57pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:52am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "800.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 13 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,467 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:40pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:29am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "5:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "819.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 18 hours 21 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,467 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:38am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "9:29am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "12:46pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:41am"
+            }
+        ], 
+        "ticket price": "819.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PSC", 
+            "airportCity": "Pasco"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 16 hours 28 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "3,467 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:38am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "8:29am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "5:30am"
+            }, 
+            {
+                "arrival_airport": "Pasco, WA (PSC-Tri-Cities)", 
+                "arrival_time": "10:53am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:48am"
+            }
+        ], 
+        "ticket price": "819.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

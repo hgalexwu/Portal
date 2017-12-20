@@ -1,0 +1,1270 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 17 hours 10 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "5,359 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2250.60", 
+        "airline": "Alitalia", 
+        "carrier_operatedby": "Alitalia"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 15 hours 30 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "5,359 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2250.60", 
+        "airline": "Alitalia", 
+        "carrier_operatedby": "Alitalia"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 15 hours 50 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "5,359 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2284.20", 
+        "airline": "Alitalia", 
+        "carrier_operatedby": "Alitalia"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 17 hours 10 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "5,359 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2284.20", 
+        "airline": "Alitalia", 
+        "carrier_operatedby": "Alitalia"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "4,751 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2297.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "4,751 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2297.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 13 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "4,751 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2297.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 18 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "4,751 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2297.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 18 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "4,751 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2297.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 18 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "4,751 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2297.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "4,822 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2308.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "4,822 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2308.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "4,822 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:40am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:20am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2308.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "4,822 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "7:20am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2308.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 17 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "5,400 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "6:55am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2314.10", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 13 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2710.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 14 hours 55 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2710.80", 
+        "airline": "KLM", 
+        "carrier_operatedby": "KLM"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 27 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:03pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2710.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2710.80", 
+        "airline": "KLM", 
+        "carrier_operatedby": "KLM"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 15 hours 35 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,691 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2713.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 14 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "5,359 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2716.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2720.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 14 hours 55 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2720.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 13 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2720.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 16 hours 27 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,578 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:03pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2720.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 15 hours 35 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,691 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2723.50", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 12 hours 50 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "4,707 miles", 
+        "plane code": "74E", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:15pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2735.90", 
+        "airline": "KLM", 
+        "carrier_operatedby": "KLM"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 15 hours 35 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,691 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2744.70", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 12 hours 50 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "4,707 miles", 
+        "plane code": "74E", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:15pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2745.90", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 11 hours 55 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,845 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "ticket price": "2869.80", 
+        "airline": "Austrian Airlines", 
+        "carrier_operatedby": "Austrian Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 12 hours 5 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "4,845 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "ticket price": "2869.80", 
+        "airline": "Austrian Airlines", 
+        "carrier_operatedby": "Austrian Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 19 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "5,908 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "700.60", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 13 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "5,908 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "700.60", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 32 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "5,908 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:10am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "700.60", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 12 hours 50 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "4,547 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "11:55am"
+            }
+        ], 
+        "ticket price": "767.90", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }
+]

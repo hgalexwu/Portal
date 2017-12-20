@@ -1,0 +1,522 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 22 hours 16 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "5:53pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:17pm"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1009.76", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 22 hours 41 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1009.76", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 22 hours 16 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1009.76", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 24 hours 16 minutes", 
+        "plane": "Boeing 767-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "763", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:40am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1010.16", 
+        "airline": "United", 
+        "carrier_operatedby": "All Nippon Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 22 hours 41 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "2:24pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1015.36", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "1 days 33 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "9:48am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2377.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "1 days 33 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "10:04am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2427.96", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 28 hours 39 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "3:39pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "2457.16", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Cathay Pacific"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 26 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:05am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "9:03am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "5:45am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2602.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 25 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:30am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2603.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 25 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:30am"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "9:59am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2603.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "1 days 26 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:30pm"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "3076.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MTJ", 
+            "airportCity": "Montrose"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "0 days 20 hours 56 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "5:16pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "1:45pm"
+            }, 
+            {
+                "arrival_airport": "Montrose, CO (MTJ-Montrose Regional)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "3587.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

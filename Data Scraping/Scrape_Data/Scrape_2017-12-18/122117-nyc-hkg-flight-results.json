@@ -1,0 +1,1228 @@
+[
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 19 hours 20 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:43pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "ticket price": "11397.30", 
+        "airline": "United", 
+        "carrier_operatedby": "Skywest DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 22 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "ticket price": "11407.75", 
+        "airline": "All Nippon Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 23 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Tokyo, Japan (HND-Haneda)", 
+                "departure_time": "12:55am"
+            }
+        ], 
+        "ticket price": "11416.63", 
+        "airline": "All Nippon Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Tokyo, Japan (HND-Haneda)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "ticket price": "11416.63", 
+        "airline": "All Nippon Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 38 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "11416.99", 
+        "airline": "All Nippon Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 18 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:54pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:46pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "11557.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 21 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:52pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "11557.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 20 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:35pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "11557.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 26 hours 35 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "1:15pm"
+            }
+        ], 
+        "ticket price": "11646.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 29 hours 35 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "ticket price": "11681.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 29 hours 20 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:25pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "ticket price": "11746.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 26 hours 0 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "11746.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 22 hours 5 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "9:10am"
+            }
+        ], 
+        "ticket price": "11746.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 31 hours 45 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "ticket price": "11764.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 30 hours 0 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "4:45pm"
+            }
+        ], 
+        "ticket price": "11807.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 27 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "11950.82", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 38 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "11:40pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "ticket price": "11950.82", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 37 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "ticket price": "11950.82", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 28 hours 40 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "11950.82", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 33 hours 35 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "ticket price": "11950.82", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 31 hours 50 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "ticket price": "11950.82", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:25pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "11:35pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "ticket price": "11985.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 22 hours 55 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "9:35am"
+            }
+        ], 
+        "ticket price": "11985.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 24 hours 15 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "ticket price": "11985.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 21 hours 45 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:35am"
+            }
+        ], 
+        "ticket price": "11985.72", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 19 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:28pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:18pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "12220.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 21 hours 55 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:18pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "12220.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 20 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:39pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "12220.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 18 hours 56 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "11:09pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:59pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }
+        ], 
+        "ticket price": "12220.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 20 hours 55 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:43am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "12469.30", 
+        "airline": "Skywest DBA United Express", 
+        "carrier_operatedby": "Skywest DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 36 hours 35 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Tokyo, Japan (HND-Haneda)", 
+                "departure_time": "10:05am"
+            }
+        ], 
+        "ticket price": "15094.83", 
+        "airline": "Japan Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "1 days 22 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:34am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "ticket price": "15392.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 25 hours 45 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "3:05am"
+            }
+        ], 
+        "ticket price": "9246.72", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 40 hours 0 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "8:50pm", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "9401.72", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "travel_date": "12/21/17", 
+        "flight duration": "2 days 19 hours 55 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "9463.72", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }
+]

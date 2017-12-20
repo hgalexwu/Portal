@@ -1,0 +1,1336 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "3 days 41 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:00am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "12:40am"
+            }
+        ], 
+        "ticket price": "1457.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 24 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "7:15am"
+            }
+        ], 
+        "ticket price": "1457.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "3 days 49 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:00am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "12:40am"
+            }
+        ], 
+        "ticket price": "1457.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 32 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "7:15am"
+            }
+        ], 
+        "ticket price": "1457.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 43 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "6:35pm"
+            }
+        ], 
+        "ticket price": "1583.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 35 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "6:35pm"
+            }
+        ], 
+        "ticket price": "1583.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 24 hours 16 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:59pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "2:55am"
+            }
+        ], 
+        "ticket price": "1677.80", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 24 hours 4 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:11pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "2:55am"
+            }
+        ], 
+        "ticket price": "1677.80", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 26 hours 59 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:11pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "5:40am"
+            }
+        ], 
+        "ticket price": "1677.80", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 27 hours 11 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:59pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "5:40am"
+            }
+        ], 
+        "ticket price": "1677.80", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 27 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:40pm"
+            }, 
+            {
+                "arrival_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "departure_time": "7:10am"
+            }
+        ], 
+        "ticket price": "1696.68", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 29 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "departure_time": "7:10am"
+            }
+        ], 
+        "ticket price": "1696.68", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 27 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:40pm"
+            }, 
+            {
+                "arrival_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "departure_time": "7:10am"
+            }
+        ], 
+        "ticket price": "1703.28", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 29 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Bengaluru, India (BLR-Bengaluru Intl.)", 
+                "departure_time": "7:10am"
+            }
+        ], 
+        "ticket price": "1703.28", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 24 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:50pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "ticket price": "1739.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 21 hours 55 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "2:55am"
+            }
+        ], 
+        "ticket price": "1842.16", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 23 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "1923.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 23 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1923.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 21 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1923.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 22 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1923.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "1 days 23 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "ticket price": "1923.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 29 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "1926.70", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 29 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1926.70", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 35 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1926.70", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "3 days 39 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "1926.70", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 33 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "ticket price": "1926.70", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 26 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:13pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1932.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 20 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "8:13pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "1932.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 28 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:27pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:50am"
+            }
+        ], 
+        "ticket price": "1932.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 22 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:27pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "1932.98", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 25 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "1951.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 33 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "1951.98", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 19 hours 46 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:59pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "ticket price": "2002.88", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 19 hours 34 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:11pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "ticket price": "2002.88", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MAA", 
+            "airportCity": "Chennai"
+        }, 
+        "travel_date": "12/23/17", 
+        "flight duration": "2 days 19 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Chennai, India (MAA-Chennai Intl.)", 
+                "arrival_time": "1:30am", 
+                "departure_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "934.44", 
+        "airline": "Kuwait Airways", 
+        "carrier_operatedby": ""
+    }
+]

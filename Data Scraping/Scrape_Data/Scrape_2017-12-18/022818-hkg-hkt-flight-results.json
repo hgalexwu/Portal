@@ -1,0 +1,58 @@
+[
+    {
+        "arrival": {
+            "airportCode": "HKT", 
+            "airportCity": "Phuket"
+        }, 
+        "travel_date": "02/28/18", 
+        "flight duration": "0 days 3 hours 30 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Phuket, Thailand (HKT-Phuket Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:25am"
+            }
+        ], 
+        "ticket price": "632.60", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKT", 
+            "airportCity": "Phuket"
+        }, 
+        "travel_date": "02/28/18", 
+        "flight duration": "0 days 3 hours 10 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Phuket, Thailand (HKT-Phuket Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:50pm"
+            }
+        ], 
+        "ticket price": "846.12", 
+        "airline": "AirAsia with baggage", 
+        "carrier_operatedby": ""
+    }
+]

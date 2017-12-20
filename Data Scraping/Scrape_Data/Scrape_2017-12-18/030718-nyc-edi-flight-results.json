@@ -1,0 +1,114 @@
+[
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "03/07/18", 
+        "flight duration": "1 days 6 hours 52 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:48pm"
+            }
+        ], 
+        "ticket price": "1375.10", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "03/07/18", 
+        "flight duration": "1 days 6 hours 35 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "1723.10", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "03/07/18", 
+        "flight duration": "1 days 6 hours 35 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "1740.60", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "United"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "03/07/18", 
+        "flight duration": "1 days 6 hours 52 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:48pm"
+            }
+        ], 
+        "ticket price": "1892.10", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }
+]

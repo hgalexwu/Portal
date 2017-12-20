@@ -1,0 +1,1216 @@
+[
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 10 hours 35 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:55pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "11587.32", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 19 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "7:20pm"
+            }
+        ], 
+        "ticket price": "12287.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 15 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "12287.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 17 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "12287.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "1:40pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "ticket price": "14649.04", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 23 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "4:50pm"
+            }
+        ], 
+        "ticket price": "14649.04", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 17 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "4:50pm"
+            }
+        ], 
+        "ticket price": "14649.04", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 14 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "ticket price": "14649.04", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 23 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Belgrade, Serbia (BEG-Nikola Tesla)", 
+                "arrival_time": "5:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:40pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Belgrade, Serbia (BEG-Nikola Tesla)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "18216.16", 
+        "airline": "Air Serbia", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 12 hours 20 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:08pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:45pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "24667.32", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 13 hours 15 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "24705.44", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 12 hours 15 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "5:03pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "24751.36", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 12 hours 30 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "4:59pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "24887.32", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 14 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Stockholm, Sweden (ARN-Arlanda)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "1:25pm", 
+                "departure_airport": "Stockholm, Sweden (ARN-Arlanda)", 
+                "departure_time": "11:35am"
+            }
+        ], 
+        "ticket price": "24895.00", 
+        "airline": "SAS", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 10 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:30pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "24963.88", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 10 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:35am"
+            }
+        ], 
+        "ticket price": "24963.88", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 10 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:55pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "27457.24", 
+        "airline": "United", 
+        "carrier_operatedby": "Swiss International Air Lines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 16 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "arrival_time": "5:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "7284.56", 
+        "airline": "TAP Portugal", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 11 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "7284.56", 
+        "airline": "TAP Portugal", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 24 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "7:20pm"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "0 days 14 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05am"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "7:20pm"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 22 hours 25 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 29 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05am"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 15 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 33 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05am"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 35 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:05am"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 20 hours 25 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "7985.68", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "2 days 32 hours 10 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 10 hours 45 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 12 hours 20 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "2 days 31 hours 5 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "7:15am"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 18 hours 40 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 14 hours 55 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:25pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "3:05pm"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "2 days 28 hours 30 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "7:15am"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PRG", 
+            "airportCity": "Prague"
+        }, 
+        "travel_date": "08/06/18", 
+        "flight duration": "1 days 16 hours 5 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Prague, Czech Republic (PRG-Vaclav Havel)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "8668.32", 
+        "airline": "LOT-Polish Airlines", 
+        "carrier_operatedby": ""
+    }
+]

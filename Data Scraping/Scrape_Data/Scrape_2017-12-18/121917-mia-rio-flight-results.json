@@ -1,0 +1,736 @@
+[
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 21 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "4,453 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "10:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:57am"
+            }, 
+            {
+                "arrival_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "arrival_time": "5:26pm", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "3:44pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "departure_time": "10:18pm"
+            }
+        ], 
+        "ticket price": "1064.35", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 14 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "4,451 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:02pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:28pm"
+            }
+        ], 
+        "ticket price": "1067.35", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 11 hours 51 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "4,451 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "7:56pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:44pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "9:28pm"
+            }
+        ], 
+        "ticket price": "1067.35", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 15 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "4,451 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "10:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:57am"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "1:30am", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "3:21pm"
+            }
+        ], 
+        "ticket price": "1067.35", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 11 hours 52 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "4,451 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "arrival_time": "1:51pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:38am"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "1:30am", 
+                "departure_airport": "Panama City, Panama (PTY-Tocumen Intl.)", 
+                "departure_time": "3:21pm"
+            }
+        ], 
+        "ticket price": "1067.35", 
+        "airline": "Copa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 17 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "4,287 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "4:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "ticket price": "1933.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 27 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "4,287 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "4:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "1933.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 24 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "4,287 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "4:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "1933.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 34 hours 50 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "5,640 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "6:20pm"
+            }
+        ], 
+        "ticket price": "2214.10", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 17 hours 45 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "7S8", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "2882.79", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 25 hours 8 minutes", 
+        "plane": "Boeing 737", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "737", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:07am"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "2882.79", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 28 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "7S8", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "ticket price": "2882.79", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 25 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "7S8", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "6:25pm"
+            }
+        ], 
+        "ticket price": "2882.79", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 26 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "7S8", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "7:25pm"
+            }
+        ], 
+        "ticket price": "2882.79", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 24 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "7S8", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "5:25pm"
+            }
+        ], 
+        "ticket price": "2882.79", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 26 hours 25 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "stops": "2 Stops", 
+        "total_distance": "6,120 miles", 
+        "plane code": "7S8", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Mexico City, Distrito Federal, Mexico (MEX-Mexico City Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "3099.79", 
+        "airline": "Aeromexico", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 21 hours 25 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "5,952 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Santiago, Chile (SCL-Arturo Merino Benitez)", 
+                "arrival_time": "9:13am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "11:20pm", 
+                "departure_airport": "Santiago, Chile (SCL-Arturo Merino Benitez)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "3309.10", 
+        "airline": "LATAM Airlines Group", 
+        "carrier_operatedby": "American Airlines For Latam Airline"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 13 hours 27 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "4,354 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Medellin, Colombia (MDE-Jose Maria Cordova Intl.)", 
+                "arrival_time": "6:32pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:08pm"
+            }, 
+            {
+                "arrival_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "arrival_time": "9:02pm", 
+                "departure_airport": "Medellin, Colombia (MDE-Jose Maria Cordova Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "departure_time": "10:18pm"
+            }
+        ], 
+        "ticket price": "670.50", 
+        "airline": "Avianca", 
+        "carrier_operatedby": "Avianca"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 19 hours 56 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "4,333 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:39am"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "departure_time": "10:18pm"
+            }
+        ], 
+        "ticket price": "784.77", 
+        "airline": "Avianca", 
+        "carrier_operatedby": "Taca For Avianca"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "travel_date": "12/19/17", 
+        "flight duration": "1 days 11 hours 12 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "4,333 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "arrival_time": "9:03pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:23pm"
+            }, 
+            {
+                "arrival_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Bogota, Colombia (BOG-El Dorado Intl.)", 
+                "departure_time": "10:18pm"
+            }
+        ], 
+        "ticket price": "799.77", 
+        "airline": "Avianca", 
+        "carrier_operatedby": "Avianca"
+    }
+]

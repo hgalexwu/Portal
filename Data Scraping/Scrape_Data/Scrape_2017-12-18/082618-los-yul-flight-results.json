@@ -1,0 +1,1372 @@
+[
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 31 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "11:35pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "1160.56", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 26 hours 39 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:29pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1353.47", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 26 hours 39 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:29pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "1353.47", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 38 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "1401.22", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 46 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "4:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:35pm"
+            }
+        ], 
+        "ticket price": "1401.22", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 38 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "1401.22", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 46 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "4:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:35pm"
+            }
+        ], 
+        "ticket price": "1401.22", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 30 hours 3 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:43pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "ticket price": "1420.29", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 42 hours 7 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:35pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "1468.72", 
+        "airline": "United", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 55 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Cairo, Egypt (CAI-Cairo Intl.)", 
+                "arrival_time": "8:50pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Cairo, Egypt (CAI-Cairo Intl.)", 
+                "departure_time": "5:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "1554.31", 
+        "airline": "Egyptair", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 18 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "1943.96", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 18 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "1956.81", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 21 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "9:35am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "1960.17", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 21 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "9:35am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "1960.17", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 21 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "1960.17", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 21 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "1960.17", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 20 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "ticket price": "1975.76", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Geneva, Switzerland (GVA-Cointrin Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Geneva, Switzerland (GVA-Cointrin Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "1977.02", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 24 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "ticket price": "1977.19", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 25 hours 6 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "6:56pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:40pm"
+            }
+        ], 
+        "ticket price": "1983.37", 
+        "airline": "Brussels Airlines", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 20 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "ticket price": "1988.61", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 41 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:25am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "1990.10", 
+        "airline": "Brussels Airlines", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 41 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "1990.10", 
+        "airline": "Brussels Airlines", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "2 days 41 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "1990.10", 
+        "airline": "Brussels Airlines", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 21 hours 35 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "2002.25", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 21 hours 35 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "2002.25", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 29 hours 31 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "6:24pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:26pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "2003.75", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 29 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "2003.75", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 29 hours 31 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "4:07pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:26pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "2003.75", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 29 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "2003.75", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 22 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "9:35am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "8:10am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "2008.99", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 27 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "6:50am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "2008.99", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 22 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "2008.99", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "1 days 27 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "2008.99", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "08/26/18", 
+        "flight duration": "0 days 19 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Casablanca, Morocco (CMN-Mohammed V)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "Casablanca, Morocco (CMN-Mohammed V)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "792.93", 
+        "airline": "Royal Air Maroc", 
+        "carrier_operatedby": ""
+    }
+]

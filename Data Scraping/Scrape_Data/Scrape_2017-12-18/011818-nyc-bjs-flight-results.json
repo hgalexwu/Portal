@@ -1,0 +1,1174 @@
+[
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "431.45", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "2 days 30 hours 30 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "431.45", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 13 hours 45 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:55pm"
+            }
+        ], 
+        "ticket price": "457.10", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "457.10", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 13 hours 50 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "457.10", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 18 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:23pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 25 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:42am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 35 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:05am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 19 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "9:12am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 19 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:46am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 19 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:18am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:28pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 19 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:23pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 17 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:44am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 40 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:27am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 21 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:26am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 17 hours 40 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:28pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:26am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 17 hours 35 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:28pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 21 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:54am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "11:10am"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 21 hours 5 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:54am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 23 hours 40 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "4:07pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 17 hours 42 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:43am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "12:28pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 17 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:26am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:12pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 19 hours 25 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:37am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 18 hours 25 minutes", 
+        "plane": "EMBRAER 170", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E70", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:48am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": "Republic Airlines DBA United Expre"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 22 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:21am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "461.60", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 17 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:08pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "ticket price": "465.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 18 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:08pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:03pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "ticket price": "465.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "1 days 19 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:06pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "ticket price": "465.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "01/18/18", 
+        "flight duration": "2 days 18 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "467.81", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": ""
+    }
+]

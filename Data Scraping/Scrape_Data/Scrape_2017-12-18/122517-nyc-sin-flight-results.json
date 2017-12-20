@@ -1,0 +1,1234 @@
+[
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:41pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "5:26pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "2:40pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "646.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 25 hours 32 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:04pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:28pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "646.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 21 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:10am"
+            }
+        ], 
+        "ticket price": "732.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Cathay Pacific"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 21 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:10am"
+            }
+        ], 
+        "ticket price": "750.80", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Pacific"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 23 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "750.80", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Pacific"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 25 hours 40 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "12:10am"
+            }
+        ], 
+        "ticket price": "774.70", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 27 hours 40 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:48pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "5:25am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "11:30pm"
+            }
+        ], 
+        "ticket price": "785.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 31 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:50am"
+            }
+        ], 
+        "ticket price": "792.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 27 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "792.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 23 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:55am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "792.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 23 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "792.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 26 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:50pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:50am"
+            }
+        ], 
+        "ticket price": "792.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 38 hours 45 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "800.50", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": "Virgin America"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 36 hours 35 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "833.50", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": "Virgin America"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 23 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "855.00", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 31 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "855.00", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 32 hours 44 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "arrival_time": "11:42am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:06am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "3:35pm", 
+                "departure_airport": "Denver, CO (DEN-Denver Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 27 hours 20 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:16pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:40pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 27 hours 15 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:53pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:35pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 32 hours 15 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "2:13pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 25 hours 15 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "7:51pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 29 hours 0 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "5:34pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 30 hours 9 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "12:51pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 26 hours 35 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:01pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "860.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 23 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "11:30pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "4:55pm"
+            }
+        ], 
+        "ticket price": "870.00", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 24 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "12:40am", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "6:05pm"
+            }
+        ], 
+        "ticket price": "870.00", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 40 hours 5 minutes", 
+        "plane": "Airbus A319-321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "32S", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "8:04pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "871.83", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 22 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "arrival_time": "5:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:20am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "875.10", 
+        "airline": "EVA Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 25 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "arrival_time": "5:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:20am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "875.10", 
+        "airline": "EVA Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 25 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Tokyo, Japan (HND-Haneda)", 
+                "departure_time": "12:30am"
+            }
+        ], 
+        "ticket price": "878.90", 
+        "airline": "United", 
+        "carrier_operatedby": "All Nippon Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 25 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Tokyo, Japan (HND-Haneda)", 
+                "departure_time": "12:30am"
+            }
+        ], 
+        "ticket price": "880.90", 
+        "airline": "All Nippon Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 25 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tokyo, Japan (HND-Haneda)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Tokyo, Japan (HND-Haneda)", 
+                "departure_time": "12:30am"
+            }
+        ], 
+        "ticket price": "886.90", 
+        "airline": "All Nippon Airways", 
+        "carrier_operatedby": "All Nippon Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 22 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "ticket price": "894.70", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "1 days 22 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "898.20", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "12/25/17", 
+        "flight duration": "2 days 23 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "ticket price": "898.20", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }
+]

@@ -1,0 +1,982 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "1 days 3 hours 27 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "2:12am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "152.20", 
+        "airline": "Frontier Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:26pm"
+            }
+        ], 
+        "ticket price": "179.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 30 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:59pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 27 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "9:22pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "5:55pm"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "6:43pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:18pm"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "10:16am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 20 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 23 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "2:23pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "ticket price": "194.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 24 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "2:49pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 26 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:05am"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Republic Airline Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 10 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "11:15pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 32 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "1:47pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 28 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "8:18pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:50pm"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 31 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "11:36am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:05am"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 23 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "10:28am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:05am"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 29 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "12:34pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 27 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "10:12pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 22 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "6:02pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:40pm"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 28 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:40pm"
+            }
+        ], 
+        "ticket price": "204.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 21 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "11:06am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:45am"
+            }
+        ], 
+        "ticket price": "209.21", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 17 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "2:17pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "ticket price": "209.21", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "ticket price": "209.21", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 12 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "5:41pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:29pm"
+            }
+        ], 
+        "ticket price": "244.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "1 days 3 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "12:15am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "ticket price": "244.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 11 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "7:07pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:56pm"
+            }
+        ], 
+        "ticket price": "244.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "8:40pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }
+        ], 
+        "ticket price": "249.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 30 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "250.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "11:02pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:25pm"
+            }
+        ], 
+        "ticket price": "250.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 29 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "3:14pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:45am"
+            }
+        ], 
+        "ticket price": "250.21", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Republic Airline Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 11 minutes", 
+        "plane": "Boeing 767-300", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "763", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "2:36pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "ticket price": "255.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 18 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "32B", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "3:48pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "255.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "255.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "4:44pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "255.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "travel_date": "09/01/18", 
+        "flight duration": "0 days 3 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,104 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "arrival_time": "9:10am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00am"
+            }
+        ], 
+        "ticket price": "255.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }
+]

@@ -1,0 +1,1350 @@
+[
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "1 days 33 hours 25 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:05am"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "ticket price": "12150.48", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "1 days 35 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:05am"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "ticket price": "12150.48", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 41 hours 50 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "4:50am"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "2:25am"
+            }
+        ], 
+        "ticket price": "1922.42", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": "Avianca Brasil"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 40 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 37 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 42 hours 20 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "7:10pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 32 hours 35 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 38 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 40 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 42 hours 20 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "7:10pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 37 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 39 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 41 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 43 hours 0 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 43 hours 0 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 38 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 35 hours 50 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 39 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 41 hours 10 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 35 hours 50 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 33 hours 45 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "2046.01", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 43 hours 0 minutes", 
+        "plane": "Boeing 767-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "763", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "ticket price": "2096.96", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 42 hours 15 minutes", 
+        "plane": "Boeing 767-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "763", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "2096.96", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "12:15pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "7:05pm"
+            }
+        ], 
+        "ticket price": "3242.85", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "7:05pm"
+            }
+        ], 
+        "ticket price": "3242.85", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "7:05pm"
+            }
+        ], 
+        "ticket price": "3242.85", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "3:15pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Munich, Germany (MUC-Franz Josef Strauss Intl.)", 
+                "departure_time": "7:05pm"
+            }
+        ], 
+        "ticket price": "3242.85", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 44 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "11:30pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "3374.64", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 43 hours 15 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "3604.51", 
+        "airline": "Ethiopian Airlines", 
+        "carrier_operatedby": "Avianca Brasil"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 38 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "3604.66", 
+        "airline": "Ethiopian Airlines", 
+        "carrier_operatedby": "Azul"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 39 hours 15 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:45pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "4539.72", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": "Latam Airlines Brasil"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 34 hours 10 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "4567.35", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 34 hours 10 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "4567.35", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CPT", 
+            "airportCity": "Cape Town"
+        }, 
+        "travel_date": "01/16/18", 
+        "flight duration": "2 days 34 hours 10 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Cape Town, South Africa (CPT-Cape Town Intl.)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "4567.35", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": "Lufthansa"
+    }
+]

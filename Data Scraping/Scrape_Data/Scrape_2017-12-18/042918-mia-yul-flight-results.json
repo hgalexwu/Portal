@@ -1,0 +1,1312 @@
+[
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "1 days 14 hours 2 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "1,456 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:45pm"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:23am", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "ticket price": "1134.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,413 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:47am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1221.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 5 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,413 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "9:47am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "12:43pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "ticket price": "1221.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 5 hours 32 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "12:37pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "1354.56", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:45am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "12:37pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "1354.56", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 57 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "1,531 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "7:53am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:52am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "11:59am", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "9:30am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1376.70", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,764 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:55am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:19pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1382.56", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 6 hours 49 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,413 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "11:49am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1407.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 44 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "1,456 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:19pm", 
+                "departure_airport": "Orlando, FL (MCO-Orlando Intl.)", 
+                "departure_time": "9:53am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1450.10", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "2:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:35am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1451.70", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 10 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "2:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:35am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1552.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1552.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 9 hours 43 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "3:21pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:25pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1552.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:45am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1552.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "4:29pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1642.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 5 hours 33 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:28pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1642.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 6 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1642.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "2 Stops", 
+        "total_distance": "1,664 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "2:08pm", 
+                "departure_airport": "Pittsburgh, PA (PIT-Pittsburgh Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1650.56", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 57 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "1,997 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "9:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:52am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:53am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1659.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 27 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "1,447 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "2:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "4:27pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:37pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "1753.76", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 9 hours 17 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,447 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "1:54pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "4:27pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:37pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "1753.76", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 7 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,463 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "arrival_time": "4:54pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:29pm", 
+                "departure_airport": "Washington, DC (DCA-Ronald Reagan Washington National)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1753.76", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 6 hours 57 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "1,528 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "arrival_time": "4:31pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:30pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Tampa, FL (TPA-Tampa Intl.)", 
+                "departure_time": "5:19pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1774.46", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,764 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:06pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:24pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1777.46", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,764 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "4:06pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:55pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "6:23pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1777.46", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "2,036 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Columbus, OH (CMH-Port Columbus Intl.)", 
+                "arrival_time": "11:26am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:40am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Columbus, OH (CMH-Port Columbus Intl.)", 
+                "departure_time": "12:05pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "4:58pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1779.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 6 hours 22 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "1,413 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:15pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "8:37pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "1786.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 9 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,498 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "10:58am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:20am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1792.10", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,423 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "12:38pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1830.36", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 36 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "1,516 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:37am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:29am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:35am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "5:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:34pm"
+            }
+        ], 
+        "ticket price": "1835.56", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "1,432 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:15pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:08pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1838.56", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "1,473 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:54pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "4:59pm", 
+                "departure_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "departure_time": "3:28pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1850.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "1,473 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:54pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:19pm", 
+                "departure_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "departure_time": "5:46pm"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "10:27pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1850.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 9 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,498 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:59pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1853.10", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "travel_date": "04/29/18", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "1,498 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:37am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:29am"
+            }, 
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:59pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "arrival_time": "3:49pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "1853.10", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }
+]

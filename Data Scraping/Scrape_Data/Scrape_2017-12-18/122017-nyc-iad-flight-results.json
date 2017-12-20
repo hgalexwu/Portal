@@ -1,0 +1,478 @@
+[
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 24 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:19am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "5:55am"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 32 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "6:44pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:12pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 24 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:26pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:02pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 37 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "9:36pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:59pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 37 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "8:22pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:05am"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "8:50pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:25pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 36 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "10:41pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 29 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:29am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 33 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:08am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:35am"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 27 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:43am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:16am"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 34 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "3:24pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:50pm"
+            }
+        ], 
+        "ticket price": "216.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:14am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:53am"
+            }
+        ], 
+        "ticket price": "236.40", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "6:06pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:48pm"
+            }
+        ], 
+        "ticket price": "236.40", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:24pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:07pm"
+            }
+        ], 
+        "ticket price": "236.40", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IAD", 
+            "airportCity": "Washington"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 1 hours 37 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "221 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "6:47pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "ticket price": "286.20", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }
+]

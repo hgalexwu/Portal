@@ -1,0 +1,1174 @@
+[
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 7 hours 6 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:49pm"
+            }
+        ], 
+        "ticket price": "1627.10", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 11 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "3,789 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:30pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "1641.70", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 10 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "3,789 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "1641.70", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 6 hours 55 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "ticket price": "1648.10", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "2 days 28 hours 0 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "3,688 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "ticket price": "1651.60", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 9 hours 48 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "1 Stops", 
+        "total_distance": "3,686 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "9:13pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:37pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:10pm"
+            }
+        ], 
+        "ticket price": "1652.60", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 9 hours 55 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "3,686 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "8:56pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:10pm"
+            }
+        ], 
+        "ticket price": "1652.60", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 14 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "3,686 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "4:14pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:59pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:10pm"
+            }
+        ], 
+        "ticket price": "1652.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 12 hours 25 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "1 Stops", 
+        "total_distance": "3,686 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "6:38pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "10:10pm"
+            }
+        ], 
+        "ticket price": "1652.60", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 6 hours 50 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "Nonstop", 
+        "total_distance": "3,244 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1665.60", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "United"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 15 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "4,694 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:55pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:35pm"
+            }
+        ], 
+        "ticket price": "1681.80", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "4,130 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Brussels, Belgium (BRU-Brussels - National)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "ticket price": "1687.00", 
+        "airline": "Brussels Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 11 hours 25 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "4,486 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "1702.00", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "United"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 10 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "4,273 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Oslo, Norway (OSL-Gardermoen)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Oslo, Norway (OSL-Gardermoen)", 
+                "departure_time": "9:10am"
+            }
+        ], 
+        "ticket price": "2446.20", 
+        "airline": "SAS", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 13 hours 20 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "3,390 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shannon, Ireland (SNN)", 
+                "arrival_time": "5:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Shannon, Ireland (SNN)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "ticket price": "746.17", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": "Asl Airlines Irl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 21 hours 15 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "766.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 19 hours 50 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "4:40pm"
+            }
+        ], 
+        "ticket price": "766.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 20 hours 55 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "766.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 19 hours 30 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "4:40pm"
+            }
+        ], 
+        "ticket price": "766.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 17 hours 30 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "766.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 16 hours 5 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "4:40pm"
+            }
+        ], 
+        "ticket price": "766.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 10 hours 55 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "772.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 10 hours 35 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "772.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 17 hours 40 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "778.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 17 hours 20 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "778.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 13 hours 55 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "778.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 9 hours 50 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "6:40am"
+            }
+        ], 
+        "ticket price": "787.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 12 hours 40 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "787.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 9 hours 30 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "6:40am"
+            }
+        ], 
+        "ticket price": "787.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 12 hours 45 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "787.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 9 hours 20 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "787.27", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 13 hours 5 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "793.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 16 hours 5 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "793.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 16 hours 25 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "3,378 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dublin, Ireland (DUB)", 
+                "arrival_time": "4:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Dublin, Ireland (DUB)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "793.77", 
+        "airline": "Aer Lingus", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EDI", 
+            "airportCity": "Edinburgh"
+        }, 
+        "travel_date": "06/16/18", 
+        "flight duration": "1 days 21 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "6,798 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Edinburgh, Scotland, UK (EDI)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "834.00", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }
+]

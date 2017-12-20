@@ -1,0 +1,1360 @@
+[
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "1 days 23 hours 5 minutes", 
+        "plane": "BOEING 777-200LR", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77L", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seoul, South Korea (ICN-Incheon Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "Seoul, South Korea (ICN-Incheon Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "ticket price": "1079.10", 
+        "airline": "Asiana Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "1 days 22 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:20am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "5:55pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "8:50am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "ticket price": "1086.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 29 hours 10 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:40pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "1100.20", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 42 hours 50 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "ticket price": "604.70", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 46 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "4:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "ticket price": "700.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "1:15pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "2:30am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 34 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "1:55am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 38 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "3:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 35 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "3:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "9:10am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 26 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "711.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 38 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "713.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 35 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "9:10am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "713.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 45 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "3:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "713.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 38 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "715.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "1 days 28 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:10am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "ticket price": "761.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "1 days 28 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:25am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "ticket price": "761.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 24 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "2:15am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "761.50", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:50pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "776.90", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 36 hours 30 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "776.90", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 35 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "784.70", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 29 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 25 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 55 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "6:45pm"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 32 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 37 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 40 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "852.60", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "1 days 23 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:50pm"
+            }
+        ], 
+        "ticket price": "919.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 30 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "961.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 41 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "3:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "961.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 30 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "1:55am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "961.80", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 41 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "963.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "REP", 
+            "airportCity": "Siem Reap"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 41 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Siem Reap, Cambodia (REP-Siem Reap Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "965.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }
+]

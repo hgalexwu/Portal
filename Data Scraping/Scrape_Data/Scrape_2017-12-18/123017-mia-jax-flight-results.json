@@ -1,0 +1,896 @@
+[
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 1 hours 22 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "Nonstop", 
+        "total_distance": "330 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:47am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:25am"
+            }
+        ], 
+        "ticket price": "109.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 1 hours 19 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "Nonstop", 
+        "total_distance": "330 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:54pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "109.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 1 hours 19 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "Nonstop", 
+        "total_distance": "330 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "9:49am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "144.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 1 hours 19 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "Nonstop", 
+        "total_distance": "330 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:54pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "ticket price": "144.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 5 hours 8 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:06am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "12:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 5 hours 56 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:51am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 6 hours 14 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "12:14pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 6 hours 48 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "5:43pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:34pm"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 5 hours 7 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "4:02pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 3 hours 52 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 6 hours 38 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:01pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:38pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:29pm"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 4 hours 56 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:39pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:34pm"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:18pm"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 3 hours 55 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "8:46am"
+            }
+        ], 
+        "ticket price": "237.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 10 hours 2 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "4:02pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 7 hours 41 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:06am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 8 hours 47 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "2:47pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "1:40pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 10 hours 37 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:06am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "5:43pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:34pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:51am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "4:02pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 8 hours 56 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "9:06am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:06am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "4:02pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:51am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "5:43pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "4:34pm"
+            }
+        ], 
+        "ticket price": "243.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 6 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,776 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:53am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:58am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "1:24pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "ticket price": "246.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 8 hours 36 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,776 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "8:53am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:58am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "3:34pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "ticket price": "246.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 6 hours 23 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "1 Stops", 
+        "total_distance": "1,776 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "6:42pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:03pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "ticket price": "294.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 9 hours 35 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "7:18pm"
+            }
+        ], 
+        "ticket price": "304.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "872 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:39pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:34pm"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:38pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:29pm"
+            }
+        ], 
+        "ticket price": "352.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 8 hours 13 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "1,776 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "4:46pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:50pm"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:03pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "ticket price": "380.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JAX", 
+            "airportCity": "Jacksonville"
+        }, 
+        "travel_date": "12/30/17", 
+        "flight duration": "0 days 11 hours 19 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "1,776 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "arrival_time": "1:40pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:44am"
+            }, 
+            {
+                "arrival_airport": "Jacksonville, FL (JAX-Jacksonville Intl.)", 
+                "arrival_time": "11:03pm", 
+                "departure_airport": "Houston, TX (IAH-George Bush Intercontinental)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "ticket price": "386.40", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }
+]

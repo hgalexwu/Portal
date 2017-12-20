@@ -1,0 +1,30 @@
+[
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "12/20/17", 
+        "flight duration": "0 days 2 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "1,107 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "3:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "3088.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }
+]

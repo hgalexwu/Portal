@@ -1,0 +1,1180 @@
+[
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:25pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "1067.34", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 35 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 32 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "8:40pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 33 hours 50 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "7:35pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 31 hours 10 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "10:12pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 32 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 30 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 31 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:30pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1106.38", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 21 hours 50 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "7:32am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1115.30", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 37 hours 30 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "3:52pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1123.70", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 33 hours 45 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "7:37pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1123.70", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "3:40pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1129.46", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 13 hours 50 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "1194.20", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 13 hours 50 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:30am"
+            }
+        ], 
+        "ticket price": "1194.20", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 19 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:50am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1265.16", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 21 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1265.16", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 20 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1265.16", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 22 hours 35 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:50am", 
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "departure_time": "9:15am"
+            }
+        ], 
+        "ticket price": "1299.64", 
+        "airline": "TAP Portugal", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "3 days 40 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "1352.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 21 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "1352.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 34 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "1352.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 23 hours 40 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "4:04pm"
+            }
+        ], 
+        "ticket price": "1443.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 34 hours 5 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:01pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "1462.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 34 hours 58 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:32pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "1462.60", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 20 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "1492.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "2 days 31 hours 55 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "departure_time": "2:40am"
+            }
+        ], 
+        "ticket price": "1505.44", 
+        "airline": "Ethiopian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 17 hours 0 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "12:22pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1538.80", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Express - Sky Regional"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1538.80", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 17 hours 30 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1538.80", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 20 hours 19 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:31am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1551.26", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Expressjet Airlines/united Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:46am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:20am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "1611.34", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 28 hours 5 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "ticket price": "1611.34", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "1640.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:46am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "1649.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "PEK", 
+            "airportCity": "Beijing"
+        }, 
+        "travel_date": "02/20/18", 
+        "flight duration": "1 days 32 hours 0 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chongqing, China (CKG-Jiangbei Intl.)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:50am"
+            }, 
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Chongqing, China (CKG-Jiangbei Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "ticket price": "951.34", 
+        "airline": "Hainan Airlines", 
+        "carrier_operatedby": ""
+    }
+]

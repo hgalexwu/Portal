@@ -1,0 +1,1288 @@
+[
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "2,632 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "2:29pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "453.90", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "2,631 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "12:59pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:43am"
+            }
+        ], 
+        "ticket price": "462.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 8 hours 11 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,536 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "11:49am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:12am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "1:23pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "12:43pm"
+            }
+        ], 
+        "ticket price": "491.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 8 hours 58 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,588 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "arrival_time": "9:08pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "11:18pm", 
+                "departure_airport": "Salt Lake City, UT (SLC-Salt Lake City Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "496.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 9 hours 42 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "2,631 miles", 
+        "plane code": "75W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "7:26pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:45pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "10:27pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "496.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 10 hours 49 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,536 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:45pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "11:34pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "10:55pm"
+            }
+        ], 
+        "ticket price": "539.80", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "2,632 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "12:31pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "2:29pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "543.90", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 9 hours 59 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,631 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "12:59pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:43am"
+            }
+        ], 
+        "ticket price": "564.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 10 hours 28 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,631 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "2:43pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "ticket price": "581.80", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 43 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,631 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "2:43pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "ticket price": "589.40", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "2,536 miles", 
+        "plane code": "73H", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "1:56pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "594.80", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "2,632 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:15am"
+            }, 
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "12:54pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:59am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "598.90", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,631 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "12:31pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "2:43pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "ticket price": "623.80", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 12 hours 50 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "2,632 miles", 
+        "plane code": "73J", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "12:54pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:59am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "627.90", 
+        "airline": "Alaska Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 10 hours 21 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "2,536 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "11:41am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:29am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "655.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 8 hours 6 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "2,536 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "9:42pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:28pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "11:34pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "10:55pm"
+            }
+        ], 
+        "ticket price": "655.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "3,092 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "arrival_time": "1:39pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "4:18pm", 
+                "departure_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "ticket price": "664.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "3,018 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "7:01pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "3:25pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:48pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:13pm"
+            }
+        ], 
+        "ticket price": "670.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "1 days 10 hours 21 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "3,018 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "8:41pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "12:36am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:55pm"
+            }
+        ], 
+        "ticket price": "670.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "1 days 9 hours 36 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "3,018 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:14pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "12:36am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "10:55pm"
+            }
+        ], 
+        "ticket price": "670.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 10 hours 58 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "3,018 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:50pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:48pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:13pm"
+            }
+        ], 
+        "ticket price": "670.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 58 minutes", 
+        "plane": "Boeing 757-200", 
+        "stops": "1 Stops", 
+        "total_distance": "3,018 miles", 
+        "plane code": "752", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "4:28pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "12:50pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:48pm", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "8:13pm"
+            }
+        ], 
+        "ticket price": "670.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 13 hours 56 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:07pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "686.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 18 hours 29 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "12:03pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:20am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "692.00", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "2,537 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Portland, OR (PDX-Portland Intl.)", 
+                "departure_time": "3:12pm"
+            }
+        ], 
+        "ticket price": "717.90", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 13 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "3,277 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DAL-Love Field)", 
+                "arrival_time": "9:47am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Dallas, TX (DAL-Love Field)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "2:43pm", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "ticket price": "722.90", 
+        "airline": "Skywest Airlines As Alaskaskywest", 
+        "carrier_operatedby": "Skywest Airlines As Alaskaskywest"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 12 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,368 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "3:51pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:53pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "728.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 9 hours 6 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "3,092 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "10:12am"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "4:18pm", 
+                "departure_airport": "Phoenix, AZ (PHX-Sky Harbor Intl.)", 
+                "departure_time": "2:30pm"
+            }
+        ], 
+        "ticket price": "785.80", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 13 hours 29 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:42pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "846.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 14 hours 52 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:32pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:07am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "846.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 14 hours 52 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:32pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:07am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "846.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 13 hours 29 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:42pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "846.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "1 days 15 hours 56 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "2,638 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "1:40pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:35am"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "12:31am", 
+                "departure_airport": "Seattle, WA (SEA-Seattle - Tacoma Intl.)", 
+                "departure_time": "11:31pm"
+            }
+        ], 
+        "ticket price": "862.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 11 hours 59 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:07pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "882.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EUG", 
+            "airportCity": "Eugene"
+        }, 
+        "travel_date": "05/20/18", 
+        "flight duration": "0 days 13 hours 56 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "3,416 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:07pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "arrival_time": "6:54pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Eugene, OR (EUG-Mahlon Sweet Field)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Los Angeles, CA (LAX-Los Angeles Intl.)", 
+                "departure_time": "7:43pm"
+            }
+        ], 
+        "ticket price": "882.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }
+]

@@ -1,0 +1,1408 @@
+[
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "9:31pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:00am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1084.54", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 35 hours 35 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1090.54", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 30 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Denpasar, Indonesia (DPS-Ngurah Rai Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Denpasar, Indonesia (DPS-Ngurah Rai Intl.)", 
+                "departure_time": "1:55pm"
+            }
+        ], 
+        "ticket price": "1123.11", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 35 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Denpasar, Indonesia (DPS-Ngurah Rai Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "2:45am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Denpasar, Indonesia (DPS-Ngurah Rai Intl.)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "ticket price": "1123.11", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 35 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Denpasar, Indonesia (DPS-Ngurah Rai Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Denpasar, Indonesia (DPS-Ngurah Rai Intl.)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "ticket price": "1123.11", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "3 days 57 hours 15 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:25pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "10:10am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1173.45", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 36 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "ticket price": "1206.85", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 27 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "7:50am"
+            }
+        ], 
+        "ticket price": "1206.85", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 36 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "4:30pm"
+            }
+        ], 
+        "ticket price": "1213.85", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 46 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "9:54am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1225.51", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 36 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "6:24pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "1:20am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1232.51", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 31 hours 40 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:38pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "1:20am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1237.61", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Westjet Encore For Westjet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:24pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "1:20am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1237.61", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:38pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "1:20am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1237.61", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Westjet Encore For Westjet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 43 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:24am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "1:20am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1243.84", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 43 hours 40 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:38am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "1:20am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1243.84", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Westjet Encore For Westjet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 42 hours 40 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "12:38pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "11:00am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:15pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1252.98", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Westjet Encore For Westjet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 43 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "11:24am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "2:15pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1252.98", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 40 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "9:18pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:30am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1272.54", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 15 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:25pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1320.08", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 46 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "9:54am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1343.15", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "3 days 57 hours 15 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:25pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:45pm"
+            }
+        ], 
+        "ticket price": "1358.52", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 40 hours 30 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "stops": "3 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "arrival_time": "5:30am", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "12:40am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "departure_time": "2:10pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "694.63", 
+        "airline": "China Airlines", 
+        "carrier_operatedby": "WestJet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 35 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "3:05am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 36 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "3:05am"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 28 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "11:10am"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 27 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 33 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:45pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 36 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 34 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "6:45pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 35 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 30 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 32 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SUB", 
+            "airportCity": "Surabaya"
+        }, 
+        "travel_date": "09/19/18", 
+        "flight duration": "2 days 30 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Surabaya, Indonesia (SUB-Juanda)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Jakarta, Indonesia (CGK-Soekarno-Hatta Intl.)", 
+                "departure_time": "12:50pm"
+            }
+        ], 
+        "ticket price": "792.12", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

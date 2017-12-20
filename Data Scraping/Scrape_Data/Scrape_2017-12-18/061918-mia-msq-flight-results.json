@@ -1,0 +1,1390 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 33 hours 50 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "5,846 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "12:23am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:05pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "11:55am"
+            }
+        ], 
+        "ticket price": "1624.13", 
+        "airline": "Air Canada Rouge", 
+        "carrier_operatedby": "Air Canada Rouge"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 21 hours 30 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "5,846 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "3:48pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "1740.40", 
+        "airline": "Air Canada Rouge", 
+        "carrier_operatedby": "Air Canada Rouge"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 27 hours 40 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "5,846 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:38am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "arrival_time": "12:30pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Warsaw, Poland (WAW-Frederic Chopin)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "1772.13", 
+        "airline": "Air Canada Rouge", 
+        "carrier_operatedby": "Air Canada Rouge"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 11 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "5,631 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "ticket price": "1799.00", 
+        "airline": "Finnair", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 14 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,708 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2482.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "3:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2493.10", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2493.10", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2493.10", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2493.10", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2494.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 14 hours 45 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,708 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "2:55pm"
+            }
+        ], 
+        "ticket price": "2877.30", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "2:20pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "12:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2885.50", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2885.50", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "3:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2885.50", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 36 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,967 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "11:50am"
+            }
+        ], 
+        "ticket price": "2886.90", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 21 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "5,671 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "3009.80", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 22 hours 15 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "6,515 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "3010.50", 
+        "airline": "Austrian Airlines", 
+        "carrier_operatedby": "United"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 19 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,690 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "3011.20", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 19 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,690 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "3011.20", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 21 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3011.70", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": "Swiss International Air Lines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 18 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,900 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "1:20pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:15pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "3014.70", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "Swiss International Air Lines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "6,177 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "3:48pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "3016.50", 
+        "airline": "Air Canada Rouge", 
+        "carrier_operatedby": "Air Canada Rouge"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "1 days 22 hours 15 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "2 Stops", 
+        "total_distance": "6,515 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:30am"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "4:20pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "3017.50", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 21 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "3:10pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 21 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "3:10pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 21 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 21 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "2:00pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,870 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:50am"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3029.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "06/19/18", 
+        "flight duration": "2 days 23 hours 55 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "5,829 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Vienna, Austria (VIE-Vienna Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3042.60", 
+        "airline": "Austrian Airlines", 
+        "carrier_operatedby": "Lufthansa"
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "Ouagadougou, Burkina Faso (OUA)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Ouagadougou, Burkina Faso (OUA)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "1193.55", 
+        "airline": "ASKY", 
+        "carrier_operatedby": "ASKY"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "1 days 19 hours 35 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "5:10am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:15pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "12:55pm"
+            }
+        ], 
+        "ticket price": "1657.53", 
+        "airline": "South African Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "1 days 22 hours 35 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "8:15pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "1773.95", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "ticket price": "179.75", 
+        "airline": "Rwandair", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "198.65", 
+        "airline": "Hahn Air Systems", 
+        "carrier_operatedby": "Africa World Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "12:05pm"
+            }
+        ], 
+        "ticket price": "198.65", 
+        "airline": "Hahn Air Systems", 
+        "carrier_operatedby": "Africa World Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "5:10pm"
+            }
+        ], 
+        "ticket price": "198.65", 
+        "airline": "Hahn Air Systems", 
+        "carrier_operatedby": "Africa World Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "ticket price": "198.65", 
+        "airline": "Hahn Air Systems", 
+        "carrier_operatedby": "Africa World Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "1 days 21 hours 30 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "4:55am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:25pm"
+            }
+        ], 
+        "ticket price": "3093.72", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "1 days 21 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "4285.64", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "12:50pm"
+            }
+        ], 
+        "ticket price": "473.30", 
+        "airline": "Ethiopian Airlines", 
+        "carrier_operatedby": "ASKY"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "1 days 22 hours 30 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Addis Ababa, Ethiopia (ADD-Bole Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "525.20", 
+        "airline": "Ethiopian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "12:50pm"
+            }
+        ], 
+        "ticket price": "575.85", 
+        "airline": "ASKY", 
+        "carrier_operatedby": "ASKY"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "3 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "Cotonou, Benin (COO-Cadjehoun)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Ouagadougou, Burkina Faso (OUA)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Cotonou, Benin (COO-Cadjehoun)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Ouagadougou, Burkina Faso (OUA)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "911.10", 
+        "airline": "ASKY", 
+        "carrier_operatedby": "ASKY"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "Ouagadougou, Burkina Faso (OUA)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "6:20pm", 
+                "departure_airport": "Ouagadougou, Burkina Faso (OUA)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "911.10", 
+        "airline": "ASKY", 
+        "carrier_operatedby": "ASKY"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "1 days 23 hours 55 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)", 
+                "arrival_time": "7:35pm", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "12:15pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Nairobi, Kenya (NBO-Jomo Kenyatta Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "930.50", 
+        "airline": "Kenya Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ACC", 
+            "airportCity": "Accra"
+        }, 
+        "travel_date": "02/12/18", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "Abidjan, Cote d'ivoire (ABJ-Felix Houphouet-Boigny Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Lome, Togo (LFW-Gnassingbe Eyadema Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Accra, Ghana (ACC-Kotoka Intl.)", 
+                "arrival_time": "5:10pm", 
+                "departure_airport": "Abidjan, Cote d'ivoire (ABJ-Felix Houphouet-Boigny Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "ticket price": "984.35", 
+        "airline": "ASKY", 
+        "carrier_operatedby": "ASKY"
+    }
+]

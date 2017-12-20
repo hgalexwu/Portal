@@ -1,0 +1,1162 @@
+[
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 2 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:22pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:10pm"
+            }
+        ], 
+        "ticket price": "122.86", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 6 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "5:28pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "122.86", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 45 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "123.86", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "2:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "128.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 42 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "5:02pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "128.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "ticket price": "139.01", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "7:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "ticket price": "149.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:40am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "154.01", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 23 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:33pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "157.86", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 2 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:25pm"
+            }
+        ], 
+        "ticket price": "162.86", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 7 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "4:15am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "2:35am"
+            }
+        ], 
+        "ticket price": "172.01", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 58 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "9:58pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "172.01", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 2 hours 0 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "172.01", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "2:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 36 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "9:21pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:45am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 47 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:02am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 30 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 17 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:45am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:02am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:15pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 6 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "9:21pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 18 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:15pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:33pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 33 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:33pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "2:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 30 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "2:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 48 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:33pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 17 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "5:02pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 48 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:55pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "11:33pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "2:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:10pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 3 hours 27 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "1:35pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "5:02pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 4 hours 41 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "9:21pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "173.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "POA", 
+            "airportCity": "Porto Alegre"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 6 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "94.01", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }
+]

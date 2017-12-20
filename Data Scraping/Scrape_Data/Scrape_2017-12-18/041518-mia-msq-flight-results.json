@@ -1,0 +1,1384 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 21 hours 3 minutes", 
+        "plane": "Boeing 767-300", 
+        "stops": "2 Stops", 
+        "total_distance": "5,658 miles", 
+        "plane code": "763", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:32pm"
+            }, 
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "4:15pm"
+            }
+        ], 
+        "ticket price": "1446.50", 
+        "airline": "Finnair", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "2 days 32 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "6,161 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "ticket price": "1729.60", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "2 days 18 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "6,161 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "10:55pm"
+            }
+        ], 
+        "ticket price": "1729.60", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 14 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "6,161 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "8:30pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "7:05pm"
+            }
+        ], 
+        "ticket price": "1729.60", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 18 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "5,850 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 19 hours 14 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 20 hours 27 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 19 hours 14 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 22 hours 35 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 21 hours 35 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 24 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 18 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "6,103 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:26pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 24 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "5,850 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:04am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 18 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "5,850 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "2366.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "5,682 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 20 hours 14 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 16 hours 25 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,019 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:21pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "5,682 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 18 hours 5 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,682 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:25pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 20 hours 14 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2772.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 21 hours 27 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 21 hours 27 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 22 hours 35 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 22 hours 35 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "11:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55am"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 20 hours 14 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 19 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "3:26pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 18 hours 5 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "2:25pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 16 hours 25 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "6,019 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:21pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 23 hours 35 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:51am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:55am"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 17 hours 5 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,682 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:25pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 20 hours 14 minutes", 
+        "plane": "BOEING (DOUGLAS) MD-88", 
+        "stops": "2 Stops", 
+        "total_distance": "5,935 miles", 
+        "plane code": "M88", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "2:19pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:16pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:01pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MSQ", 
+            "airportCity": "Minsk"
+        }, 
+        "travel_date": "04/15/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "5,682 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Minsk, Belarus (MSQ-Minsk Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:00pm"
+            }
+        ], 
+        "ticket price": "2774.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

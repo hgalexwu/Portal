@@ -1,0 +1,1132 @@
+[
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 23 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:45pm"
+            }, 
+            {
+                "arrival_airport": "Fuzhou, China (FOC-Changle Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "departure_time": "8:20am"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Fuzhou, China (FOC-Changle Intl.)", 
+                "departure_time": "6:20pm"
+            }
+        ], 
+        "ticket price": "1004.80", 
+        "airline": "Xiamen Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 17 hours 0 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "1057.80", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 18 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "1057.80", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 19 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "1057.80", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "9:55pm", 
+                "departure_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "departure_time": "6:40pm"
+            }
+        ], 
+        "ticket price": "1119.40", 
+        "airline": "Vietnam Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1220.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1220.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1220.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1220.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:35pm"
+            }
+        ], 
+        "ticket price": "1296.60", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": "China Eastern Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1296.60", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": "China Eastern Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 13 hours 30 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:30pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "departure_time": "10:20am"
+            }
+        ], 
+        "ticket price": "1345.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 12 hours 55 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "7:10am"
+            }
+        ], 
+        "ticket price": "1350.60", 
+        "airline": "Cathay Dragon", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 15 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "arrival_time": "10:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "departure_time": "10:20am"
+            }
+        ], 
+        "ticket price": "1561.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 13 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "12:00pm", 
+                "departure_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "departure_time": "10:20am"
+            }
+        ], 
+        "ticket price": "1561.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "9:55pm", 
+                "departure_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "departure_time": "6:40pm"
+            }
+        ], 
+        "ticket price": "1567.40", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "3:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:30pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "9:55pm", 
+                "departure_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "departure_time": "6:40pm"
+            }
+        ], 
+        "ticket price": "1673.40", 
+        "airline": "Vietnam Airlines", 
+        "carrier_operatedby": "Vietnam Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 14 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "4:25pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "9:55pm", 
+                "departure_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "departure_time": "6:40pm"
+            }
+        ], 
+        "ticket price": "1760.60", 
+        "airline": "Cathay Dragon", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "arrival_time": "11:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Nanjing, China (NKG-Lukou Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "1777.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "1 days 15 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hangzhou, China (HGH-Xiaoshan Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "Hangzhou, China (HGH-Xiaoshan Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "1878.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "6:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "4:35pm"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "Mandarin Airlines", 
+        "carrier_operatedby": "China Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "6:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "4:35pm"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "China Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "Mandarin Airlines", 
+        "carrier_operatedby": "China Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:35pm"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "Mandarin Airlines", 
+        "carrier_operatedby": "China Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:20am"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "Mandarin Airlines", 
+        "carrier_operatedby": "China Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:35pm"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "China Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "11:50am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:20am"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "China Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "559.40", 
+        "airline": "China Airlines", 
+        "carrier_operatedby": "Mandarin Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "6:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "4:40pm"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "9:25am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "10:20am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:55am"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "KHH", 
+            "airportCity": "Kaohsiung"
+        }, 
+        "travel_date": "07/26/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kaohsiung, Taiwan (KHH-Kaohsiung Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:00pm"
+            }
+        ], 
+        "ticket price": "823.40", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }
+]

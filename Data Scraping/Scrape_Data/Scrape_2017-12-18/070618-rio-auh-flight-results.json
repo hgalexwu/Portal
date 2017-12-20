@@ -1,0 +1,1342 @@
+[
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "3 days 47 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "4:50am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "1:40am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "1359.93", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": "Azul"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 30 hours 15 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:30pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "ticket price": "1427.51", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 27 hours 50 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:40am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "1430.34", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 41 hours 15 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:50pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "10:45am"
+            }
+        ], 
+        "ticket price": "1444.79", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 38 hours 20 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:30pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "1463.51", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 33 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (AEP-Aeroparque Jorge Newbery)", 
+                "arrival_time": "6:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:35pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "10:45pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "1471.52", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 38 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (AEP-Aeroparque Jorge Newbery)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:10am"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "10:45pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "1471.52", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "3 days 51 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buenos Aires, Argentina (AEP-Aeroparque Jorge Newbery)", 
+                "arrival_time": "12:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:40pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-Ministro Pistarini Intl.)", 
+                "departure_time": "10:45pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "1481.52", 
+        "airline": "Aerolineas Argentinas", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 20 hours 30 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "ticket price": "1762.52", 
+        "airline": "Alitalia", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 31 hours 50 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "1762.52", 
+        "airline": "Alitalia", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 23 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "3:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "ticket price": "1778.59", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 25 hours 45 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "12:55pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:45am"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "5:15pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "ticket price": "1778.59", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 39 hours 15 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:56am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "5:46pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "2025.50", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 39 hours 15 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:56am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "2103.50", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 19 hours 9 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:05am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "4:14am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:00am"
+            }
+        ], 
+        "ticket price": "2165.95", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 26 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "4:14am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:00am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 23 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "12:01am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 27 hours 20 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "12:01am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 25 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "4:14am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:00am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 24 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:05pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "12:01am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 22 hours 50 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "12:01am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 24 hours 49 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "4:14am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:00am"
+            }
+        ], 
+        "ticket price": "2181.87", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 25 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "12:01am"
+            }
+        ], 
+        "ticket price": "2182.02", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 23 hours 15 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "2:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "12:01am"
+            }
+        ], 
+        "ticket price": "2182.02", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 27 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "4:14am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:00am"
+            }
+        ], 
+        "ticket price": "2182.02", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "ZVJ", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 25 hours 14 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (ZVJ-Abu Dhabi Bus Station)", 
+                "arrival_time": "4:14am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "2:00am"
+            }
+        ], 
+        "ticket price": "2182.02", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 38 hours 40 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "5:56am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "9:40am", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "10:40am"
+            }
+        ], 
+        "ticket price": "2231.08", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 20 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "2446.75", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 31 hours 50 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "9:05pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "ticket price": "2455.67", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Gol Linhas Aereas S.a."
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 34 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "3:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "9:05pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "ticket price": "2455.82", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Gol Linhas Aereas S.a."
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 23 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "3:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "8:15am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "2455.82", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Gol Linhas Aereas S.a."
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 29 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "9:05pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "ticket price": "2455.82", 
+        "airline": "Air France", 
+        "carrier_operatedby": "Gol Linhas Aereas S.a."
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 31 hours 10 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:40am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "ticket price": "2457.55", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "1 days 27 hours 20 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "5:25pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "2507.31", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "AUH", 
+            "airportCity": "Abu Dhabi"
+        }, 
+        "travel_date": "07/06/18", 
+        "flight duration": "2 days 20 hours 20 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "1:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "2:05pm"
+            }
+        ], 
+        "ticket price": "2618.39", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }
+]

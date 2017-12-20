@@ -1,0 +1,1210 @@
+[
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 25 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "ticket price": "10528.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "1:55am"
+            }
+        ], 
+        "ticket price": "10528.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 37 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "10535.60", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 23 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:35pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:10am"
+            }
+        ], 
+        "ticket price": "11109.00", 
+        "airline": "Singapore Airlines", 
+        "carrier_operatedby": "Virgin Atlantic"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 24 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "10:35am"
+            }
+        ], 
+        "ticket price": "11859.60", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 29 hours 15 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:02pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "ticket price": "12055.40", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 41 hours 30 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:02pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "12062.60", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 38 hours 15 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "ticket price": "12176.66", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 41 hours 30 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "7:02pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:00pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "12176.66", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 61 hours 40 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "12807.50", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 59 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:32am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:30am"
+            }
+        ], 
+        "ticket price": "12807.50", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 53 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:32am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "1:55am"
+            }
+        ], 
+        "ticket price": "12869.16", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "12:32am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:35pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "8:15pm"
+            }
+        ], 
+        "ticket price": "12869.16", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 55 hours 5 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "2:55pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "1:55am"
+            }
+        ], 
+        "ticket price": "12869.16", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 28 hours 0 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "12:02pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Tokyo, Japan (NRT-Narita Intl.)", 
+                "departure_time": "5:55pm"
+            }
+        ], 
+        "ticket price": "13095.80", 
+        "airline": "Japan Airlines", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 27 hours 25 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "10:39am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Seoul, South Korea (ICN-Incheon Intl.)", 
+                "arrival_time": "4:45pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "12:24pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "12:10am", 
+                "departure_airport": "Seoul, South Korea (ICN-Incheon Intl.)", 
+                "departure_time": "6:35pm"
+            }
+        ], 
+        "ticket price": "13765.00", 
+        "airline": "Korean Air", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:50pm"
+            }
+        ], 
+        "ticket price": "16759.80", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "11:50am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "16796.00", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:10pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "4:35pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:50pm"
+            }
+        ], 
+        "ticket price": "17119.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 27 hours 45 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "9:27pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:20pm"
+            }, 
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "10:05am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "17249.00", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 25 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "ticket price": "21242.60", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 29 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:25pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "7:05pm"
+            }
+        ], 
+        "ticket price": "23015.00", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 20 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:00pm", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "9:55am"
+            }
+        ], 
+        "ticket price": "24715.00", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Virgin Atlantic"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 44 hours 10 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:55pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "Rome, Italy (FCO-Fiumicino - Leonardo da Vinci Intl.)", 
+                "departure_time": "11:15am"
+            }
+        ], 
+        "ticket price": "24793.20", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 30 hours 10 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "3:48pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "6:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "11:40am"
+            }
+        ], 
+        "ticket price": "24860.60", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": "Air Canada Rouge"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 25 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "Lisbon, Portugal (LIS-Humberto Delgado)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "12:40pm"
+            }
+        ], 
+        "ticket price": "32217.00", 
+        "airline": "TAP Portugal", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:45am"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "9:20am"
+            }
+        ], 
+        "ticket price": "6920.40", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 30 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "6:05am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "ticket price": "7248.40", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Qatar Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 30 hours 30 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "11:15pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "5:45pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "2:25am"
+            }
+        ], 
+        "ticket price": "7574.00", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 25 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "arrival_time": "9:36pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "San Francisco, CA (SFO-San Francisco Intl.)", 
+                "departure_time": "11:25pm"
+            }
+        ], 
+        "ticket price": "8325.20", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 29 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:45pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "9008.80", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "SIN", 
+            "airportCity": "Singapore"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 31 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:48pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:15am"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "3:05pm"
+            }, 
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:50am"
+            }
+        ], 
+        "ticket price": "9163.20", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "American Airlines"
+    }
+]

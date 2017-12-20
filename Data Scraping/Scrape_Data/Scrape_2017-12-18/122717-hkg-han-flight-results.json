@@ -1,0 +1,314 @@
+[
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "5:45pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "3:55pm"
+            }
+        ], 
+        "ticket price": "1292.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "0 days 11 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Chengdu, China (CTU-Shuangliu Intl.)", 
+                "arrival_time": "1:45pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "11:10am"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Chengdu, China (CTU-Shuangliu Intl.)", 
+                "departure_time": "5:15pm"
+            }
+        ], 
+        "ticket price": "1357.90", 
+        "airline": "Cathay Dragon", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "6:35pm"
+            }
+        ], 
+        "ticket price": "1389.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "1521.30", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "1 days 13 hours 50 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:45pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "9:35am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "7:45am"
+            }
+        ], 
+        "ticket price": "1521.30", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "1 days 23 hours 35 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:45pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "1522.90", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "1 days 21 hours 50 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "9:35am", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "7:45am"
+            }
+        ], 
+        "ticket price": "1522.90", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "10:40am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:35am"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "ticket price": "1663.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HAN", 
+            "airportCity": "Hanoi"
+        }, 
+        "travel_date": "12/27/17", 
+        "flight duration": "0 days 7 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "4:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Hanoi, Vietnam (HAN-Noi Bai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "6:35pm"
+            }
+        ], 
+        "ticket price": "1760.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

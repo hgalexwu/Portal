@@ -1,0 +1,530 @@
+[
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 14 hours 28 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "1,518 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "11:41pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "11:58am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "ticket price": "1104.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 16 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,518 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:39pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:25pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "11:58am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "ticket price": "1452.40", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 3 hours 6 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "4:34pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "3:34pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3376.80", 
+        "airline": "Republic Airlines As American Eagle", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "2:24pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "1:25pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3376.80", 
+        "airline": "Republic Airlines As American Eagle", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "1:06pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:05pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3376.80", 
+        "airline": "Republic Airlines As American Eagle", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 10 hours 35 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "11:47pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:45pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "3376.80", 
+        "airline": "Republic Airlines As American Eagle", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "10:39am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:40am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3376.80", 
+        "airline": "Republic Airlines As American Eagle", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "11:38am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3376.80", 
+        "airline": "Republic Airlines As American Eagle", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 12 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,534 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "1:37pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3388.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 10 hours 11 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "1,534 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:37am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:29am"
+            }, 
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "1:37pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:25am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3388.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 12 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "1,534 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:46am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "11:39am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:29am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "3388.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 5 hours 25 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "1,469 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "8:59am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:06am"
+            }
+        ], 
+        "ticket price": "4142.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,469 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:57am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "10:06am"
+            }
+        ], 
+        "ticket price": "4142.40", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "Boeing 737", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "737", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "9:35am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:40am"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "6:40pm", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "980.80", 
+        "airline": "Bahamasair", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "GGT", 
+            "airportCity": "George Town"
+        }, 
+        "travel_date": "12/22/17", 
+        "flight duration": "1 days 12 hours 40 minutes", 
+        "plane": "Boeing 737", 
+        "stops": "1 Stops", 
+        "total_distance": "333 miles", 
+        "plane code": "737", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "George Town, Bahamas (GGT-Exuma Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Nassau, Bahamas (NAS-Nassau Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "980.80", 
+        "airline": "Bahamasair", 
+        "carrier_operatedby": ""
+    }
+]

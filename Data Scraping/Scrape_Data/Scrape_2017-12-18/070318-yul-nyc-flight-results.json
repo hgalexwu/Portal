@@ -1,0 +1,1156 @@
+[
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "1:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "11:55am"
+            }
+        ], 
+        "ticket price": "1000.78", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 7 hours 3 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "10:03am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "3:48pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "2:13pm"
+            }
+        ], 
+        "ticket price": "1000.78", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 48 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "3:23pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "1:33pm"
+            }
+        ], 
+        "ticket price": "1093.12", 
+        "airline": "GoJet Airlines DBA Delta Connectio", 
+        "carrier_operatedby": "GoJet Airlines DBA Delta Connectio"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 7 hours 9 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "12:26pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:35pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:50pm"
+            }
+        ], 
+        "ticket price": "1093.12", 
+        "airline": "Endeavor Air DBA Delta Connection", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:46pm"
+            }
+        ], 
+        "ticket price": "1093.12", 
+        "airline": "GoJet Airlines DBA Delta Connectio", 
+        "carrier_operatedby": "GoJet Airlines DBA Delta Connectio"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 5 hours 9 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "12:26pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:46pm"
+            }
+        ], 
+        "ticket price": "1093.12", 
+        "airline": "Endeavor Air DBA Delta Connection", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "12:26pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "1095.28", 
+        "airline": "Endeavor Air DBA Delta Connection", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 5 hours 49 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "8:19am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "12:19pm", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "1120.28", 
+        "airline": "WestJet Encore", 
+        "carrier_operatedby": "WestJet Encore"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:26am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "3:15pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:15pm"
+            }
+        ], 
+        "ticket price": "1134.78", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 8 hours 36 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:26am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "4:01pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:09pm"
+            }
+        ], 
+        "ticket price": "1134.78", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 5 hours 14 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:09pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "4:46pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "ticket price": "1155.48", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "3:50pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "1:59pm"
+            }
+        ], 
+        "ticket price": "1155.48", 
+        "airline": "Delta", 
+        "carrier_operatedby": "GoJet Airlines DBA Delta Connectio"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:51am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:30am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "12:07pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "10:15am"
+            }
+        ], 
+        "ticket price": "1155.48", 
+        "airline": "Delta", 
+        "carrier_operatedby": "GoJet Airlines DBA Delta Connectio"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 5 hours 4 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "7:51am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:30am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "10:34am", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "1155.48", 
+        "airline": "Delta", 
+        "carrier_operatedby": "GoJet Airlines DBA Delta Connectio"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:47pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:35am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "5:29pm", 
+                "departure_airport": "Detroit, MI (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "1160.78", 
+        "airline": "GoJet Airlines DBA Delta Connectio", 
+        "carrier_operatedby": "GoJet Airlines DBA Delta Connectio"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:26am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "2:59pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:05pm"
+            }
+        ], 
+        "ticket price": "1175.28", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 8 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:26am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:33pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "11:35am"
+            }
+        ], 
+        "ticket price": "1175.28", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 2 hours 4 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "8:49am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:45am"
+            }
+        ], 
+        "ticket price": "431.88", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 1 hours 54 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "8:54am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "440.88", 
+        "airline": "Delta", 
+        "carrier_operatedby": "ExpressJet DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 1 hours 49 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "12:32pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:43am"
+            }
+        ], 
+        "ticket price": "440.88", 
+        "airline": "Delta", 
+        "carrier_operatedby": "ExpressJet DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 1 hours 52 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:08pm"
+            }
+        ], 
+        "ticket price": "440.88", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 1 hours 47 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "2:59pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:12pm"
+            }
+        ], 
+        "ticket price": "440.88", 
+        "airline": "Delta", 
+        "carrier_operatedby": "ExpressJet DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 4 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "1:49pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:30pm"
+            }
+        ], 
+        "ticket price": "446.78", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 1 hours 41 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "5:41pm"
+            }
+        ], 
+        "ticket price": "458.88", 
+        "airline": "United", 
+        "carrier_operatedby": "Republic Airlines DBA United Expre"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "arrival_time": "3:28pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:45pm"
+            }, 
+            {
+                "arrival_airport": "New York, NY (LGA-LaGuardia)", 
+                "arrival_time": "7:26pm", 
+                "departure_airport": "Philadelphia, PA (PHL-Philadelphia Intl.)", 
+                "departure_time": "6:10pm"
+            }
+        ], 
+        "ticket price": "473.78", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 53 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:21pm"
+            }
+        ], 
+        "ticket price": "510.12", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:07pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:07pm"
+            }
+        ], 
+        "ticket price": "510.12", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:07pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:07pm"
+            }
+        ], 
+        "ticket price": "523.28", 
+        "airline": "United", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 53 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:21pm"
+            }
+        ], 
+        "ticket price": "523.28", 
+        "airline": "United", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 2 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "5:07pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "ticket price": "523.28", 
+        "airline": "United", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "8:45pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "7:07pm"
+            }
+        ], 
+        "ticket price": "523.28", 
+        "airline": "United", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 8 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "5:07pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "3:50pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:58pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "6:21pm"
+            }
+        ], 
+        "ticket price": "523.28", 
+        "airline": "United", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:29pm"
+            }
+        ], 
+        "ticket price": "665.48", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Canadair RJ", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "2:22pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "5:29pm"
+            }
+        ], 
+        "ticket price": "678.62", 
+        "airline": "United", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "travel_date": "07/03/18", 
+        "flight duration": "0 days 4 hours 18 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CR7", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "2:03pm", 
+                "departure_airport": "Washington, DC (IAD-Washington Dulles Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "854.12", 
+        "airline": "United", 
+        "carrier_operatedby": "Mesa Airlines DBA United Express"
+    }
+]

@@ -1,0 +1,1324 @@
+[
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 28 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "ticket price": "1227.88", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 40 hours 0 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "1290.56", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 43 hours 10 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "3:01pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "1332.61", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 16 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:25pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "1336.88", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 26 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 28 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 32 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "3:20pm", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 27 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "8:00am"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 28 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 29 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "12:15pm", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 28 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "3 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "4:00am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "Indore, India (IDR-Devi Ahilyabai Holkar Intl.)", 
+                "arrival_time": "8:25am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "Indore, India (IDR-Devi Ahilyabai Holkar Intl.)", 
+                "departure_time": "9:00am"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "Air India", 
+        "carrier_operatedby": "Air Canada"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 40 hours 20 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:38pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "12:30am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "ticket price": "1535.81", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": "WestJet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 40 hours 40 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:04pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:40pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "12:30am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "ticket price": "1535.81", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": "WestJet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 29 hours 0 minutes", 
+        "plane": "DE HAVILLAND DHC-8 DASH 8-400 DASH 8Q", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "DH4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:38pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "12:30am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "ticket price": "1618.81", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": "WestJet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 29 hours 20 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "arrival_time": "9:04pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:40pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:10am", 
+                "departure_airport": "Toronto, ON, Canada (YYZ-Pearson Intl.)", 
+                "departure_time": "12:30am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "7:30am"
+            }
+        ], 
+        "ticket price": "1618.81", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": "WestJet"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 24 hours 0 minutes", 
+        "plane": "BOEING 787-9", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "789", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:00pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "3:10pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:40am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "1754.94", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 20 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:40pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "5:15am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "8:55pm"
+            }
+        ], 
+        "ticket price": "1872.57", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 18 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:15pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:25am"
+            }
+        ], 
+        "ticket price": "2033.05", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:25am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2036.20", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2036.20", 
+        "airline": "Air France", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 19 hours 29 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:01pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "2046.24", 
+        "airline": "KLM", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 20 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "2068.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 20 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "2068.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 20 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:25am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "2068.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:25am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2068.20", 
+        "airline": "KLM", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 25 hours 16 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "9:44am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "2070.81", 
+        "airline": "United", 
+        "carrier_operatedby": "Republic Airlines DBA United Expre"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 18 hours 24 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:01pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2077.24", 
+        "airline": "Delta", 
+        "carrier_operatedby": "KLM"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 19 hours 29 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:01pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "12:45pm"
+            }
+        ], 
+        "ticket price": "2077.24", 
+        "airline": "Delta", 
+        "carrier_operatedby": "KLM"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 18 hours 20 minutes", 
+        "plane": "Canadair CRJ SERIES 705", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "CRA", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "arrival_time": "6:11pm", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "4:40pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "2077.81", 
+        "airline": "Air Canada Express - Jazz", 
+        "carrier_operatedby": "Air Canada Express - Jazz"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 18 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:15pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:25am"
+            }
+        ], 
+        "ticket price": "2084.05", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 16 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:25pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "2086.22", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 28 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "7:55pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "ticket price": "2086.22", 
+        "airline": "Air Canada", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "2 days 38 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "11:10am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "10:10pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:15pm", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "10:25am"
+            }
+        ], 
+        "ticket price": "2094.85", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "9:45am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "8:25am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2099.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "06/26/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "YUL", 
+            "airportCity": "Montreal"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Montreal, QC, Canada (YUL-Pierre Elliott Trudeau Intl.)", 
+                "departure_time": "6:10pm"
+            }, 
+            {
+                "arrival_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Paris, France (CDG-Roissy-Charles de Gaulle)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:55pm", 
+                "departure_airport": "Amsterdam, Netherlands (AMS-Schiphol)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "2099.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Air France"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "04/06/18", 
+        "flight duration": "1 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "12:58am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "8:00am", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "7:25am"
+            }
+        ], 
+        "ticket price": "1495.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "04/06/18", 
+        "flight duration": "0 days 4 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,114 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "arrival_time": "10:44am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:05am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "12:10pm", 
+                "departure_airport": "San Juan, Puerto Rico (SJU-Luis Munoz Marin Intl.)", 
+                "departure_time": "11:35am"
+            }
+        ], 
+        "ticket price": "1663.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "STT", 
+            "airportCity": "Charlotte Amalie"
+        }, 
+        "travel_date": "04/06/18", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "2,197 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "arrival_time": "7:56am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Charlotte Amalie, U.S. Virgin Islands (STT-Cyril E. King)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Atlanta, GA (ATL-Hartsfield-Jackson Atlanta Intl.)", 
+                "departure_time": "9:41am"
+            }
+        ], 
+        "ticket price": "4164.60", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }
+]

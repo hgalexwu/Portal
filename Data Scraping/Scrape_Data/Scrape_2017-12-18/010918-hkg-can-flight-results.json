@@ -1,0 +1,1146 @@
+[
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 6 hours 20 minutes", 
+        "plane": "Boeing 747", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "747", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "1073.30", 
+        "airline": "Thai Airways International", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:05pm"
+            }
+        ], 
+        "ticket price": "169.70", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "169.70", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 14 hours 30 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "5:25am"
+            }
+        ], 
+        "ticket price": "244.74", 
+        "airline": "Scoot with baggage", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 17 hours 25 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "5:25am"
+            }
+        ], 
+        "ticket price": "244.74", 
+        "airline": "Scoot with baggage", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "2 days 31 hours 5 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "2:05am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "244.74", 
+        "airline": "Scoot with baggage", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 22 hours 35 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "5:25am"
+            }
+        ], 
+        "ticket price": "244.74", 
+        "airline": "Scoot with baggage", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 10 hours 0 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "2:05am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "268.00", 
+        "airline": "Scoot with baggage", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 15 hours 10 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Singapore, Singapore (SIN-Changi)", 
+                "arrival_time": "3:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:55am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "2:05am", 
+                "departure_airport": "Singapore, Singapore (SIN-Changi)", 
+                "departure_time": "9:55pm"
+            }
+        ], 
+        "ticket price": "268.00", 
+        "airline": "Scoot with baggage", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 6 hours 30 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "arrival_time": "12:30am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "10:30pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Manila, Philippines (MNL-Ninoy Aquino Intl.)", 
+                "departure_time": "2:45am"
+            }
+        ], 
+        "ticket price": "289.60", 
+        "airline": "Philippine Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:20pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "320.30", 
+        "airline": "Xiamen Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 8 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "425.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 16 hours 10 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chengdu, China (CTU-Shuangliu Intl.)", 
+                "arrival_time": "8:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:10pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Chengdu, China (CTU-Shuangliu Intl.)", 
+                "departure_time": "7:00am"
+            }
+        ], 
+        "ticket price": "433.30", 
+        "airline": "Sichuan Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "departure_time": "3:30pm"
+            }
+        ], 
+        "ticket price": "468.30", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 17 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kuala Lumpur, Malaysia (KUL-Kuala Lumpur Intl.)", 
+                "arrival_time": "12:25am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:25pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Kuala Lumpur, Malaysia (KUL-Kuala Lumpur Intl.)", 
+                "departure_time": "9:25am"
+            }
+        ], 
+        "ticket price": "489.70", 
+        "airline": "Malaysia Airlines", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 7 hours 5 minutes", 
+        "plane": "Airbus A330", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "330", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "Bangkok, Thailand (BKK-Suvarnabhumi Intl.)", 
+                "departure_time": "3:25pm"
+            }
+        ], 
+        "ticket price": "550.30", 
+        "airline": "Bangkok Airways", 
+        "carrier_operatedby": "Cathay Pacific"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 5 hours 10 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "4:15pm", 
+                "departure_airport": "Taipei, Taiwan (TPE-Taoyuan Intl.)", 
+                "departure_time": "2:15pm"
+            }
+        ], 
+        "ticket price": "704.70", 
+        "airline": "China Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 19 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 21 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 17 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 19 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "11:00am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 20 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "6:15pm", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "7:15pm", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "4:00pm"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 20 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 10 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 13 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "6:00pm"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 15 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "7:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 9 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "6:15pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:00pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "9:00pm"
+            }
+        ], 
+        "ticket price": "728.30", 
+        "airline": "Air China", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:35pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "881.30", 
+        "airline": "Cathay Dragon", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "CAN", 
+            "airportCity": "Guangzhou"
+        }, 
+        "travel_date": "01/09/18", 
+        "flight duration": "1 days 23 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sydney, NSW, Australia (SYD-Kingsford Smith Intl.)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:50pm"
+            }, 
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "Sydney, NSW, Australia (SYD-Kingsford Smith Intl.)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "ticket price": "971.70", 
+        "airline": "Qantas Airways", 
+        "carrier_operatedby": ""
+    }
+]

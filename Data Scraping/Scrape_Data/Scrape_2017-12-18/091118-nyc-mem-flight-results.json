@@ -1,0 +1,1186 @@
+[
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 15 hours 7 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "2 Stops", 
+        "total_distance": "1,207 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Cleveland, OH (CLE-Hopkins Intl.)", 
+                "arrival_time": "9:31am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:45am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:33pm", 
+                "departure_airport": "Cleveland, OH (CLE-Hopkins Intl.)", 
+                "departure_time": "11:58am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:52pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:09pm"
+            }
+        ], 
+        "ticket price": "288.50", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 13 hours 2 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "1,623 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "4:09pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:55pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:52pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:09pm"
+            }
+        ], 
+        "ticket price": "300.00", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 3 hours 14 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "Nonstop", 
+        "total_distance": "959 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:09pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:55pm"
+            }
+        ], 
+        "ticket price": "345.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 3 hours 16 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "Nonstop", 
+        "total_distance": "959 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "12:16pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "ticket price": "345.20", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "959 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "8:40am"
+            }
+        ], 
+        "ticket price": "345.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Expressjet Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane": "EMBRAER 170", 
+        "stops": "Nonstop", 
+        "total_distance": "959 miles", 
+        "plane code": "E70", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:55pm"
+            }
+        ], 
+        "ticket price": "345.20", 
+        "airline": "United", 
+        "carrier_operatedby": "Republic Airlines DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 3 hours 28 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "959 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "1:23pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:55am"
+            }
+        ], 
+        "ticket price": "345.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:34pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "7:24pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "11:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 1 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "10:31am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 7 hours 52 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:44pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "11:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:33pm"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "11:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "9:15pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:56pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "11:36pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "10:35pm"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 21 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:11pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "5:31pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "ticket price": "352.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 6 hours 51 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "1 Stops", 
+        "total_distance": "1,709 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:49pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:05pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:56pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "353.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 59 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "1 Stops", 
+        "total_distance": "1,206 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:59pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "353.80", 
+        "airline": "United", 
+        "carrier_operatedby": "Skywest DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 22 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:07pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "3:25pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "2:33pm"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:07pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "5:31pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 4 hours 49 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:44pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "8:33pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "Boeing 757", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "757", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 7 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "1:07pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:03am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "5:31pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 24 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "1,206 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "7:29am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "10:24am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "392.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 7 hours 31 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "1,206 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "9:43am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "8:00am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "2:31pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "392.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "1,206 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "10:43am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "2:31pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "392.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 8 hours 31 minutes", 
+        "plane": "Boeing 737-900", 
+        "stops": "1 Stops", 
+        "total_distance": "1,206 miles", 
+        "plane code": "739", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "8:44am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "2:31pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "392.80", 
+        "airline": "United", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 8 hours 23 minutes", 
+        "plane": "MDC MD90", 
+        "stops": "1 Stops", 
+        "total_distance": "1,709 miles", 
+        "plane code": "M90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "4:52pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "2:33pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:56pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "416.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 6 hours 26 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "1 Stops", 
+        "total_distance": "1,709 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "arrival_time": "6:55pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "4:30pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:56pm", 
+                "departure_airport": "Minneapolis, MN (MSP-Minneapolis - St. Paul Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "416.80", 
+        "airline": "Delta", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 13 hours 2 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "2 Stops", 
+        "total_distance": "1,623 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:13pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:05pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "9:52pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "8:09pm"
+            }
+        ], 
+        "ticket price": "445.00", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "3:09pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:00pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "5:31pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "4:29pm"
+            }
+        ], 
+        "ticket price": "458.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 4 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:03pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "8:33pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "ticket price": "458.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "6:58am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:00am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "10:31am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "458.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:50am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "1:00pm"
+            }
+        ], 
+        "ticket price": "458.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 1 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "1,057 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:30am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "10:31am", 
+                "departure_airport": "Charlotte, NC (CLT-Charlotte-Douglas Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "458.30", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "stops": "1 Stops", 
+        "total_distance": "1,206 miles", 
+        "plane code": "E7W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "11:43am", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:00am"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "2:31pm", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "459.80", 
+        "airline": "United", 
+        "carrier_operatedby": "Skywest DBA United Express"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "MEM", 
+            "airportCity": "Memphis"
+        }, 
+        "travel_date": "09/11/18", 
+        "flight duration": "0 days 8 hours 44 minutes", 
+        "plane": "Embraer 175", 
+        "stops": "2 Stops", 
+        "total_distance": "1,814 miles", 
+        "plane code": "E75", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Nashville, TN (BNA-Nashville Intl.)", 
+                "arrival_time": "1:53pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:10pm"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "arrival_time": "5:34pm", 
+                "departure_airport": "Nashville, TN (BNA-Nashville Intl.)", 
+                "departure_time": "3:20pm"
+            }, 
+            {
+                "arrival_airport": "Memphis, TN (MEM-Memphis Intl.)", 
+                "arrival_time": "7:54pm", 
+                "departure_airport": "Dallas, TX (DFW-Dallas-Fort Worth Intl.)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "ticket price": "502.90", 
+        "airline": "American Airlines", 
+        "carrier_operatedby": "Republic Airlines As American Eagle"
+    }
+]

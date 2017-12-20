@@ -1,0 +1,338 @@
+[
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 46 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:59pm"
+            }
+        ], 
+        "ticket price": "158.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "9:03pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "189.10", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 42 minutes", 
+        "plane": "EMBRAER 170", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E70", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "8:12pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "6:30pm"
+            }
+        ], 
+        "ticket price": "198.20", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Republic Airline Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:46am"
+            }
+        ], 
+        "ticket price": "211.10", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 41 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "9:16am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:35am"
+            }
+        ], 
+        "ticket price": "255.10", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 34 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "1:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:26am"
+            }
+        ], 
+        "ticket price": "255.10", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "1 days 1 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "12:14am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "255.10", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "4:38pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "293.60", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "9:21am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "293.60", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "7:43am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:17am"
+            }
+        ], 
+        "ticket price": "293.60", 
+        "airline": "JetBlue Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 31 minutes", 
+        "plane": "", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "12:56pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:25am"
+            }
+        ], 
+        "ticket price": "299.10", 
+        "airline": "Delta", 
+        "carrier_operatedby": "Endeavor Air DBA Delta Connection"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "BUF", 
+            "airportCity": "Buffalo"
+        }, 
+        "travel_date": "05/06/18", 
+        "flight duration": "0 days 1 hours 27 minutes", 
+        "plane": "Embraer EMB-145", 
+        "stops": "Nonstop", 
+        "total_distance": "283 miles", 
+        "plane code": "ERJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Buffalo, NY (BUF-Buffalo Niagara Intl.)", 
+                "arrival_time": "3:27pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "2:00pm"
+            }
+        ], 
+        "ticket price": "350.20", 
+        "airline": "United", 
+        "carrier_operatedby": "CommutAir DBA United Express"
+    }
+]

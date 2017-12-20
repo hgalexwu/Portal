@@ -1,0 +1,70 @@
+[
+    {
+        "arrival": {
+            "airportCode": "HKT", 
+            "airportCity": "Phuket"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "1 days 11 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Phuket, Thailand (HKT-Phuket Intl.)", 
+                "arrival_time": "12:40am", 
+                "departure_airport": "Beijing, China (PEK-Capital Intl.)", 
+                "departure_time": "7:40pm"
+            }
+        ], 
+        "ticket price": "1609.50", 
+        "airline": "Air China", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "HKT", 
+            "airportCity": "Phuket"
+        }, 
+        "travel_date": "09/08/18", 
+        "flight duration": "0 days 15 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Seoul, South Korea (ICN-Incheon Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:15am"
+            }, 
+            {
+                "arrival_airport": "Phuket, Thailand (HKT-Phuket Intl.)", 
+                "arrival_time": "11:15pm", 
+                "departure_airport": "Seoul, South Korea (ICN-Incheon Intl.)", 
+                "departure_time": "6:40pm"
+            }
+        ], 
+        "ticket price": "1752.40", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

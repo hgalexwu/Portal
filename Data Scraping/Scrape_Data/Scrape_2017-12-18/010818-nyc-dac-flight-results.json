@@ -1,0 +1,1294 @@
+[
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "1 days 25 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:20pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "1034.72", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "1 days 20 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "5:30pm", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "9:35am"
+            }
+        ], 
+        "ticket price": "1049.21", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 26 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:10am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "2:25am"
+            }
+        ], 
+        "ticket price": "1049.21", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 37 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:10am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "2:25am"
+            }
+        ], 
+        "ticket price": "1052.81", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 33 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "3:04pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "1069.49", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 35 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "1:06pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:01pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "1069.49", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "3 days 45 hours 20 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:10am", 
+                "departure_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "ticket price": "1074.60", 
+        "airline": "Gulf Air", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "3 days 43 hours 5 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:10am", 
+                "departure_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "ticket price": "1074.60", 
+        "airline": "Gulf Air", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "3 days 46 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:10am", 
+                "departure_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "departure_time": "8:10pm"
+            }
+        ], 
+        "ticket price": "1074.60", 
+        "airline": "Gulf Air", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "3 days 47 hours 50 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Manama, Bahrain (BAH-Bahrain Intl.)", 
+                "departure_time": "12:55am"
+            }
+        ], 
+        "ticket price": "1074.60", 
+        "airline": "Gulf Air", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 40 hours 50 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:50pm", 
+                "departure_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "440.22", 
+        "airline": "Kuwait Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 26 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "departure_time": "1:55am"
+            }
+        ], 
+        "ticket price": "440.22", 
+        "airline": "Kuwait Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "1 days 35 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "5:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:45am"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:20pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "9:15pm"
+            }
+        ], 
+        "ticket price": "864.72", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 38 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "Vancouver, BC, Canada (YVR-Vancouver Intl.)", 
+                "departure_time": "1:15am"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:00pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:30pm"
+            }
+        ], 
+        "ticket price": "869.75", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 34 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "7:45am"
+            }
+        ], 
+        "ticket price": "896.99", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 26 hours 30 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "arrival_time": "5:00am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Colombo, Sri Lanka (CMB-Bandaranaike Intl.)", 
+                "departure_time": "7:45am"
+            }
+        ], 
+        "ticket price": "896.99", 
+        "airline": "SriLankan Airlines", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 27 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "3:40am"
+            }
+        ], 
+        "ticket price": "927.01", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 37 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "7:05am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:15pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "1:55pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "3:40am"
+            }
+        ], 
+        "ticket price": "927.01", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 30 hours 0 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "944.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 24 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "944.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "1 days 19 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:45pm"
+            }
+        ], 
+        "ticket price": "944.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 23 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "944.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 37 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:45pm"
+            }
+        ], 
+        "ticket price": "946.35", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 30 hours 40 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "946.35", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 37 hours 20 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "946.35", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 30 hours 55 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "946.35", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 36 hours 5 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:45pm"
+            }
+        ], 
+        "ticket price": "946.35", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 29 hours 19 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:14pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:56pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "949.49", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 35 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "7:14pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "5:56pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:30am"
+            }
+        ], 
+        "ticket price": "950.85", 
+        "airline": "Emirates", 
+        "carrier_operatedby": "JetBlue Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 23 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "3:55am"
+            }
+        ], 
+        "ticket price": "956.99", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 24 hours 35 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "3:55am"
+            }
+        ], 
+        "ticket price": "956.99", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 31 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "10:35am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "3:55am"
+            }
+        ], 
+        "ticket price": "958.35", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "1 days 19 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "8:00pm", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "1:35pm"
+            }
+        ], 
+        "ticket price": "966.99", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 34 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "2:40am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "968.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DAC", 
+            "airportCity": "Dhaka"
+        }, 
+        "travel_date": "01/08/18", 
+        "flight duration": "2 days 26 hours 15 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "arrival_time": "2:40am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:50pm"
+            }, 
+            {
+                "arrival_airport": "Dhaka, Bangladesh (DAC-Shahjalal Intl.)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)", 
+                "departure_time": "7:55am"
+            }
+        ], 
+        "ticket price": "968.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }
+]

@@ -1,0 +1,1228 @@
+[
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 27 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A340-600", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "346", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:40am"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Johannesburg, South Africa (JNB-O.R. Tambo Intl.)", 
+                "departure_time": "2:45pm"
+            }
+        ], 
+        "ticket price": "2494.13", 
+        "airline": "South African Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 36 hours 5 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:15pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 45 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:35pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 50 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 37 hours 15 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 30 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 0 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 15 hours 10 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 15 hours 30 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 24 hours 55 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:25am"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 14 hours 40 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 27 hours 15 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2727.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 31 hours 25 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "5:35pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "2:30am"
+            }
+        ], 
+        "ticket price": "2729.21", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 23 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "1:17pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2731.57", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 18 hours 20 minutes", 
+        "plane": "EMB-145", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "EMJ", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "arrival_time": "6:22pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:00pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "Boston, MA (BOS-Logan Intl.)", 
+                "departure_time": "9:15pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2731.57", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "Republic Airlines As American Eagl"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 21 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "3:16pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "1:30pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2731.57", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 22 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "2:15pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2731.57", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 19 hours 14 minutes", 
+        "plane": "Embraer RJ145", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "ER4", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Baltimore, MD (BWI-Baltimore Washington Intl. Thurgood Marshall)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:06pm"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Baltimore, MD (BWI-Baltimore Washington Intl. Thurgood Marshall)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2731.57", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "Envoy Air As American Eagle For Am"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 24 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "LGA", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "arrival_time": "12:24pm", 
+                "departure_airport": "New York, NY (LGA-LaGuardia)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:45am", 
+                "departure_airport": "Chicago, IL (ORD-O'Hare Intl.)", 
+                "departure_time": "5:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2731.57", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "American Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 42 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A350-900", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "359", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "arrival_time": "6:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Doha, Qatar (DOH-Hamad Intl.)", 
+                "departure_time": "2:30am"
+            }
+        ], 
+        "ticket price": "2732.81", 
+        "airline": "Qatar Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 36 hours 55 minutes", 
+        "plane": "BOEING 777-300 PASSENGER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "773", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Cairo, Egypt (CAI-Cairo Intl.)", 
+                "arrival_time": "12:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "1:25pm", 
+                "departure_airport": "Cairo, Egypt (CAI-Cairo Intl.)", 
+                "departure_time": "8:20am"
+            }
+        ], 
+        "ticket price": "2735.79", 
+        "airline": "Egyptair", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:25pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 14 hours 40 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:40pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 45 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "6:35pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 36 hours 5 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "11:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:15pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 50 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:25am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 15 hours 10 minutes", 
+        "plane": "Boeing 747-400", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "744", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:10pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 37 hours 15 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:05pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 0 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 30 minutes", 
+        "plane": "Boeing 777", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "777", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:50pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "British Airways", 
+        "carrier_operatedby": "British Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 15 hours 30 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:50pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "2749.07", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 14 hours 20 minutes", 
+        "plane": "Boeing 787-8", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "788", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Casablanca, Morocco (CMN-Mohammed V)", 
+                "arrival_time": "6:30pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:45am"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "3:05am", 
+                "departure_airport": "Casablanca, Morocco (CMN-Mohammed V)", 
+                "departure_time": "9:30pm"
+            }
+        ], 
+        "ticket price": "2863.45", 
+        "airline": "Royal Air Maroc", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "2 days 39 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:50pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "3790.01", 
+        "airline": "Turkish Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "LOS", 
+            "airportCity": "Lagos"
+        }, 
+        "travel_date": "08/07/18", 
+        "flight duration": "1 days 16 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A340-600", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "346", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Lagos, Nigeria (LOS-Murtala Muhammed Intl.)", 
+                "arrival_time": "5:20pm", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "4729.07", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

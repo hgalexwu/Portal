@@ -1,0 +1,1168 @@
+[
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 3 hours 53 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:45am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:45am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:38am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "134.02", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 4 hours 23 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:38am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "134.02", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 4 hours 3 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:35am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:38am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "197.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "3:00pm"
+            }
+        ], 
+        "ticket price": "209.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 3 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "1:27pm"
+            }
+        ], 
+        "ticket price": "210.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 3 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "210.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 17 hours 49 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "12:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:25pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "5:14pm", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "ticket price": "233.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:40am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "ticket price": "246.02", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "ticket price": "246.02", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:10am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "ticket price": "246.02", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 22 hours 19 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:55pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "5:14pm", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "4:05pm"
+            }
+        ], 
+        "ticket price": "253.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 23 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "12:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "266.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Campinas, Brazil (VCP-Viracopos - Campinas Intl.)", 
+                "arrival_time": "7:30am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Campinas, Brazil (VCP-Viracopos - Campinas Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "279.72", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane": "EMBRAER 195", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E95", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Campinas, Brazil (VCP-Viracopos - Campinas Intl.)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Campinas, Brazil (VCP-Viracopos - Campinas Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "280.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 4 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Campinas, Brazil (VCP-Viracopos - Campinas Intl.)", 
+                "arrival_time": "7:20am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:10am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:25am", 
+                "departure_airport": "Campinas, Brazil (VCP-Viracopos - Campinas Intl.)", 
+                "departure_time": "8:45am"
+            }
+        ], 
+        "ticket price": "280.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "2:09pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:55am"
+            }
+        ], 
+        "ticket price": "285.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 5 hours 56 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "5:01pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "ticket price": "287.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 8 hours 56 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "5:01pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "ticket price": "287.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "9:00am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "1:27pm"
+            }
+        ], 
+        "ticket price": "288.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 13 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "arrival_time": "10:30pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:00pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:45am", 
+                "departure_airport": "Curitiba, Brazil (CWB-Afonso Pena Intl.)", 
+                "departure_time": "9:30am"
+            }
+        ], 
+        "ticket price": "304.02", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 2 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "9:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:15pm"
+            }
+        ], 
+        "ticket price": "339.72", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:05pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "4:55pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "9:30pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "7:45pm"
+            }
+        ], 
+        "ticket price": "339.72", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 2 hours 12 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "12:02pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:50am"
+            }
+        ], 
+        "ticket price": "339.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 21 hours 15 minutes", 
+        "plane": "Boeing 767-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "763", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:05pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "4:20pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "2:40pm"
+            }
+        ], 
+        "ticket price": "349.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 10 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "arrival_time": "8:10am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:00am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Porto Alegre, Brazil (POA-Salgado Filho Intl.)", 
+                "departure_time": "3:20pm"
+            }
+        ], 
+        "ticket price": "350.04", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A318", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "318", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "9:20am"
+            }
+        ], 
+        "ticket price": "383.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 14 hours 23 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "11:48am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "10:05am"
+            }
+        ], 
+        "ticket price": "403.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 22 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:25pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "7:45pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "6:05pm"
+            }
+        ], 
+        "ticket price": "413.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 16 hours 55 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "10:55am", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "9:20am"
+            }
+        ], 
+        "ticket price": "423.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 5 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "10:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "12:25pm"
+            }
+        ], 
+        "ticket price": "423.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:25am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "1:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "11:30am"
+            }
+        ], 
+        "ticket price": "445.72", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "Boeing 737-700", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "73G", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "8:05am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "1:05pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "11:20am"
+            }
+        ], 
+        "ticket price": "445.72", 
+        "airline": "GOL Linhas Aereas S.A.", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 16 hours 35 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "7:10pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "10:10am"
+            }
+        ], 
+        "ticket price": "461.72", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A318", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "318", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "6:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "5:40am"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "12:25pm"
+            }
+        ], 
+        "ticket price": "479.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "IGU", 
+            "airportCity": "Iguassu Falls"
+        }, 
+        "travel_date": "02/02/18", 
+        "flight duration": "1 days 20 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "GIG", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (GIG-Galeao - Antonio Carlos Jobim Intl.)", 
+                "departure_time": "6:00pm"
+            }, 
+            {
+                "arrival_airport": "Iguassu Falls, Brazil (IGU-Foz do Iguacu Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "Sao Paulo, Brazil (GRU-Guarulhos - Governor Andre Franco Montoro Intl.)", 
+                "departure_time": "12:25pm"
+            }
+        ], 
+        "ticket price": "479.72", 
+        "airline": "Avianca Brasil", 
+        "carrier_operatedby": ""
+    }
+]

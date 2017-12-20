@@ -1,0 +1,1186 @@
+[
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 9 hours 30 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 8 hours 10 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:45pm"
+            }
+        ], 
+        "ticket price": "106.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "E90", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "7:25pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "5:55pm"
+            }
+        ], 
+        "ticket price": "115.01", 
+        "airline": "Azul", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 3 hours 39 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 5 hours 9 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 9 hours 44 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "12:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 3 hours 14 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:15pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 8 hours 59 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 4 hours 14 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "8:30am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:25am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 6 hours 39 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "12:20pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "11:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "1 days 11 hours 46 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "8:31am", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "7:20am"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:45am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "9:45am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 3 hours 44 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 10 hours 9 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "6:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 8 hours 29 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:05am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 4 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "2:40pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "1:30pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "5:15pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "4:10pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 12 hours 9 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "11:25am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "10:20am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 8 hours 9 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "4:24pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "3:15pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 4 hours 44 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "6:50pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "FLN", 
+            "airportCity": "Florianopolis"
+        }, 
+        "travel_date": "02/21/18", 
+        "flight duration": "0 days 7 hours 44 minutes", 
+        "plane": "Airbus A319", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "319", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "SDU", 
+            "airportCity": "Rio de Janeiro"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "arrival_time": "3:45pm", 
+                "departure_airport": "Rio de Janeiro, Brazil (SDU-Santos Dumont)", 
+                "departure_time": "2:45pm"
+            }, 
+            {
+                "arrival_airport": "Florianopolis, Brazil (FLN-Hercilio Luz Intl.)", 
+                "arrival_time": "10:29pm", 
+                "departure_airport": "Sao Paulo, Brazil (CGH-Congonhas - Sao Paulo Intl.)", 
+                "departure_time": "9:20pm"
+            }
+        ], 
+        "ticket price": "85.01", 
+        "airline": "LATAM Airlines Brasil", 
+        "carrier_operatedby": ""
+    }
+]

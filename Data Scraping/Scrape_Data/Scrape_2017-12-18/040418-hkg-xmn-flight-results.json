@@ -1,0 +1,1150 @@
+[
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "ticket price": "128.70", 
+        "airline": "Xiamen Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "10:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:45pm"
+            }
+        ], 
+        "ticket price": "128.70", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": "Xiamen Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:20pm"
+            }
+        ], 
+        "ticket price": "154.70", 
+        "airline": "Xiamen Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "9:50am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:40am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "2:20pm"
+            }
+        ], 
+        "ticket price": "269.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 22 hours 15 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Wuxi, China (WUX-Shuofang)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:05am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "9:20am", 
+                "departure_airport": "Wuxi, China (WUX-Shuofang)", 
+                "departure_time": "7:20am"
+            }
+        ], 
+        "ticket price": "269.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:35am"
+            }
+        ], 
+        "ticket price": "279.70", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 35 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "7:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:45pm"
+            }
+        ], 
+        "ticket price": "279.70", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:05pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "279.70", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "1:50pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "279.70", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 12 hours 15 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "12:30pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "292.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "2:20pm"
+            }
+        ], 
+        "ticket price": "292.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:35am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "2:20pm"
+            }
+        ], 
+        "ticket price": "299.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "7:10pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "5:55pm"
+            }
+        ], 
+        "ticket price": "320.30", 
+        "airline": "Cathay Dragon", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "arrival_time": "8:55am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "7:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Guangzhou, China (CAN-Baiyun Intl.)", 
+                "departure_time": "2:40pm"
+            }
+        ], 
+        "ticket price": "320.30", 
+        "airline": "Cathay Dragon", 
+        "carrier_operatedby": "Cathay Dragon"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 23 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "323.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 24 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "12:45pm", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "10:50am"
+            }
+        ], 
+        "ticket price": "323.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 22 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "8:05am"
+            }
+        ], 
+        "ticket price": "323.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 26 hours 30 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "2:25pm", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "12:35pm"
+            }
+        ], 
+        "ticket price": "323.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 20 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "2:30pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "6:50am"
+            }
+        ], 
+        "ticket price": "323.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 24 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:30am", 
+                "departure_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "departure_time": "10:05am"
+            }
+        ], 
+        "ticket price": "326.30", 
+        "airline": "China Southern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 26 hours 45 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "2:20pm"
+            }
+        ], 
+        "ticket price": "354.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 11 hours 5 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "3:55pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "354.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 15 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "8:05am"
+            }
+        ], 
+        "ticket price": "384.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": "Shanghai Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "384.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": "Shanghai Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 13 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "6:50am"
+            }
+        ], 
+        "ticket price": "384.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": "Shanghai Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 15 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "8:05am"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "Shanghai Airlines", 
+        "carrier_operatedby": "Shanghai Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 16 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:05am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "9:05am"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 13 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "arrival_time": "9:20pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "6:45pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Shanghai, China (SHA-Hongqiao Intl.)", 
+                "departure_time": "6:50am"
+            }
+        ], 
+        "ticket price": "391.30", 
+        "airline": "Shanghai Airlines", 
+        "carrier_operatedby": "Shanghai Airlines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 20 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "10:50pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:20pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "4:25pm", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "2:20pm"
+            }
+        ], 
+        "ticket price": "413.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 8 hours 50 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "3:55pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "413.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 7 hours 25 minutes", 
+        "plane": "Airbus A321", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "321", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "arrival_time": "8:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:20pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "12:45am", 
+                "departure_airport": "Shanghai, China (PVG-Pudong Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "413.30", 
+        "airline": "China Eastern Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "9:35pm", 
+                "departure_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "448.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "departure_time": "10:15pm"
+            }
+        ], 
+        "ticket price": "458.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "738", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "arrival_time": "1:35pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "11:30am"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "5:25pm", 
+                "departure_airport": "Wuhan, China (WUH-Tianhe Intl.)", 
+                "departure_time": "3:50pm"
+            }
+        ], 
+        "ticket price": "503.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "XMN", 
+            "airportCity": "Xiamen"
+        }, 
+        "travel_date": "04/04/18", 
+        "flight duration": "1 days 12 hours 35 minutes", 
+        "plane": "Airbus A320", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "320", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "HKG", 
+            "airportCity": "Hong Kong"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hangzhou, China (HGH-Xiaoshan Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "Xiamen, China (XMN-Xiamen Intl.)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Hangzhou, China (HGH-Xiaoshan Intl.)", 
+                "departure_time": "8:15am"
+            }
+        ], 
+        "ticket price": "594.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]

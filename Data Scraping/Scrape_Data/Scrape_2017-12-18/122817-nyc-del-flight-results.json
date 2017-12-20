@@ -1,0 +1,1204 @@
+[
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 26 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "8:50am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "5:45pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "1017.37", 
+        "airline": "Finnair", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "1 days 13 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "Nonstop", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "2:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:25pm"
+            }
+        ], 
+        "ticket price": "1069.60", 
+        "airline": "Air India", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 18 hours 30 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "1:00am", 
+                "departure_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "departure_time": "6:50pm"
+            }
+        ], 
+        "ticket price": "510.22", 
+        "airline": "Kuwait Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 22 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "arrival_time": "4:00pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "4:50am", 
+                "departure_airport": "Kuwait City, Kuwait (KWI-Kuwait Intl.)", 
+                "departure_time": "10:40pm"
+            }
+        ], 
+        "ticket price": "510.22", 
+        "airline": "Kuwait Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "1 days 22 hours 55 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:45pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "3:10pm"
+            }
+        ], 
+        "ticket price": "716.45", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 27 hours 30 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "4:20am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "7:50pm"
+            }
+        ], 
+        "ticket price": "856.45", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 23 hours 45 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "7:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "1:50pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "12:05am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "869.75", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 28 hours 35 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "12:05am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "869.75", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "1 days 25 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "2:10pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:00am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "9:10pm", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "5:00pm"
+            }
+        ], 
+        "ticket price": "869.75", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 36 hours 40 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "arrival_time": "5:40am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:55am"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "12:05am", 
+                "departure_airport": "Hong Kong, Hong Kong (HKG-Hong Kong Intl.)", 
+                "departure_time": "8:00pm"
+            }
+        ], 
+        "ticket price": "869.75", 
+        "airline": "Cathay Pacific", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 30 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A340-600", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "346", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "6:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "901.69", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 27 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A340-600", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "346", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "901.69", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 30 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "901.69", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 27 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A340-600", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "346", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:10am", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "9:20pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "11:40am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "901.69", 
+        "airline": "Virgin Atlantic", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 26 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "2:40am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "918.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 23 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "2:55am"
+            }
+        ], 
+        "ticket price": "918.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 27 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "3:35am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "918.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 19 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "3:35am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "918.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 18 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "7:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "2:40am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "9:50pm"
+            }
+        ], 
+        "ticket price": "918.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "1 days 19 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "7:30pm", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "2:35pm"
+            }
+        ], 
+        "ticket price": "918.08", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 31 hours 25 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "2:55am"
+            }
+        ], 
+        "ticket price": "919.44", 
+        "airline": "Etihad Airways", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 28 hours 20 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "2:45pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:00am"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 17 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "2:40am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 23 hours 50 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "arrival_time": "11:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:20pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "10:45pm", 
+                "departure_airport": "Milan, Italy (MXP-Malpensa Intl.)", 
+                "departure_time": "1:40pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 22 hours 15 minutes", 
+        "plane": "BOEING 777-300ER", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "77W", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "EWR", 
+            "airportCity": "Newark"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Newark, NJ (EWR-Liberty Intl.)", 
+                "departure_time": "11:55pm"
+            }, 
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "12:20am", 
+                "departure_airport": "Athens, Greece (ATH-Eleftherios Venizelos)", 
+                "departure_time": "5:55pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 23 hours 35 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "2:40am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "10:00pm"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 23 hours 10 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "8:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "11:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "1 days 16 hours 50 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "7:55pm", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "3:10pm"
+            }
+        ], 
+        "ticket price": "937.99", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 27 hours 5 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "arrival_time": "11:45am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "3:35am", 
+                "departure_airport": "Abu Dhabi, United Arab Emirates (AUH-Abu Dhabi Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "938.17", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Etihad Airways"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 29 hours 35 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "arrival_time": "2:05pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "4:35pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "8:40am", 
+                "departure_airport": "Dubai, United Arab Emirates (DXB-Dubai Intl.)", 
+                "departure_time": "4:00am"
+            }
+        ], 
+        "ticket price": "939.35", 
+        "airline": "Emirates", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 28 hours 20 minutes", 
+        "plane": "Boeing 767", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "764", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "8:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "971.07", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 25 hours 50 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "10:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "971.07", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 28 hours 50 minutes", 
+        "plane": "", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:35am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "971.07", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 29 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "7:00am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:00pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "971.07", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Virgin Atlantic"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "DEL", 
+            "airportCity": "Delhi"
+        }, 
+        "travel_date": "12/28/17", 
+        "flight duration": "2 days 26 hours 50 minutes", 
+        "plane": "AIRBUS INDUSTRIE A340-600", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "346", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "JFK", 
+            "airportCity": "New York"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "London, England, UK (LHR-Heathrow)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "9:30pm"
+            }, 
+            {
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)", 
+                "arrival_time": "10:50am", 
+                "departure_airport": "London, England, UK (LHR-Heathrow)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "971.07", 
+        "airline": "Jet Airways", 
+        "carrier_operatedby": "Virgin Atlantic"
+    }
+]

@@ -1,0 +1,1396 @@
+[
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 29 hours 40 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Samarkand, Uzbekistan (SKD-Samarkand Intl.)", 
+                "arrival_time": "4:55am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "10:50pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "9:15am", 
+                "departure_airport": "Samarkand, Uzbekistan (SKD-Samarkand Intl.)", 
+                "departure_time": "8:25am"
+            }
+        ], 
+        "ticket price": "2826.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "8:20am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "12:55am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "ticket price": "3041.40", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "8:35am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "7:10am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3414.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "9:40am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:15am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3414.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "11:35am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "10:10am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3414.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "10:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "9:05am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3414.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "11:10am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3414.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 47 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "8:05am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "6:40am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "3414.90", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "5:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "10:00pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "ticket price": "3485.88", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 35 hours 10 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (DME-Domodedovo Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "4:55pm", 
+                "departure_airport": "Moscow, Russia (DME-Domodedovo Intl.)", 
+                "departure_time": "11:05am"
+            }
+        ], 
+        "ticket price": "3598.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 22 hours 50 minutes", 
+        "plane": "772 - BOEING 777/200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "772", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)", 
+                "arrival_time": "9:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (DME-Domodedovo Intl.)", 
+                "arrival_time": "6:25pm", 
+                "departure_airport": "Madrid, Spain (MAD-Adolfo Suarez Madrid-Barajas)", 
+                "departure_time": "11:40am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "4:35am", 
+                "departure_airport": "Moscow, Russia (DME-Domodedovo Intl.)", 
+                "departure_time": "10:45pm"
+            }
+        ], 
+        "ticket price": "3598.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 27 hours 50 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3633.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 30 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:02am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3633.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 30 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:02am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3633.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 20 hours 55 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:44pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3633.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 27 hours 50 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3633.20", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 26 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "3737.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 51 hours 50 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "3:43pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "12:40pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3742.65", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 44 hours 55 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:44pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "7:10am", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "2:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3742.65", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 33 hours 30 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:02am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:00am"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "5:50pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "12:50am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3742.65", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 44 hours 55 minutes", 
+        "plane": "Boeing 717", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "717", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "arrival_time": "10:44pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:35pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:25pm", 
+                "departure_airport": "New York, NY (JFK-John F. Kennedy Intl.)", 
+                "departure_time": "7:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3742.65", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": "Delta"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 26 hours 5 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "arrival_time": "9:30am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "6:30pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "4:40pm", 
+                "departure_airport": "Duesseldorf, Germany (DUS-Duesseldorf Intl.)", 
+                "departure_time": "11:55am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "6:35am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "3770.30", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 38 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "12:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "ticket price": "3903.80", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 38 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "12:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "4:10pm"
+            }
+        ], 
+        "ticket price": "3903.80", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 20 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3908.50", 
+        "airline": "Swiss International Air Lines", 
+        "carrier_operatedby": "Swiss International Air Lines"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 20 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Zurich, Switzerland (ZRH)", 
+                "arrival_time": "11:00am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "7:45pm"
+            }, 
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "6:35pm", 
+                "departure_airport": "Zurich, Switzerland (ZRH)", 
+                "departure_time": "1:10pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "3926.00", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 34 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "12:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "ticket price": "3949.50", 
+        "airline": "Lufthansa", 
+        "carrier_operatedby": "Lufthansa"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 34 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "12:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "ticket price": "4380.00", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "1 days 19 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Rostov-on-Don, Russia (ROV)", 
+                "arrival_time": "4:10pm", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "2:10pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "11:00pm", 
+                "departure_airport": "Rostov-on-Don, Russia (ROV)", 
+                "departure_time": "5:30pm"
+            }
+        ], 
+        "ticket price": "4525.90", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 45 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "12:25pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "5188.30", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 42 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "10:30am"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "3:20am", 
+                "departure_airport": "St. Petersburg, Russia (LED-Pulkovo)", 
+                "departure_time": "8:40pm"
+            }
+        ], 
+        "ticket price": "5193.60", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 22 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-200", 
+        "stops": "1 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "332", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "arrival_time": "12:35pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "5:35pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "2:30am", 
+                "departure_airport": "Moscow, Russia (SVO-Sheremetyevo)", 
+                "departure_time": "8:20pm"
+            }
+        ], 
+        "ticket price": "523.70", 
+        "airline": "Aeroflot-Russian Airlines", 
+        "carrier_operatedby": ""
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "3 days 45 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "4:50pm", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "12:25pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "6:20am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "11:45pm"
+            }
+        ], 
+        "ticket price": "5233.30", 
+        "airline": "Finnair", 
+        "carrier_operatedby": "Finnair"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 22 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A330-300", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "333", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "arrival_time": "3:30pm", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "10:55pm"
+            }, 
+            {
+                "arrival_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "arrival_time": "10:40pm", 
+                "departure_airport": "Helsinki, Finland (HEL-Vantaa)", 
+                "departure_time": "6:15pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "7:15am", 
+                "departure_airport": "Istanbul, Turkey (IST-Ataturk Intl.)", 
+                "departure_time": "12:55am"
+            }
+        ], 
+        "ticket price": "5248.30", 
+        "airline": "Finnair", 
+        "carrier_operatedby": "Finnair"
+    }, 
+    {
+        "arrival": {
+            "airportCode": "TAS", 
+            "airportCity": "Tashkent"
+        }, 
+        "travel_date": "01/21/18", 
+        "flight duration": "2 days 34 hours 0 minutes", 
+        "plane": "Airbus Industrie A380-800 Passenger", 
+        "stops": "2 Stops", 
+        "total_distance": "0 miles", 
+        "plane code": "388", 
+        "booking_date": "12/18/17", 
+        "departure": {
+            "airportCode": "MIA", 
+            "airportCity": "Miami"
+        }, 
+        "timings": [
+            {
+                "arrival_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "arrival_time": "7:55am", 
+                "departure_airport": "Miami, FL (MIA-Miami Intl.)", 
+                "departure_time": "4:50pm"
+            }, 
+            {
+                "arrival_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "arrival_time": "12:50am", 
+                "departure_airport": "Frankfurt, Germany (FRA-Frankfurt Intl.)", 
+                "departure_time": "1:20pm"
+            }, 
+            {
+                "arrival_airport": "Tashkent, Uzbekistan (TAS-Tashkent Intl.)", 
+                "arrival_time": "12:50pm", 
+                "departure_airport": "Almaty, Kazakhstan (ALA-Almaty Intl.)", 
+                "departure_time": "12:15pm"
+            }
+        ], 
+        "ticket price": "652.00", 
+        "airline": "", 
+        "carrier_operatedby": ""
+    }
+]
