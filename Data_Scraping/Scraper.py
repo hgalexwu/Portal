@@ -3,31 +3,30 @@ import requests
 from lxml import html
 from collections import OrderedDict
 import argparse
+import random
+from fake_useragent import UserAgent
+from bs4 import BeautifulSoup
 
 # Number of tries to parse flight info
-MAX_AMOUNT_TRIES = 3
-
-# RESET VARIABLE
-INVALID_JSON_DATA_XPATH = False
+MAX_AMOUNT_TRIES = 2
 
 
 # adapted from https://www.scrapehero.com/scrape-flight-schedules-and-prices-from-expedia/
-def parse(combined_args="", source="", destination="", date="", booking_date="", json_data_xpath=""):
+def parse(source, destination, date, booking_date):
     for z in range(MAX_AMOUNT_TRIES):
-        global INVALID_JSON_DATA_XPATH
         try:
-            # if combined_args != "":
-            #     (source, destination, date, booking_date) = combined_args
-            if json_data_xpath == "" or INVALID_JSON_DATA_XPATH:
-                url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(
-                source, destination, date)
-                response = requests.get(url)
-                parser = html.fromstring(response.text)
-                json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
-            # make the global variable true because we got incorrect response
+            url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(
+                  source, destination, date)
+            ua = UserAgent()
+            header = {
+                'User-Agent': str(ua.random)
+            }
+            response = requests.get(url, headers=header)
+            parser = html.fromstring(response.text)
+            json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
             if len(json_data_xpath) < 1:
-                INVALID_JSON_DATA_XPATH = True
-                print "Error: JSON_DATA_XPATH"
+                print "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date)
+                soup = BeautifulSoup(parser, 'html.parser')
                 raise ValueError
             raw_json = json.loads(json_data_xpath[0])
             flight_data = json.loads(raw_json["content"])
@@ -53,32 +52,35 @@ def parse(combined_args="", source="", destination="", date="", booking_date="",
 
                 total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour,
                                                                                 flight_minutes)
-                plane = ""
-                plane_code = ""
+
                 formatted_price = "{0:.2f}".format(exact_price)
-                if len(flight_data['legs'][i]['timeline']) > 0:
+                if flight_data['legs'][i]['timeline'] is not None and len(flight_data['legs'][i]['timeline']) > 0:
                     carrier = flight_data['legs'][i]['timeline'][0]['carrier']
                     plane = carrier['plane']
                     plane_code = carrier['planeCode']
+                else:
+                    print ('No Timeline Data')
+                    raise ValueError
 
                 if not airline_name:
                     airline_name = carrier['operatedBy']
                 carrier_operation = carrier['operatedBy']
 
-                timings = []
-                for timeline in flight_data['legs'][i]['timeline']:
-                    if 'departureAirport' in timeline.keys():
-                        departure_airport = timeline['departureAirport']['longName']
-                        departure_time = timeline['departureTime']['time']
-                        arrival_airport = timeline['arrivalAirport']['longName']
-                        arrival_time = timeline['arrivalTime']['time']
-                        flight_timing = {
-                            'departure_airport': departure_airport,
-                            'departure_time': departure_time,
-                            'arrival_airport': arrival_airport,
-                            'arrival_time': arrival_time
-                        }
-                        timings.append(flight_timing)
+                # Removed timings because it is not necessary information
+                # timings = []
+                # for timeline in flight_data['legs'][i]['timeline']:
+                #     if 'departureAirport' in timeline.keys():
+                #         departure_airport = timeline['departureAirport']['longName']
+                #         departure_time = timeline['departureTime']['time']
+                #         arrival_airport = timeline['arrivalAirport']['longName']
+                #         arrival_time = timeline['arrivalTime']['time']
+                #         flight_timing = {
+                #             'departure_airport': departure_airport,
+                #             'departure_time': departure_time,
+                #             'arrival_airport': arrival_airport,
+                #             'arrival_time': arrival_time
+                #         }
+                #         timings.append(flight_timing)
 
                 flight_info = {'stops': stop,
                                'total_distance': total_distance,
@@ -89,7 +91,7 @@ def parse(combined_args="", source="", destination="", date="", booking_date="",
                                'airline': airline_name,
                                'carrier_operatedby': carrier_operation,
                                'plane': plane,
-                               'timings': timings,
+                               # 'timings': timings,
                                'plane_code': plane_code,
                                'travel_date': date,
                                'booking_date': booking_date
@@ -113,7 +115,8 @@ def parse(combined_args="", source="", destination="", date="", booking_date="",
                 raise ValueError
             return cheapest_flights
         except ValueError:
-            print ("Retrying...")
+            # print ("Retrying...")
+            continue
         return []
         #return {" Error": "failed to process the page for: " + source + ", " + destination + ", " + date + ", " + booking_date}
 

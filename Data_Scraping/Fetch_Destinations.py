@@ -11,6 +11,8 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import os.path
+import Scraper
+from datetime import date
 
 # Imports for dynamic content
 from selenium import webdriver
@@ -102,13 +104,17 @@ def get_cities_incrementalranges(distances_df):
         return pd.read_csv(CSV_INCREMENTAL_RANGES, index_col=0)
     # Convert to object so that we can insert list as a value
     df = pd.DataFrame(index=sources, columns=incremental_ranges).astype(object)
-
     for source in sources:
         for ranges in incremental_ranges:
             # Get all cities within range
             limits = ranges.split('-')
             # Add cities to dataframe
             df.at[source, ranges] = distances_df.loc[(distances_df[source] >= float(limits[0])) & (distances_df[source] <= float(limits[1]))][source].index.tolist()
+            # Make sure you can get city info from expedia before adding
+            for destination in df.at[source, ranges]:
+                res = Scraper.parse(source, destination, '02/02/18', date.strftime(date.today(), '%m/%d/%y'))
+                if not res:
+                    df.at[source, ranges].remove(destination)
     df.to_csv(CSV_INCREMENTAL_RANGES)
     return df
 
