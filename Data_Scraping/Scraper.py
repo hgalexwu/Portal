@@ -3,9 +3,9 @@ import requests
 from lxml import html
 from collections import OrderedDict
 import argparse
-import random
-from fake_useragent import UserAgent
-from bs4 import BeautifulSoup
+# Can't seem to install this on AWS
+# from fake_useragent import UserAgent
+import time
 
 # Number of tries to parse flight info
 MAX_AMOUNT_TRIES = 2
@@ -17,16 +17,17 @@ def parse(source, destination, date, booking_date):
         try:
             url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(
                   source, destination, date)
-            ua = UserAgent()
-            header = {
-                'User-Agent': str(ua.random)
-            }
-            response = requests.get(url, headers=header)
+            # ua = UserAgent()
+            # header = {
+            #     'User-Agent': str(ua.random)
+            # }
+            # response = requests.get(url, headers=header)
+            response = requests.get(url)
             parser = html.fromstring(response.text)
             json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
             if len(json_data_xpath) < 1:
-                print "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date)
-                soup = BeautifulSoup(parser, 'html.parser')
+                print "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
+                # time.sleep(30)
                 raise ValueError
             raw_json = json.loads(json_data_xpath[0])
             flight_data = json.loads(raw_json["content"])
