@@ -25,7 +25,7 @@ directory = ""
 
 # Maximum number of false attempts
 MAX_ATTEMPTS = 2
-
+MAX_ATTEMPTS_SRAPE = 3
 
 # Function returning the range of dates in /mm/dd/yy format
 def get_range_dates(startdate, date_range):
@@ -44,15 +44,14 @@ def call_scrape_singlethreaded(source, cities):
             results = []
             tries = 0
             for day in get_range_dates(date.today(), DATE_RANGES):
-                time.sleep(0.5)
                 scraped_data = Scraper.parse(source, destination, day, date.strftime(date.today(), '%m/%d/%y'))
                 if scraped_data:
                     results += scraped_data
                     tries = 0
                 else:
-                    # time.sleep(30)
                     tries += 1
-                    if tries >= MAX_ATTEMPTS:
+                    #time.sleep(100)
+                    if tries >= MAX_ATTEMPTS_SRAPE:
                         print "ERROR: Exceeded Maximum Attempts"
                         return False
             file_name = SCRAPE_DIRECTORY + directory + '/%s-%s-%s-flight-results.json' % (date.strftime(date.today(), '%m%d%y'), source, destination)
@@ -66,51 +65,6 @@ def call_scrape_singlethreaded(source, cities):
             return False
     return True
 
-
-# if __name__ == "__main__":
-#
-#     # Make sure to use TOR so that we don't get blacklisted and stay anonymous
-#     # Use TOR port 9050
-#     # socks.setdefaultproxy(proxy_type=socks.PROXY_TYPE_SOCKS5, addr="127.0.0.1", port=9050)
-#     # socket.socket = socks.socksocket
-#
-#     # Create a directory to store JSON if it doesn't exist
-#     directory = "Scrape_" + str(datetime.date.today())
-#     if not os.path.exists(SCRAPE_DIRECTORY + directory):
-#         os.makedirs(SCRAPE_DIRECTORY + directory)
-#
-#     argparser = argparse.ArgumentParser()
-#     argparser.add_argument('source', help='Source airport code')
-#     args = argparser.parse_args()
-#     source_arg = args.source
-#
-#     # Get incremental ranges dataframe
-#     source_incremental_range_cities = pd.read_csv(CSV_INCREMENTAL_RANGES, index_col=0)
-#     for source, ranges in source_incremental_range_cities.iterrows():
-#         if source_arg == source or source_arg == 'all':
-#             for cities_in_incremental_ranges in ranges.values:
-#                 # Strip and create list bcz it was stored as a string
-#                 cities_list = cities_in_incremental_ranges.replace("'", "").replace("[", "").replace("]", "").replace(" ", "").split(',')
-#                 if source in cities_list:
-#                     cities_list.remove(source)
-#                 # SINGLETHREADED VERSION
-#                 # Repeat twice to get 2 cities or less
-#                 for z in range(1): #range(min(2, len(cities_list))):
-#                     # Choose 1 or less random city
-#                     cities = random.sample(cities_list, min(1, len(cities_list)))
-#                     non_empty = call_scrape_singlethreaded(source, cities)
-#                     # Get a max of 4 tries
-#                     tries = 0
-#                     while not non_empty and tries <= MAX_ATTEMPTS:
-#                         cities = random.sample(cities_list, min(1, len(cities_list)))
-#                         non_empty = call_scrape_singlethreaded(source, cities)
-#                         tries += 1
-#                         # Get 5 tries
-#                         if tries > MAX_ATTEMPTS+2:
-#                             print ("ERROR: Exceeded Maximum Attempts in Main")
-#             # Get source airport prices
-#             call_scrape_singlethreaded(source, sources)
-#     print ("DONE WITH " + str(source))
 
 if __name__ == "__main__":
 

@@ -6,27 +6,47 @@ import argparse
 # Can't seem to install this on AWS
 # from fake_useragent import UserAgent
 import time
+from selenium import webdriver
 
 # Number of tries to parse flight info
-MAX_AMOUNT_TRIES = 2
+MAX_AMOUNT_TRIES = 100
 
 
 # adapted from https://www.scrapehero.com/scrape-flight-schedules-and-prices-from-expedia/
 def parse(source, destination, date, booking_date):
     for z in range(MAX_AMOUNT_TRIES):
         try:
-            url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(
-                  source, destination, date)
+            #url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(
+            #      source, destination, date)
+            url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=children:0,adults:1,seniors:0,infantinlap:Y&mode=search".format(source, destination, date)
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'}
             # ua = UserAgent()
             # header = {
             #     'User-Agent': str(ua.random)
             # }
             # response = requests.get(url, headers=header)
-            response = requests.get(url)
+
+            response = requests.get(url, headers=headers)
             parser = html.fromstring(response.text)
             json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
+
+            # response = requests.get(url)
+            # parser = html.fromstring(response.text)
+            # json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
             if len(json_data_xpath) < 1:
-                print "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
+                print "Try Number " + str(z) + "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
+                if (response.status_code == 200):
+                    # Start WebDriver and load the page
+                    driver = webdriver.Chrome()
+                    driver.get(url)
+
+                    # Wait 10 seconds for dynamic content to load
+                    driver.implicitly_wait(10)
+
+                    # Grab HTML
+                    html_data = driver.page_source
+                    driver.quit()
+                    print html_data
                 # time.sleep(30)
                 raise ValueError
             raw_json = json.loads(json_data_xpath[0])
