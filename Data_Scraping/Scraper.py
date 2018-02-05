@@ -3,122 +3,110 @@ import requests
 from lxml import html
 from collections import OrderedDict
 import argparse
-# Can't seem to install this on AWS
-# from fake_useragent import UserAgent
 import time
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from bs4 import BeautifulSoup
 
 # Number of tries to parse flight info
 MAX_AMOUNT_TRIES = 100
-
 
 # adapted from https://www.scrapehero.com/scrape-flight-schedules-and-prices-from-expedia/
 def parse(source, destination, date, booking_date):
     for z in range(MAX_AMOUNT_TRIES):
         try:
-            #url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(
-            #      source, destination, date)
             url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=children:0,adults:1,seniors:0,infantinlap:Y&mode=search".format(source, destination, date)
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'}
-            # ua = UserAgent()
-            # header = {
-            #     'User-Agent': str(ua.random)
-            # }
-            # response = requests.get(url, headers=header)
 
             response = requests.get(url, headers=headers)
+            print response
             parser = html.fromstring(response.text)
             json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
 
-            # response = requests.get(url)
-            # parser = html.fromstring(response.text)
-            # json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
             if len(json_data_xpath) < 1:
                 print "Try Number " + str(z) + "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
                 if (response.status_code == 200):
                     # Start WebDriver and load the page
                     driver = webdriver.Chrome()
                     driver.get(url)
-
                     # Wait 10 seconds for dynamic content to load
-                    driver.implicitly_wait(10)
-
+                    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='flightModuleList']")))
                     # Grab HTML
-                    html_data = driver.page_source
+                    html_data = driver.page_source.encode('utf-8').decode('string_escape')
+                    soup = BeautifulSoup(html_data, 'lxml')
+                    flex_content = soup.find("ul", {"id": "flightModuleList"}).find_all("li", {"class": "flight-module segment offer-listing"}) 
+
+                    flight_info = OrderedDict()
+                    lists = []
+
+                    for fc in flex_content:
+                        total_flight_duration = fc.find("div", {"data-test-id": "duration"}).get_text()
+                        airline_name = fc.find("div", {"data-test-id": "airline-name"}).get_text()
+                        departure = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[0]
+                        arrival = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[1]
+                        exact_price = fc.find("span", {"class": "dollars price-emphasis"}).get_text()
+                        no_of_stops = fc.find("div", {"class": "primary stops-emphasis"}).get_text()
+
+                        #total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour, flight_minutes)
+
+                        formatted_price = "{0:.2f}".format(exact_price)
+                        flight_info = {'stops': no_of_stops,
+                                       'departure': departure,
+                                       'arrival': arrival,
+                                       'ticket_price': formatted_price,
+                                       'flight_duration': total_flight_duration,
+                                       'airline': airline_name,
+                                       'travel_date': date,
+                                       'booking_date': booking_date
+                                       }
+                        if flight_info['airline'] != "":
+                            lists.append(flight_info)
                     driver.quit()
-                    print html_data
-                # time.sleep(30)
                 raise ValueError
-            raw_json = json.loads(json_data_xpath[0])
-            flight_data = json.loads(raw_json["content"])
+            else:
+                # parse the response
+                raw_json = json.loads(json_data_xpath[0])
+                flight_data = json.loads(raw_json["content"])
 
-            flight_info = OrderedDict()
-            lists = []
-            for i in flight_data['legs'].keys():
-                departure = flight_data['legs'][i]['departureLocation']
-                arrival = flight_data['legs'][i]['arrivalLocation']
-                total_distance = str(flight_data['legs'][i]["formattedDistance"]) + ' miles'
+                flight_info = OrderedDict()
+                lists = []
+                for i in flight_data['legs'].keys():
+                    departure = flight_data['legs'][i]['departureLocation']['airportCode']
+                    arrival = flight_data['legs'][i]['arrivalLocation']['airportCode']
+                    exact_price = flight_data['legs'][i]['price']['totalPriceAsDecimal']
+                    airline_name = flight_data['legs'][i]['carrierSummary']['airlineName']
+                    no_of_stops = flight_data['legs'][i]["stops"]
+                    flight_duration = flight_data['legs'][i]['duration']
+                    flight_hour = flight_duration['hours']
+                    flight_minutes = flight_duration['minutes']
+                    flight_days = flight_duration['numOfDays']
 
-                exact_price = flight_data['legs'][i]['price']['totalPriceAsDecimal']
-                airline_name = flight_data['legs'][i]['carrierSummary']['airlineName']
-                no_of_stops = flight_data['legs'][i]["stops"]
-                flight_duration = flight_data['legs'][i]['duration']
-                flight_hour = flight_duration['hours']
-                flight_minutes = flight_duration['minutes']
-                flight_days = flight_duration['numOfDays']
-                if no_of_stops == 0:
-                    stop = "Nonstop"
-                else:
-                    stop = str(no_of_stops) + ' Stops'
+                    total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour, flight_minutes)
 
-                total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour,
-                                                                                flight_minutes)
+                    formatted_price = "{0:.2f}".format(exact_price)
+                    if flight_data['legs'][i]['timeline'] is not None and len(flight_data['legs'][i]['timeline']) > 0:
+                        carrier = flight_data['legs'][i]['timeline'][0]['carrier']
+                    else:
+                        print ('No Timeline Data')
+                        raise ValueError
 
-                formatted_price = "{0:.2f}".format(exact_price)
-                if flight_data['legs'][i]['timeline'] is not None and len(flight_data['legs'][i]['timeline']) > 0:
-                    carrier = flight_data['legs'][i]['timeline'][0]['carrier']
-                    plane = carrier['plane']
-                    plane_code = carrier['planeCode']
-                else:
-                    print ('No Timeline Data')
-                    raise ValueError
+                    if not airline_name:
+                        airline_name = carrier['operatedBy']
 
-                if not airline_name:
-                    airline_name = carrier['operatedBy']
-                carrier_operation = carrier['operatedBy']
+                    flight_info = {'stops': no_of_stops,
+                                   'departure': departure,
+                                   'arrival': arrival,
+                                   'ticket_price': formatted_price,
+                                   'flight_duration': total_flight_duration,
+                                   'airline': airline_name,
+                                   'travel_date': date,
+                                   'booking_date': booking_date
+                                   }
+                    if flight_info['airline'] != "":
+                        lists.append(flight_info)
 
-                # Removed timings because it is not necessary information
-                # timings = []
-                # for timeline in flight_data['legs'][i]['timeline']:
-                #     if 'departureAirport' in timeline.keys():
-                #         departure_airport = timeline['departureAirport']['longName']
-                #         departure_time = timeline['departureTime']['time']
-                #         arrival_airport = timeline['arrivalAirport']['longName']
-                #         arrival_time = timeline['arrivalTime']['time']
-                #         flight_timing = {
-                #             'departure_airport': departure_airport,
-                #             'departure_time': departure_time,
-                #             'arrival_airport': arrival_airport,
-                #             'arrival_time': arrival_time
-                #         }
-                #         timings.append(flight_timing)
-
-                flight_info = {'stops': stop,
-                               'total_distance': total_distance,
-                               'departure': departure,
-                               'arrival': arrival,
-                               'ticket_price': formatted_price,
-                               'flight_duration': total_flight_duration,
-                               'airline': airline_name,
-                               'carrier_operatedby': carrier_operation,
-                               'plane': plane,
-                               # 'timings': timings,
-                               'plane_code': plane_code,
-                               'travel_date': date,
-                               'booking_date': booking_date
-                               }
-                if flight_info['airline'] != "":
-                    lists.append(flight_info)
             sortedlist = sorted(lists, key=lambda k: (k['airline'], k['stops'], k['ticket_price'], k['flight_duration']), reverse=False)
 
             cheapest_flights = []
@@ -140,7 +128,7 @@ def parse(source, destination, date, booking_date):
             continue
         return []
         #return {" Error": "failed to process the page for: " + source + ", " + destination + ", " + date + ", " + booking_date}
-
+ 
 
 if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
