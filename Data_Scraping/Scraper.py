@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # Number of tries to parse flight info
-MAX_AMOUNT_TRIES = 10
+MAX_AMOUNT_TRIES = 5
 
 # adapted from https://www.scrapehero.com/scrape-flight-schedules-and-prices-from-expedia/
 def parse(source, destination, date, booking_date):
@@ -24,9 +24,10 @@ def parse(source, destination, date, booking_date):
             parser = html.fromstring(response.text)
             json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
 
+            # Parse response using Selenium
             if len(json_data_xpath) < 1:
-                print "Try Number " + str(z) + "JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
-                if (response.status_code == 200):
+                print "Try Number " + str(z) + ": JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
+                if response.status_code == 200:
                     # Start WebDriver and load the page
                     driver = webdriver.Chrome()
                     driver.get(url)
@@ -63,10 +64,10 @@ def parse(source, destination, date, booking_date):
                                        }
                         if flight_info['airline'] != "":
                             lists.append(flight_info)
-
+                # WTF IS THIS?
                 raise ValueError
             else:
-                # parse the response
+                # Parse the response
                 raw_json = json.loads(json_data_xpath[0])
                 flight_data = json.loads(raw_json["content"])
 
