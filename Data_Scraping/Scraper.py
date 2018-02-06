@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # Number of tries to parse flight info
-MAX_AMOUNT_TRIES = 100
+MAX_AMOUNT_TRIES = 10
 
 # adapted from https://www.scrapehero.com/scrape-flight-schedules-and-prices-from-expedia/
 def parse(source, destination, date, booking_date):
@@ -21,7 +21,6 @@ def parse(source, destination, date, booking_date):
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'}
 
             response = requests.get(url, headers=headers)
-            print response
             parser = html.fromstring(response.text)
             json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
 
@@ -35,6 +34,7 @@ def parse(source, destination, date, booking_date):
                     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='flightModuleList']")))
                     # Grab HTML
                     html_data = driver.page_source.encode('utf-8').decode('string_escape')
+                    driver.quit()
                     soup = BeautifulSoup(html_data, 'lxml')
                     flex_content = soup.find("ul", {"id": "flightModuleList"}).find_all("li", {"class": "flight-module segment offer-listing"}) 
 
@@ -63,7 +63,7 @@ def parse(source, destination, date, booking_date):
                                        }
                         if flight_info['airline'] != "":
                             lists.append(flight_info)
-                    driver.quit()
+
                 raise ValueError
             else:
                 # parse the response
