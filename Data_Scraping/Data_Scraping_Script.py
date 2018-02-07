@@ -25,7 +25,8 @@ directory = ""
 
 # Maximum number of false attempts
 MAX_ATTEMPTS = 2
-MAX_ATTEMPTS_SRAPE = 3
+# Number of consecutive days that we can skip
+MAX_ATTEMPTS_SRAPE = 15
 
 # Function returning the range of dates in /mm/dd/yy format
 def get_range_dates(startdate, date_range):
@@ -50,7 +51,6 @@ def call_scrape_singlethreaded(source, cities):
                     tries = 0
                 else:
                     tries += 1
-                    #time.sleep(100)
                     if tries >= MAX_ATTEMPTS_SRAPE:
                         print "ERROR: Exceeded Maximum Attempts"
                         return False
@@ -98,9 +98,9 @@ if __name__ == "__main__":
                     # Choose 1 or less random city
                     cities = random.sample(cities_list, min(1, len(cities_list)))
                     non_empty = call_scrape_singlethreaded(source, cities)
-                    # Get a max of 4 tries
+                    # Get a max of 2 tries
                     tries = 0
-                    while not non_empty and tries <= MAX_ATTEMPTS:
+                    while not non_empty and tries < MAX_ATTEMPTS and len(cities_list) < 3:
                         cities = random.sample(cities_list, min(1, len(cities_list)))
                         non_empty = call_scrape_singlethreaded(source, cities)
                         tries += 1

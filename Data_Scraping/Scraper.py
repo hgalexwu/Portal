@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # Number of tries to parse flight info
-MAX_AMOUNT_TRIES = 5
+MAX_AMOUNT_TRIES = 1
 
 # adapted from https://www.scrapehero.com/scrape-flight-schedules-and-prices-from-expedia/
 def parse(source, destination, date, booking_date):
@@ -25,8 +25,9 @@ def parse(source, destination, date, booking_date):
             json_data_xpath = parser.xpath("//script[@id='cachedResultsJson']//text()")
 
             # Parse response using Selenium
-            if len(json_data_xpath) < 1:
-                print "Try Number " + str(z) + ": JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
+            #if len(json_data_xpath) < 1:
+            if True:
+                # print "Try Number " + str(z) + ": JSON_DATA_XPATH of length 0 for " + str(source) + " to " + str(destination) + " on " + str(date) + " with Status Code " + str(response.status_code)
                 if response.status_code == 200:
                     # Start WebDriver and load the page
                     driver = webdriver.Chrome()
@@ -37,8 +38,7 @@ def parse(source, destination, date, booking_date):
                     html_data = driver.page_source.encode('utf-8').decode('string_escape')
                     driver.quit()
                     soup = BeautifulSoup(html_data, 'lxml')
-                    flex_content = soup.find("ul", {"id": "flightModuleList"}).find_all("li", {"class": "flight-module segment offer-listing"}) 
-
+                    flex_content = soup.find("ul", {"id": "flightModuleList"}).find_all("li", {"class": "flight-module segment offer-listing"})
                     flight_info = OrderedDict()
                     lists = []
 
@@ -62,12 +62,14 @@ def parse(source, destination, date, booking_date):
                                        'travel_date': date,
                                        'booking_date': booking_date
                                        }
+                        print ("Flight info", flight_info)
                         if flight_info['airline'] != "":
                             lists.append(flight_info)
-                # WTF IS THIS?
-                raise ValueError
+                else:
+                    print ("Error: Status code not 200")
+                    raise ValueError
             else:
-                # Parse the response
+                # Parse the response the normal way
                 raw_json = json.loads(json_data_xpath[0])
                 flight_data = json.loads(raw_json["content"])
 
@@ -105,6 +107,46 @@ def parse(source, destination, date, booking_date):
                                    'travel_date': date,
                                    'booking_date': booking_date
                                    }
+
+                    if flight_info['airline'] != "":
+                        lists.append(flight_info)
+            # Parse using selenium if we get an empty list
+            # if not lists:
+            if False:
+                print (" Data scrape didn't work for:", source, destination, date, booking_date)
+                # Start WebDriver and load the page
+                driver = webdriver.Chrome()
+                driver.get(url)
+                # Wait 10 seconds for dynamic content to load
+                WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='flightModuleList']")))
+                # Grab HTML
+                html_data = driver.page_source.encode('utf-8').decode('string_escape')
+                driver.quit()
+                soup = BeautifulSoup(html_data, 'lxml')
+                flex_content = soup.find("ul", {"id": "flightModuleList"}).find_all("li", {"class": "flight-module segment offer-listing"})
+
+                flight_info = OrderedDict()
+                lists = []
+
+                for fc in flex_content:
+                    total_flight_duration = fc.find("div", {"data-test-id": "duration"}).get_text()
+                    airline_name = fc.find("div", {"data-test-id": "airline-name"}).get_text()
+                    departure = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[0]
+                    arrival = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[1]
+                    exact_price = fc.find("span", {"class": "dollars price-emphasis"}).get_text()
+                    no_of_stops = fc.find("div", {"class": "primary stops-emphasis"}).get_text()
+
+                    #total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour, flight_minutes)
+                    formatted_price = "{0:.2f}".format(exact_price)
+                    flight_info = {'stops': no_of_stops,
+                                   'departure': departure,
+                                   'arrival': arrival,
+                                   'ticket_price': formatted_price,
+                                   'flight_duration': total_flight_duration,
+                                   'airline': airline_name,
+                                   'travel_date': date,
+                                   'booking_date': booking_date
+                                   }
                     if flight_info['airline'] != "":
                         lists.append(flight_info)
 
@@ -120,12 +162,15 @@ def parse(source, destination, date, booking_date):
                     flights['nb_flights_offered'] = len(sortedlist)
                     # Add number of offered flights, to determine city status
                     cheapest_flights.append(flights)
+
             if not cheapest_flights:
                 print (" Data scrape didn't work for:", source, destination, date, booking_date)
                 raise ValueError
             return cheapest_flights
         except ValueError:
-            # print ("Retrying...")
+            print ("Retrying...")
+            continue
+        except:
             continue
         return []
         #return {" Error": "failed to process the page for: " + source + ", " + destination + ", " + date + ", " + booking_date}
