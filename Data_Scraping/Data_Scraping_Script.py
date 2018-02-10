@@ -6,9 +6,6 @@ from datetime import date
 import pandas as pd
 import random
 import argparse
-import time
-# import socks
-# import socket
 
 # Range of Dates
 DATE_RANGES = 120
@@ -26,7 +23,7 @@ directory = ""
 # Maximum number of false attempts
 MAX_ATTEMPTS = 2
 # Number of consecutive days that we can skip
-MAX_ATTEMPTS_SRAPE = 15
+MAX_ATTEMPTS_SRAPE = 10
 
 # Function returning the range of dates in /mm/dd/yy format
 def get_range_dates(startdate, date_range):

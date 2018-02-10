@@ -31,6 +31,8 @@ def preprocess_data(path):
     airport_aliases = json.load(open(AIRPORT_ALIASES_FILENAME))
     airport_status_mapping = {None : "0", "small": "1", "medium": "2", "large": "3"}
 
+    unrecognized_airports = []
+
     for dir in os.listdir(path):
         if dir.startswith('Scrape') and not dir.endswith('.txt'):
             for file in os.listdir(path + "/" + dir) :
@@ -38,28 +40,34 @@ def preprocess_data(path):
                     json_data = json.load(open(path + "/" + dir + "/" + file))
                     for flight in json_data:
                         # Check to see if its database of distances
-                        if flight['arrival']['airportCode'].lower() in airport_distances.index:
+                        if 'airportCode' not in flight['arrival']:
+                            arrival_airportcode = flight['arrival'].lower()
+                            departure_airportcode = flight['departure'].lower()
+                        else:
+                            arrival_airportcode = flight['arrival']['airportCode'].lower()
+                            departure_airportcode = flight['departure']['airportCode'].lower()
+                        if arrival_airportcode in airport_distances.index:
                             # Calculate days until departure
                             if 'days_until_departure' not in flight:
                                 flight['days_until_departure'] = calculate_date_difference(flight['booking_date'], flight['travel_date'])
                             # Get Distances between Airports
                             if 'distance' not in flight:
-                                if (flight['departure']['airportCode'].lower() not in sources):
+                                if departure_airportcode not in sources:
                                     for aliases in airport_aliases:
-                                        if aliases['alias'] == flight['departure']['airportCode'].lower():
-                                            flight['distance'] = airport_distances.at[flight['arrival']['airportCode'].lower(),aliases['airportName']]
+                                        if aliases['alias'] == departure_airportcode:
+                                            flight['distance'] = airport_distances.at[arrival_airportcode,aliases['airportName']]
                                 else:
-                                    flight['distance'] = airport_distances.at[flight['arrival']['airportCode'].lower(), flight['departure']['airportCode'].lower()]
+                                    flight['distance'] = airport_distances.at[arrival_airportcode, departure_airportcode]
                             if 'city_status_source' not in flight or 'country_source' not in flight or 'continent_source' not in flight:
                                 for airport in airport_info:
-                                    if airport['iata'] == flight['departure']['airportCode']:
+                                    if airport['iata'].lower() == departure_airportcode:
                                         # Get City Statuses
                                         flight['city_status_source'] = airport_status_mapping[airport['size']]
                                         # Get Continents
                                         flight['continent_source'] = airport['continent']
                                         # Get Country
                                         flight['country_source'] = airport['iso']
-                                    elif airport['iata'] == flight['arrival']['airportCode']:
+                                    elif airport['iata'].lower() == arrival_airportcode:
                                         # Get City Statuses
                                         flight['city_status_destination'] = airport_status_mapping[airport['size']]
                                         # Get Continents
@@ -110,7 +118,9 @@ def preprocess_data(path):
                         # Add to MongoDB
                         # Check if it exists, if it doesn't add.
                         else:
-                            print (flight['arrival']['airportCode'] + " is not in the DB")
+                            if arrival_airportcode not in unrecognized_airports:
+                                print (arrival_airportcode + " is not in the DB")
+                                unrecognized_airports.append(arrival_airportcode)
 
 
 
