@@ -1,0 +1,17 @@
+PATH=/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/opt/aws/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin
+
+15 5 * * * cd ./Portal && python Data_Scraping_Script.py del >> ./Logs/`date +\%d\%m\%y`_log.txt
+30 6 * * * cd ./Portal && python Data_Scraping_Script.py bjs >> ./Logs/`date +\%d\%m\%y`_log.txt
+45 7 * * * cd ./Portal && python Data_Scraping_Script.py auh >> ./Logs/`date +\%d\%m\%y`_log.txt
+0 9 * * * cd ./Portal && python Data_Scraping_Script.py cpt >> ./Logs/`date +\%d\%m\%y`_log.txt
+15 10 * * * cd ./Portal && python Data_Scraping_Script.py edi >> ./Logs/`date +\%d\%m\%y`_log.txt
+30 11 * * * cd ./Portal && python Data_Scraping_Script.py syd >> ./Logs/`date +\%d\%m\%y`_log.txt
+45 12 * * * cd ./Portal && python Data_Scraping_Script.py msq >> ./Logs/`date +\%d\%m\%y`_log.txt
+0 14 * * * cd ./Portal && python Data_Scraping_Script.py dac >> ./Logs/`date +\%d\%m\%y`_log.txt
+15 15 * * * cd ./Portal && python Data_Scraping_Script.py sin >> ./Logs/`date +\%d\%m\%y`_log.txt
+30 16 * * * cd ./Portal && python Data_Scraping_Script.py hkg >> ./Logs/`date +\%d\%m\%y`_log.txt
+45 17 * * * cd ./Portal && python Data_Scraping_Script.py rio >> ./Logs/`date +\%d\%m\%y`_log.txt
+0 19 * * * cd ./Portal && python Data_Scraping_Script.py los >> ./Logs/`date +\%d\%m\%y`_log.txt
+15 20 * * * cd ./Portal && python Data_Scraping_Script.py yul >> ./Logs/`date +\%d\%m\%y`_log.txt
+30 21 * * * cd ./Portal && python Data_Scraping_Script.py mia >> ./Logs/`date +\%d\%m\%y`_log.txt
+45 22 * * * cd ./Portal && python Data_Scraping_Script.py nyc >> ./Logs/`date +\%d\%m\%y`_log.txt

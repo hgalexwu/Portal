@@ -33,13 +33,21 @@ def parse_with_selenium(url, date, booking_date):
     flight_info = OrderedDict()
     lists = []
     for fc in flex_content:
-        total_flight_duration = fc.find("div", {"data-test-id": "duration"}).get_text().replace("\n", "").strip()
-        airline_name = fc.find("div", {"data-test-id": "airline-name"}).get_text().replace("\n", "").strip()
-        departure = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[0]
-        arrival = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[1]
-        exact_price = float(fc.find("span", {"class": "dollars price-emphasis"}).get_text().replace("$","").replace(",", ""))
-        no_of_stops = fc.find("div", {"class": "primary stops-emphasis"}).get_text().replace("\n", "").strip()
-        #total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour, flight_minutes)
+        total_flight_duration = fc.find("span", {"data-test-id": "duration"}).get_text().replace("\n", "").strip()
+        airline_name = fc.find("span", {"data-test-id": "airline-name"}).get_text().replace("\n", "").strip()
+        departure = fc.find("div", {"data-test-id": "flight-info"}).get_text().replace("Departure airport:","").replace("Arrival airport:", "").replace("\n", "").split("-")[0].strip()
+        arrival = fc.find("div", {"data-test-id": "flight-info"}).get_text().replace("Departure airport:","").replace("Arrival airport:", "").replace("\n", "").split("-")[-1].strip()
+        exact_price = float(fc.find("span", {"data-test-id": "listing-price-dollars"}).get_text().replace("$","").replace(",", ""))
+        no_of_stops = fc.find("span", {"class": "number-stops"}).get_text().replace("\n", "").strip().replace("(","").replace(")","")
+
+        #total_flight_duration = fc.find("div", {"data-test-id": "duration"}).get_text().replace("\n", "").strip()
+        #airline_name = fc.find("div", {"data-test-id": "airline-name"}).get_text().replace("\n", "").strip()
+        #departure = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[0]
+        #arrival = fc.find("div", {"data-test-id": "airports"}).get_text().split(" - ")[1]
+        #exact_price = float(fc.find("span", {"class": "dollars price-emphasis"}).get_text().replace("$","").replace(",", ""))
+        #no_of_stops = fc.find("div", {"class": "primary stops-emphasis"}).get_text().replace("\n", "").strip()
+
+        ##total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days, flight_hour, flight_minutes)
         formatted_price = "{0:.2f}".format(exact_price)
         flight_info = {'stops': no_of_stops,
                        'departure': departure,
@@ -72,6 +80,7 @@ def parse(source, destination, date, booking_date):
                     lists = parse_with_selenium(url, date, booking_date)
                 else:
                     print ("Error: Status code not 200")
+                    print (response.headers)
                     raise ValueError
             else:
                 # Parse the response the normal way

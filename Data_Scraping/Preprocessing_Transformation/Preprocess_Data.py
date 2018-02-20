@@ -84,7 +84,7 @@ def preprocess_data(path):
                             # Direct Tag
                             if 'direct' not in flight:
                                 # direct = 1, non-direct = 0
-                                if flight['stops'] == 'Nonstop':
+                                if flight['stops'] == 'Nonstop' or flight['stops'] == 0:
                                     flight['direct'] = 1
                                 else:
                                     flight['direct'] = 0
