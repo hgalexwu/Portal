@@ -41,6 +41,7 @@
           <div class="col-xl-9 mx-auto">
             <h1 class="mb-5">Search here for the best prices for flights</h1>
           </div>
+        </div>
           <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
             <form id="submitFlightInfo" method="post" class="form-horizontal">
               <!-- Grid row -->
@@ -49,8 +50,9 @@
 			        <div class="col">
 			            <!-- Material input -->
 			            <div class="md-form">
-                      <label> Flying From: </label>
-			                <input type="text" class="form-control">
+                      <label id = "label"> Flying From: </label>
+                      <i class="fa fa-plane"></i>
+			                <input type="text" class="form-control" id="flyingFrom">
 			            </div>
 			        </div>
 			        <!-- Grid column -->
@@ -60,7 +62,7 @@
 			            <!-- Material input -->
 			            <div class="md-form">
                     <label> Flying To: </label>
-			                <input type="text" class="form-control">
+			                <input type="text" class="form-control" id="flyingTo">
 			            </div>
 			        </div>
 			        <!-- Grid column -->
@@ -72,7 +74,7 @@
                   <!-- Material input -->
                   <div class="md-form">
                     <label>Select Date From:</label>
-                      <input id="date" type="date" class="form-control">
+                      <input id="dateFrom" type="date" class="form-control">
                   </div>
               </div>
               <!-- Grid column -->
@@ -82,17 +84,18 @@
                   <!-- Material input -->
                   <div class="md-form">
                     <label>Select Date To: </label>
-                      <input id="date" type="date" class="form-control">
+                      <input id="dateTo" type="date" class="form-control">
                   </div>
               </div>
               <!-- Grid column -->
           </div>
           <!-- Grid row -->
-                <div class="col-12 col-md-3">
-                  <button type="submit" class="btn btn-block btn-lg btn-primary">Search</button>
-                </div>
+            <div class = "row">
+                  <a class="btn btn-block btn-lg btn-primary" id="search">Search</a>
               </div>
-            </form>
+              </form>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -201,23 +204,23 @@
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css" />
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker3.min.css" />
-
-	<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.min.js"></script>
 
 	<script>
-		$(document).ready(function() {
-		    $('#dateRangePicker')
-		        .datepicker({
-		            format: 'mm/dd/yyyy',
-		            startDate: '01/01/2010',
-		            endDate: '12/30/2020'
-		        })
-		        .on('changeDate', function(e) {
-		            // Revalidate the date field
-		            $('#submitFlightInfo').formValidation('revalidateField', 'date');
-		        });
+      var button = document.getElementById("search");
+    
+      button.onclick = function(){
+      var flyingFrom = document.getElementById('flyingFrom').value;
+      var dateFrom = document.getElementById('dateFrom').value;
+      var flyingTo = document.getElementById('flyingTo').value;
+      var dateTo = document.getElementById('dateTo').value;
+      console.log(flyingFrom);
+      console.log(dateFrom);
+      console.log(flyingTo);
+      console.log(dateTo);
+
+      };
+    
+		
 	</script>
 
   </body>
