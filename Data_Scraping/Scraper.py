@@ -79,8 +79,7 @@ def parse(source, destination, date, booking_date):
                 if response.status_code == 200:
                     lists = parse_with_selenium(url, date, booking_date)
                 else:
-                    print ("Error: Status code not 200")
-                    print (response.headers)
+                    print ("Error: Status code " + str(response.status_code))
                     raise ValueError
             else:
                 # Parse the response the normal way

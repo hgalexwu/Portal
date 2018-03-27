@@ -11895,6 +11895,15 @@
         "size": "medium"
     },
     {
+        "iata": "KNO",
+        "iso": "ID",
+        "status": 1,
+        "name": "Kualanamu International Airport",
+        "continent": "AS",
+        "type": "airport",
+        "size": "medium"
+    },
+    {
         "iata": "LTR",
         "lon": "-7.733333",
         "iso": "IE",
@@ -12146,6 +12155,24 @@
         "type": "airport",
         "lat": "55.990276",
         "size": "medium"
+    },
+    {
+        "iata": "GTR",
+        "iso": "US",
+        "status": 1,
+        "name": "Golden Triangle Regional Airport",
+        "continent": "NA",
+        "type": "airport",
+        "size": "small"
+    },
+    {
+        "iata": "STS",
+        "iso": "US",
+        "status": 1,
+        "name": "Charles M. Schulz–Sonoma County Airport",
+        "continent": "NA",
+        "type": "airport",
+        "size": "small"
     },
     {
         "iata": "AAL",
@@ -15231,6 +15258,17 @@
         "size": "medium"
     },
     {
+        "iata": "MTS",
+        "lon": "31.314133",
+        "iso": "SZ",
+        "status": 1,
+        "name": "Matsapha Airport",
+        "continent": "AF",
+        "type": "airport",
+        "lat": "-26.52033",
+        "size": "medium"
+    },
+    {
         "iata": "FEA",
         "lon": "-0.966667",
         "iso": "GB",
@@ -15239,6 +15277,15 @@
         "continent": "EU",
         "type": "airport",
         "lat": "60.583332",
+        "size": "small"
+    },
+    {
+        "iata": "MTJ",
+        "iso": "US",
+        "status": 1,
+        "name": "Montrose Regional Airport",
+        "continent": "NA",
+        "type": "airport",
         "size": "small"
     },
     {
@@ -15617,9 +15664,17 @@
         "iso": "CM",
         "status": 1,
         "name": "Mamfe Airport",
+        "continent": "NA",
+        "type": "airport",
+        "size": "small"
+    },
+    {
+        "iata": "MMH",
+        "iso": "US",
+        "status": 1,
+        "name": "Mammoth Yosemite Airport",
         "continent": "AF",
         "type": "airport",
-        "lat": "5.716667",
         "size": "small"
     },
     {
@@ -68924,6 +68979,15 @@
         "size": "medium"
     },
     {
+        "iata": "SAF",
+        "iso": "US",
+        "status": 1,
+        "name": "Santa Fe Regional Airport",
+        "continent": "NA",
+        "type": "airport",
+        "size": "small"
+    },
+    {
         "iata": "MGT",
         "lon": "134.89352",
         "iso": "AU",
@@ -73211,6 +73275,33 @@
         "type": "airport",
         "lat": "41.861084",
         "size": "large"
+    },
+    {
+        "iata": "SGU",
+        "iso": "US",
+        "status": 1,
+        "name": "St. George Regional Airport",
+        "continent": "NA",
+        "type": "airport",
+        "size": "small"
+    },
+    {
+        "iata": "MLH",
+        "iso": "FR",
+        "status": 1,
+        "name": "EuroAirport Basel Mulhouse Freiburg",
+        "continent": "EU",
+        "type": "airport",
+        "size": "small"
+    },
+    {
+        "iata": "ASE",
+        "iso": "US",
+        "status": 1,
+        "name": "Aspen-Pitkin County Airport",
+        "continent": "NA",
+        "type": "airport",
+        "size": "small"
     },
     {
         "iata": "YNJ",
