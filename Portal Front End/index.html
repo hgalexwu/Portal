@@ -20,6 +20,11 @@
 
     <!-- Custom styles for this template -->
     <link href="css/landing-page.min.css" rel="stylesheet">
+    
+    <!-- Javascripts including the connection between the model and the front end -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://apis.google.com/js/client.js"></script>
+
 
   </head>
 
@@ -208,19 +213,63 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	<script>
-      var button = document.getElementById("search");
-    
-      button.onclick = function(){
-      var flyingFrom = document.getElementById('flyingFrom').value;
-      var dateFrom = document.getElementById('dateFrom').value;
-      var flyingTo = document.getElementById('flyingTo').value;
-      var dateTo = document.getElementById('dateTo').value;
-      console.log(flyingFrom);
-      console.log(dateFrom);
-      console.log(flyingTo);
-      console.log(dateTo);
 
+      var instance = {
+        "arrival": 'KUL',
+        "distance": 16700,
+        "booking_date": "01/07/18",
+        "city_status_destination": 3,
+        "direct": 0,
+        "continent_source": 'NA',
+        "departure": 'MIA',
+        "stops": 2,
+        "city_status_source": 3,
+        "country_source": 'US',
+        "season": 0,
+        "continent_destination": 'AS',
+        "country_destination": 'MY',
+        "airline": 'Air Canada Rouge',
+        "nb_flights_offered": 24,
+        "international": 1,
+        "travel_date": '01/08/18',
+        "month_of_travel": 1,
+        "days_until_departure": 1
+      }
+      
+      function callbackFunc(response) {
+	    // do something with the response
+	    console.log("response received")
+	    console.log(response);
+	  }
+	  
+
+      var button = document.getElementById("search");
+
+
+      button.onclick = function(){
+        var flyingFrom = document.getElementById('flyingFrom').value;
+        var dateFrom = document.getElementById('dateFrom').value;
+        var flyingTo = document.getElementById('flyingTo').value;
+        var dateTo = document.getElementById('dateTo').value;
+        console.log(flyingFrom);
+        console.log(dateFrom);
+        console.log(flyingTo);
+        console.log(dateTo);
+
+	    $.ajax({
+	        type: "POST",
+	        //url: "http://localhost:8000/Get_Model_Response.py",
+          url: "http://127.0.0.1:8000/index/",
+	        data: { 
+            param: flyingFrom,
+            csrfmiddlewaretoken: '{{ csrf_token }}',
+          },
+	        success: callbackFunc
+	    });
+		
       };
+
+      
     
 		
 	</script>
