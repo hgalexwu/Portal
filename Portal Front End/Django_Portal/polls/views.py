@@ -88,8 +88,7 @@ def predict_json(project, model, instances, version=None):
 def get_distance(flyingFrom,flyingTo):
 	return 0
 
-def get_flight_input(flyingFrom, flyingTo, dateFrom, dateTo):
-	print (flyingFrom,flyingTo, dateFrom, dateTo, calculate_date_difference(str(date.today()),dateFrom))
+def get_flight_input(flyingFrom, flyingTo, dateFrom):
 	date_ranges = get_range_dates(date.today(),calculate_date_difference(str(date.today()),dateFrom))
 	
 	# airport files
@@ -182,7 +181,6 @@ def get_flight_input(flyingFrom, flyingTo, dateFrom, dateTo):
 @csrf_exempt 
 def index(request):
 	if request.method == "POST":
-		
 		flight_input = request.body.split("&")
 		for input_data in flight_input:
 			if 'flyingFrom' in input_data:
@@ -193,8 +191,14 @@ def index(request):
 				dateFrom = input_data.replace('dateFrom=','')
 			elif 'dateTo' in input_data:
 				dateTo = input_data.replace('dateTo=','')
-		flight_request_input = get_flight_input(flyingFrom, flyingTo, dateFrom, dateTo)		
-		json_response = predict_json(project_name, model_name, flight_request_input, version_name)
+		flight_request_input_from = get_flight_input(flyingFrom, flyingTo, dateFrom)		
+		json_response_from = predict_json(project_name, model_name, flight_request_input_from, version_name)
+		if dateTo != "":
+			flight_request_input_to = get_flight_input(flyingTo,flyingFrom,dateTo)
+			json_response_to = predict_json(project_name, model_name, flight_request_input_to, version_name)
+			json_response = {'Price_From': json_response_from, 'Price_To': json_response_to}
+		else:
+			json_response = {'Price_From': json_response_from, 'Price_To': {}}
 		return JsonResponse(json_response, safe=False)
 	else:
 		return HttpResponse("Hello, world. You're at the polls index.")
