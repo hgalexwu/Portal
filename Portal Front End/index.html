@@ -251,17 +251,15 @@
         var dateFrom = document.getElementById('dateFrom').value;
         var flyingTo = document.getElementById('flyingTo').value;
         var dateTo = document.getElementById('dateTo').value;
-        console.log(flyingFrom);
-        console.log(dateFrom);
-        console.log(flyingTo);
-        console.log(dateTo);
 
 	    $.ajax({
 	        type: "POST",
-	        //url: "http://localhost:8000/Get_Model_Response.py",
           url: "http://127.0.0.1:8000/index/",
 	        data: { 
-            param: flyingFrom,
+            flyingFrom: flyingFrom,
+            flyingTo: flyingTo,
+            dateFrom: dateFrom,
+            dateTo: dateTo,
             csrfmiddlewaretoken: '{{ csrf_token }}',
           },
 	        success: callbackFunc
