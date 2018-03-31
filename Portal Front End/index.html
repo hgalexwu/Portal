@@ -25,6 +25,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://apis.google.com/js/client.js"></script>
 
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.js"></script>
+    <script src="utils.js"></script>
+
 
   </head>
 
@@ -96,10 +99,14 @@
               <!-- Grid column -->
           </div>
           <!-- Grid row -->
-            <div class = "row">
+          <div class="form-row">&nbsp;</div>
+          <div class="form-row">
+            <div class="col-2"></div>
+            <div class = "col-8">
                   <a class="btn btn-block btn-lg btn-primary" id="search">Search</a>
-                  <!--><button type="submit" onclick="UserAction()">Search</button><!-->
               </div>
+              <div class="col-2"></div>
+            </div>
               </form>
             </div>
             
@@ -107,6 +114,13 @@
         </div>
       </div>
     </header>
+
+    <div class="container">
+
+          <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+                  <canvas id="myChart" width="400" height="400"></canvas>
+          </div>
+    </div>
 
     <!-- Testimonials -->
     <section class="testimonials text-center bg-light">
@@ -235,11 +249,112 @@
         "month_of_travel": 1,
         "days_until_departure": 1
       }
+
+    Date.prototype.addDays = function(days) {
+       var dat = new Date(this.valueOf())
+       dat.setDate(dat.getDate() + days);
+       return dat;
+    }
+
+   function getDates(startDate, stopDate) {
+      var dateArray = new Array();
+      var currentDate = startDate;
+      while (currentDate <= stopDate) {
+        dateArray.push(currentDate)
+        currentDate = currentDate.addDays(1);
+      }
+      return dateArray;
+    }
       
       function callbackFunc(response) {
-	    // do something with the response
-	    console.log("response received")
-	    console.log(response);
+  	    // do something with the response
+
+  	    console.log("response received")
+  	    console.log(response);
+
+
+        console.log(response.Price_To[0].predictions[0]);
+
+        var dateArray = getDates(new Date(), (new Date(document.getElementById("dateTo").value)));
+        var sexyDateArray = new Array();
+        var count = 0;
+        for (i = 0; i < dateArray.length; i++ ) {
+            var month = dateArray[i].getUTCMonth() + 1; //months from 1-12
+            var day = dateArray[i].getUTCDate();
+            var year = dateArray[i].getUTCFullYear();
+
+            newdate = year + "/" + month + "/" + day;
+            sexyDateArray.push(newdate);
+        }
+
+        var datasetTo = new Array();
+        var datasetFrom = new Array();
+
+        for(j = 0; j < sexyDateArray.length; j++){
+          datasetTo.push(response.Price_To[j].predictions[0]);
+        }
+
+        for(k=0; k<response.Price_From.length; k++){
+          datasetFrom.push(response.Price_From[k].predictions[0]);
+        }
+          
+
+        var MONTHS = sexyDateArray;
+        var config = {
+          type: 'line',
+          data: {
+            labels: MONTHS,
+            datasets: [{
+              label: 'Price From: ' + document.getElementById("flyingFrom").value,
+              backgroundColor: window.chartColors.red,
+              borderColor: window.chartColors.red,
+              data: datasetTo,
+              fill: false,
+            }, {
+              label: 'Price From: ' + document.getElementById("flyingTo").value,
+              fill: false,
+              backgroundColor: window.chartColors.blue,
+              borderColor: window.chartColors.blue,
+              data: datasetFrom,
+            }]
+          },
+          options: {
+            responsive: true,
+            title: {
+              display: true,
+              text: 'Graphical Representation of Predicted Prices'
+            },
+            tooltips: {
+              mode: 'index',
+              intersect: false,
+            },
+            hover: {
+              mode: 'nearest',
+              intersect: true
+            },
+            scales: {
+              xAxes: [{
+                display: true,
+                scaleLabel: {
+                  display: true,
+                  labelString: 'Dates'
+                }
+              }],
+              yAxes: [{
+                display: true,
+                scaleLabel: {
+                  display: true,
+                  labelString: 'Value'
+                }
+              }]
+            }
+          }
+        };
+
+          var ctx = document.getElementById('myChart').getContext('2d');
+          window.myLine = new Chart(ctx, config);
+      
+  
 	  }
 	  
 
