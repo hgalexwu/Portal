@@ -68,7 +68,16 @@ var instance = {
 
         console.log(response.Price_To[0].predictions[0]);
 
-        var dateArray = getDates(new Date(), (new Date(document.getElementById("dateTo").value)));
+        var dateTo = document.getElementById("dateTo").value;
+        var dateFrom = document.getElementById("dateFrom").value;
+
+        if(dateTo === ""){
+          var dateArray = getDates(new Date(), new Date(dateFrom));
+        } else {
+          var dateArray = getDates(new Date(), new Date(dateTo));
+        }
+
+        
         var sexyDateArray = new Array();
         var count = 0;
         for (i = 0; i < dateArray.length; i++ ) {
@@ -159,6 +168,8 @@ var instance = {
         var dateFrom = document.getElementById('dateFrom').value;
         var flyingTo = document.getElementById('flyingTo').value;
         var dateTo = document.getElementById('dateTo').value;
+
+      //Add some if statements for the one way, return and dev type
 
 	    $.ajax({
 	        type: "POST",
