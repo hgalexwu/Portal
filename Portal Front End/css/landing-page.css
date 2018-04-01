@@ -12,6 +12,15 @@ h6 {
   font-weight: 700;
 }
 
+#returnBlock{
+  display: block;
+}
+
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+
 header.masthead {
   position: relative;
   background-color: #343a40;
@@ -37,6 +46,8 @@ header.masthead .overlay {
 header.masthead h1 {
   font-size: 2rem;
 }
+
+.
 
 @media (min-width: 768px) {
   header.masthead {
