@@ -2,21 +2,26 @@
     var oneWayButton = document.getElementById("OneWay");
     var devButton = document.getElementById("Developer");
 
+    var devDateToday = false;
+
     returnButton.onclick = function() {
       $('#returnDate').show();
       $("#devDate").addClass('hidden');
+      devDateToday = false;
 
     } 
 
     oneWayButton.onclick = function() {
       $('#returnDate').hide();
       $("#devDate").addClass('hidden');
+      devDateToday = false;
 
     } 
 
     devButton.onclick = function() {
       $('#returnDate').show();
       $("#devDate").removeClass('hidden');
+      devDateToday = true;
     } 
 
     
@@ -45,9 +50,12 @@
 
         var dateTo = document.getElementById("dateTo").value;
         var dateFrom = document.getElementById("dateFrom").value;
+        var dateToday = document.getElementById("dateToday").value;
 
         if(dateTo === ""){
           var dateArray = getDates(new Date(), new Date(dateFrom));
+        } else if(devDateToday){
+          var dateArray = getDates(new Date(dateToday), new Date(dateTo));
         } else {
           var dateArray = getDates(new Date(), new Date(dateTo));
         }
@@ -67,12 +75,12 @@
         var datasetTo = new Array();
         var datasetFrom = new Array();
 
-        for(j = 0; j < sexyDateArray.length; j++){
-          datasetTo.push(response.Price_To[j].predictions[0]);
+        for(j = 0; j < response.Price_To.length; j++){
+            datasetTo.push(response.Price_To[j].predictions[0]);
         }
 
-        for(k=0; k<response.Price_From.length; k++){
-          datasetFrom.push(response.Price_From[k].predictions[0]);
+        for(k=0; k<response.Price_From.length; k++){         
+            datasetFrom.push(response.Price_From[k].predictions[0]);
         }
           
 
@@ -85,14 +93,14 @@
               label: 'Price From: ' + document.getElementById("flyingFrom").value,
               backgroundColor: window.chartColors.red,
               borderColor: window.chartColors.red,
-              data: datasetTo,
+              data: datasetFrom,
               fill: false,
             }, {
               label: 'Price From: ' + document.getElementById("flyingTo").value,
               fill: false,
               backgroundColor: window.chartColors.blue,
               borderColor: window.chartColors.blue,
-              data: datasetFrom,
+              data: datasetTo,
             }]
           },
           options: {
