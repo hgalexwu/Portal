@@ -11,6 +11,7 @@ from django.views.decorators.csrf import csrf_exempt
 import json
 from oauth2client.client import GoogleCredentials
 import googleapiclient.discovery
+# Deploymention information
 project_name = "astute-backup-134320"
 model_name = "Portal_First_Estimators_Model"
 version_name = "a"
@@ -88,9 +89,11 @@ def predict_json(project, model, instances, version=None):
 def get_distance(flyingFrom,flyingTo):
 	return 0
 
-def get_flight_input(flyingFrom, flyingTo, dateFrom):
-	date_ranges = get_range_dates(date.today(),calculate_date_difference(str(date.today()),dateFrom))
-	
+def get_flight_input(flyingFrom, flyingTo, dateFrom, todayDate):
+	if (todayDate):
+		date_ranges = get_range_dates(datetime.datetime.strptime(todayDate,"%Y-%m-%d"),calculate_date_difference(str(todayDate),dateFrom))
+	else:
+		date_ranges = get_range_dates(date.today(),calculate_date_difference(str(date.today()),dateFrom))
 	# airport files
 	airport_info = json.load(open(AIRPORT_INFO_FILENAME))
 	airport_aliases = json.load(open(AIRPORT_ALIASES_FILENAME))
@@ -191,10 +194,12 @@ def index(request):
 				dateFrom = input_data.replace('dateFrom=','')
 			elif 'dateTo' in input_data:
 				dateTo = input_data.replace('dateTo=','')
-		flight_request_input_from = get_flight_input(flyingFrom, flyingTo, dateFrom)		
+			elif 'todayDate' in input_data:
+				todayDate = input_data.replace('todayDate=','')
+		flight_request_input_from = get_flight_input(flyingFrom, flyingTo, dateFrom, todayDate)		
 		json_response_from = predict_json(project_name, model_name, flight_request_input_from, version_name)
 		if dateTo != "":
-			flight_request_input_to = get_flight_input(flyingTo,flyingFrom,dateTo)
+			flight_request_input_to = get_flight_input(flyingTo,flyingFrom,dateTo,todayDate)
 			json_response_to = predict_json(project_name, model_name, flight_request_input_to, version_name)
 			json_response = {'Price_From': json_response_from, 'Price_To': json_response_to}
 		else:

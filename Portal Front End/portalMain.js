@@ -1,25 +1,3 @@
-var instance = {
-        "arrival": 'KUL',
-        "distance": 16700,
-        "booking_date": "01/07/18",
-        "city_status_destination": 3,
-        "direct": 0,
-        "continent_source": 'NA',
-        "departure": 'MIA',
-        "stops": 2,
-        "city_status_source": 3,
-        "country_source": 'US',
-        "season": 0,
-        "continent_destination": 'AS',
-        "country_destination": 'MY',
-        "airline": 'Air Canada Rouge',
-        "nb_flights_offered": 24,
-        "international": 1,
-        "travel_date": '01/08/18',
-        "month_of_travel": 1,
-        "days_until_departure": 1
-      }
-
     var returnButton = document.getElementById("Return");
     var oneWayButton = document.getElementById("OneWay");
     var devButton = document.getElementById("Developer");
@@ -64,9 +42,6 @@ var instance = {
 
   	    console.log("response received")
   	    console.log(response);
-
-
-        console.log(response.Price_To[0].predictions[0]);
 
         var dateTo = document.getElementById("dateTo").value;
         var dateFrom = document.getElementById("dateFrom").value;
@@ -168,6 +143,7 @@ var instance = {
         var dateFrom = document.getElementById('dateFrom').value;
         var flyingTo = document.getElementById('flyingTo').value;
         var dateTo = document.getElementById('dateTo').value;
+        var dateToday = document.getElementById('dateToday').value;
 
       //Add some if statements for the one way, return and dev type
 
@@ -179,6 +155,7 @@ var instance = {
             flyingTo: flyingTo,
             dateFrom: dateFrom,
             dateTo: dateTo,
+            todayDate: dateToday,
             csrfmiddlewaretoken: '{{ csrf_token }}',
           },
 	        success: callbackFunc
