@@ -13,6 +13,11 @@ h6 {
   font-weight: 700;
 }
 
+.sexyButton {
+  background-color: #59636f;
+  border-color: #f5f7f9;
+}
+
 #returnBlock{
   display: block;
 }
