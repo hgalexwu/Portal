@@ -1,5 +1,5 @@
 //This is to be populated
-var airports = ["YUL", "HKG", "DXB"];
+var airports = ["YUL", "HKG", "DXB", "ATL", "PEK", "HND", "LAX", "ORD", "LHR", "PVG", "CDG", "AMS", "DFW", "CAN", "FRA", "IST", "DEL", "CGK", "SIN", "ICN", "DEN", "BKK", "JFK", "KUL", "SFO", "MAD", "CTU", "LAS", "BCN", "BOM", "YYZ"];
 
 function autocomplete(inp, arr) {
   /*the autocomplete function takes two arguments,
